@@ -1,0 +1,502 @@
+[
+  {
+    "pregunta": "101. La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, tiene por objeto:",
+    "opciones": [
+      "A) Regular el procedimiento administrativo común en el ámbito de la Administración General del Estado.",
+      "B) Regular el procedimiento administrativo común en el ámbito de las Administraciones Públicas.",
+      "C) Regular el procedimiento administrativo común en el ámbito de la Administración Pública estatal, autonómica y local.",
+      "D) Regular el procedimiento administrativo común de los órganos constitucionales."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "102. La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se aplica a:",
+    "opciones": [
+      "A) La Administración General del Estado.",
+      "B) Las Administraciones de las Comunidades Autónomas.",
+      "C) Las Entidades que integran la Administración Local.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "103. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se entiende por interesados en el procedimiento administrativo:",
+    "opciones": [
+      "A) Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.",
+      "B) Quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.",
+      "C) Aquellos cuyos intereses legítimos individuales o colectivos puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "104. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿cuál de los siguientes no es un derecho de los interesados en el procedimiento administrativo?",
+    "opciones": [
+      "A) A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
+      "B) A ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.",
+      "C) A la confidencialidad de los datos personales.",
+      "D) A no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por ésta."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "105. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los derechos de los interesados podrán ser ejercidos:",
+    "opciones": [
+      "A) Por sí mismos o por medio de representante.",
+      "B) Solo por sí mismos.",
+      "C) Solo por medio de representante.",
+      "D) Por sí mismos, salvo que sean menores de edad."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "106. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la representación en el procedimiento administrativo:",
+    "opciones": [
+      "A) Podrá acreditarse por cualquier medio válido en Derecho que deje constancia fidedigna de su existencia.",
+      "B) Deberá acreditarse mediante poder notarial o declaración en comparecencia personal en la oficina pública.",
+      "C) Podrá presumirse en determinados casos establecidos reglamentariamente.",
+      "D) Sólo se admitirá si la solicitud o escrito se presenta por medios electrónicos."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "107. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿quién tiene capacidad de obrar ante las Administraciones Públicas?",
+    "opciones": [
+      "A) Las personas físicas o jurídicas que ostenten capacidad jurídica conforme a las normas civiles.",
+      "B) Los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad o tutela.",
+      "C) Los grupos de afectados, uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "108. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos de las Administraciones Públicas se producirán por el órgano competente, por orden de:",
+    "opciones": [
+      "A) Superior jerárquico.",
+      "B) Inferior jerárquico.",
+      "C) Su titular.",
+      "D) Delegación o sustitución."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "109. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la competencia de los órganos administrativos es:",
+    "opciones": [
+      "A) Irrenunciable.",
+      "B) Delegable.",
+      "C) Susceptible de avocación.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "110. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la delegación de competencias requiere:",
+    "opciones": [
+      "A) Que la ley así lo autorice.",
+      "B) Que el órgano delegante sea superior jerárquico del delegado.",
+      "C) La publicación en el Diario Oficial correspondiente.",
+      "D) Que se realice por escrito y se notifique a los interesados."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "111. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la avocación de competencias requiere:",
+    "opciones": [
+      "A) Que la ley así lo autorice.",
+      "B) Que el órgano avoquente sea inferior jerárquico del avocado.",
+      "C) La publicación en el Diario Oficial correspondiente.",
+      "D) Que se realice por escrito y se notifique a los interesados."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "112. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo máximo para resolver y notificar una resolución expresa en los procedimientos iniciados de oficio es de:",
+    "opciones": [
+      "A) Tres meses.",
+      "B) Seis meses.",
+      "C) Doce meses.",
+      "D) El que fije su normativa reguladora."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "113. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el silencio administrativo en los procedimientos iniciados a solicitud del interesado, si no hay resolución expresa, será:",
+    "opciones": [
+      "A) Positivo.",
+      "B) Negativo.",
+      "C) Positivo, salvo que una norma con rango de ley o de Derecho de la Unión Europea establezca lo contrario.",
+      "D) Negativo, salvo que una norma con rango de ley o de Derecho de la Unión Europea establezca lo contrario."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "114. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el acto administrativo es:",
+    "opciones": [
+      "A) Toda declaración de voluntad, de deseo, de conocimiento o de juicio realizada por la Administración Pública en el ejercicio de una potestad administrativa.",
+      "B) Toda resolución adoptada por la Administración Pública en el ejercicio de una potestad administrativa.",
+      "C) Toda actuación material de la Administración Pública en el ejercicio de una potestad administrativa.",
+      "D) Toda declaración de voluntad de la Administración Pública, sometida al Derecho Administrativo."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "115. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos administrativos serán:",
+    "opciones": [
+      "A) Nulos de pleno derecho o anulables.",
+      "B) Válidos o inválidos.",
+      "C) Firmes o no firmes.",
+      "D) Ejecutivos o no ejecutivos."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "116. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, serán nulos de pleno derecho los actos de las Administraciones Públicas que:",
+    "opciones": [
+      "A) Lesionen el contenido esencial de los derechos y libertades susceptibles de amparo constitucional.",
+      "B) Sean dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+      "C) Tengan un contenido imposible.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "117. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos anulables son aquellos que incurren en cualquier infracción del ordenamiento jurídico, incluso la:",
+    "opciones": [
+      "A) Desviación de poder.",
+      "B) Incompetencia manifiesta.",
+      "C) Prescripción.",
+      "D) Caducidad."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "118. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la notificación de los actos administrativos:",
+    "opciones": [
+      "A) Deberá contener el texto íntegro del acto, con indicación de si es o no definitivo en la vía administrativa, la expresión de los recursos que procedan, órgano ante el que hubieran de presentarse y plazo para interponerlos.",
+      "B) Se practicará en el plazo de diez días a partir de la fecha en que el acto haya sido dictado.",
+      "C) Se practicará por cualquier medio que permita tener constancia de su recepción por el interesado o su representante.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "119. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la publicación de los actos administrativos sustituirá a la notificación:",
+    "opciones": [
+      "A) Cuando así lo establezcan las normas reguladoras de cada procedimiento o cuando lo aconsejen razones de interés público apreciadas por el órgano competente.",
+      "B) Cuando los interesados en el procedimiento sean una pluralidad indeterminada de personas.",
+      "C) Cuando los actos sean de carácter general.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "120. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la validez de los actos administrativos es:",
+    "opciones": [
+      "A) Presunta.",
+      "B) Implícita.",
+      "C) Expresa.",
+      "D) Tácita."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "121. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la eficacia de los actos administrativos es:",
+    "opciones": [
+      "A) Desde la fecha en que se dicten.",
+      "B) Desde la fecha en que se notifiquen o publiquen.",
+      "C) Desde la fecha en que adquieran firmeza.",
+      "D) Desde la fecha en que se ejecuten."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "122. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la ejecución forzosa de los actos administrativos podrá llevarse a cabo por cualquiera de los siguientes medios, salvo:",
+    "opciones": [
+      "A) Apremio sobre el patrimonio.",
+      "B) Ejecución subsidiaria.",
+      "C) Multa coercitiva.",
+      "D) Embargo de bienes."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "123. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los recursos administrativos son:",
+    "opciones": [
+      "A) Recurso de alzada, recurso potestativo de reposición y recurso extraordinario de revisión.",
+      "B) Recurso de alzada y recurso de reposición.",
+      "C) Recurso de alzada y recurso extraordinario de revisión.",
+      "D) Recurso de reposición y recurso extraordinario de revisión."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "124. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el recurso de alzada se interpondrá contra:",
+    "opciones": [
+      "A) Actos que pongan fin a la vía administrativa.",
+      "B) Actos que no pongan fin a la vía administrativa.",
+      "C) Resoluciones de recursos de reposición.",
+      "D) Resoluciones de recursos extraordinarios de revisión."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "125. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo para la interposición del recurso de alzada, si el acto fuera expreso, será de:",
+    "opciones": [
+      "A) Un mes.",
+      "B) Dos meses.",
+      "C) Tres meses.",
+      "D) Seis meses."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "126. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el recurso potestativo de reposición se interpondrá contra:",
+    "opciones": [
+      "A) Actos que pongan fin a la vía administrativa.",
+      "B) Actos que no pongan fin a la vía administrativa.",
+      "C) Resoluciones de recursos de alzada.",
+      "D) Resoluciones de recursos extraordinarios de revisión."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "127. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo para la interposición del recurso potestativo de reposición, si el acto fuera expreso, será de:",
+    "opciones": [
+      "A) Un mes.",
+      "B) Dos meses.",
+      "C) Tres meses.",
+      "D) Seis meses."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "128. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el recurso extraordinario de revisión procederá contra:",
+    "opciones": [
+      "A) Actos firmes en vía administrativa.",
+      "B) Actos que no pongan fin a la vía administrativa.",
+      "C) Resoluciones de recursos de alzada.",
+      "D) Resoluciones de recursos de reposición."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "129. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo para interponer el recurso extraordinario de revisión, cuando se trate de documentos de valor esencial que no pudieron aportarse al expediente, será de:",
+    "opciones": [
+      "A) Tres meses desde su conocimiento.",
+      "B) Cuatro años desde la notificación del acto impugnado.",
+      "C) Un año desde el conocimiento del fraude o falsedad.",
+      "D) Seis meses desde que se dictó la resolución."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "130. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el desistimiento del interesado en el procedimiento administrativo implica:",
+    "opciones": [
+      "A) La terminación del procedimiento, pero no impide que se pueda iniciar un nuevo procedimiento sobre el mismo objeto.",
+      "B) La terminación del procedimiento y la imposibilidad de iniciar un nuevo procedimiento sobre el mismo objeto.",
+      "C) La suspensión del procedimiento, que se reanudará cuando el interesado lo solicite.",
+      "D) La caducidad del procedimiento."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "131. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la renuncia del interesado a sus derechos en el procedimiento administrativo implica:",
+    "opciones": [
+      "A) La terminación del procedimiento, pero no impide que se pueda iniciar un nuevo procedimiento sobre el mismo objeto.",
+      "B) La terminación del procedimiento y la imposibilidad de iniciar un nuevo procedimiento sobre el mismo objeto.",
+      "C) La suspensión del procedimiento, que se reanudará cuando el interesado lo solicite.",
+      "D) La caducidad del procedimiento."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "132. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la caducidad del procedimiento administrativo:",
+    "opciones": [
+      "A) Se produce por la paralización del procedimiento imputable al interesado por un plazo de tres meses.",
+      "B) Se produce por la paralización del procedimiento imputable a la Administración por un plazo de tres meses.",
+      "C) No se produce si el procedimiento tiene por objeto la protección del medio ambiente.",
+      "D) No se produce si el procedimiento tiene por objeto la protección de la salud pública."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "133. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la interrupción de los plazos en el procedimiento administrativo se producirá por:",
+    "opciones": [
+      "A) La realización de cualquier actuación administrativa de impulso del procedimiento.",
+      "B) La petición de informes que sean preceptivos y determinantes del contenido de la resolución.",
+      "C) La suspensión del procedimiento por la existencia de un procedimiento penal.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "134. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la ampliación de los plazos en el procedimiento administrativo podrá concederse por un período de:",
+    "opciones": [
+      "A) La mitad del plazo inicial.",
+      "B) El doble del plazo inicial.",
+      "C) El que se fije en la resolución que la conceda.",
+      "D) Hasta tres meses."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "135. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la tramitación de urgencia del procedimiento administrativo implicará la reducción a la mitad de los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de:",
+    "opciones": [
+      "A) Recursos.",
+      "B) Alegaciones.",
+      "C) Pruebas.",
+      "D) Informes."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "136. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los expedientes administrativos electrónicos deberán contener:",
+    "opciones": [
+      "A) El índice de los documentos que lo integran.",
+      "B) Una copia electrónica de los documentos que lo integran.",
+      "C) Un resumen de los trámites realizados.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "137. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la identificación de los interesados en el procedimiento administrativo podrá realizarse mediante:",
+    "opciones": [
+      "A) Firma electrónica avanzada.",
+      "B) Sistema de claves concertadas o análogas.",
+      "C) Cualquier medio que permita acreditar la identidad de la persona interesada.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "138. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la sede electrónica:",
+    "opciones": [
+      "A) Es la dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones.",
+      "B) Es el punto de acceso electrónico a través del cual los ciudadanos pueden ejercer sus derechos y cumplir sus deberes con la Administración Pública.",
+      "C) Es el conjunto de medios electrónicos que permiten a los ciudadanos acceder a los servicios y trámites de la Administración Pública.",
+      "D) Es el portal de internet de la Administración Pública."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "139. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el registro electrónico general:",
+    "opciones": [
+      "A) Es el único registro válido para la presentación de documentos en la Administración Pública.",
+      "B) Permitirá la presentación de documentos todos los días del año durante las veinticuatro horas del día.",
+      "C) Es el registro en el que se inscriben los documentos presentados por los ciudadanos de forma presencial.",
+      "D) Es el registro en el que se inscriben los documentos presentados por los ciudadanos por correo postal."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "140. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las notificaciones electrónicas se entenderán practicadas:",
+    "opciones": [
+      "A) En el momento en que se produzca el acceso a su contenido.",
+      "B) En el momento en que el ciudadano acceda a la sede electrónica.",
+      "C) En el momento en que el ciudadano acceda al sistema de notificación.",
+      "D) En el momento en que se envíe la notificación al ciudadano."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "141. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los certificados electrónicos:",
+    "opciones": [
+      "A) Son documentos electrónicos que permiten identificar al titular de forma inequívoca.",
+      "B) Son documentos electrónicos que permiten firmar documentos de forma electrónica.",
+      "C) Son documentos electrónicos que permiten acreditar la identidad del titular y firmar documentos de forma electrónica.",
+      "D) Son documentos electrónicos que permiten acceder a los servicios de la Administración Pública."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "142. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la firma electrónica:",
+    "opciones": [
+      "A) Es el conjunto de datos que permiten identificar al firmante de un documento electrónico.",
+      "B) Es el conjunto de datos que permiten garantizar la autenticidad e integridad de un documento electrónico.",
+      "C) Es el conjunto de datos que permiten identificar al firmante y garantizar la autenticidad e integridad de un documento electrónico.",
+      "D) Es el conjunto de datos que permiten acceder a los servicios de la Administración Pública."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "143. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los registros administrativos:",
+    "opciones": [
+      "A) Son los instrumentos que permiten dejar constancia de la entrada y salida de documentos en la Administración Pública.",
+      "B) Son los instrumentos que permiten gestionar los procedimientos administrativos.",
+      "C) Son los instrumentos que permiten archivar los documentos de la Administración Pública.",
+      "D) Son los instrumentos que permiten la comunicación entre las Administraciones Públicas."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "144. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los archivos administrativos:",
+    "opciones": [
+      "A) Son los instrumentos que permiten conservar y gestionar los documentos de la Administración Pública.",
+      "B) Son los instrumentos que permiten archivar los documentos de la Administración Pública.",
+      "C) Son los instrumentos que permiten organizar los documentos de la Administración Pública.",
+      "D) Son los instrumentos que permiten la consulta de los documentos de la Administración Pública."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "145. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las notificaciones por comparecencia electrónica se entenderán practicadas:",
+    "opciones": [
+      "A) Transcurridos diez días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+      "B) En el momento en que el interesado o su representante acceda a la sede electrónica.",
+      "C) En el momento en que el interesado o su representante acceda al sistema de notificación.",
+      "D) En el momento en que se envíe la notificación al ciudadano."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "146. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la interposición de cualquier recurso, excepto el de revisión:",
+    "opciones": [
+      "A) Suspenderá automáticamente la ejecución del acto impugnado.",
+      "B) No suspenderá automáticamente la ejecución del acto impugnado.",
+      "C) Suspenderá la ejecución del acto impugnado si el interesado lo solicita.",
+      "D) Suspenderá la ejecución del acto impugnado si la Administración lo acuerda."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "147. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la avocación de competencias podrá ser ejercida por:",
+    "opciones": [
+      "A) El órgano superior respecto al inferior, en cualquier momento y sobre cualquier asunto.",
+      "B) El órgano superior respecto al inferior, cuando razones técnicas, económicas, sociales, jurídicas o territoriales lo hagan aconsejable.",
+      "C) El órgano superior respecto al inferior, de forma excepcional y en supuestos determinados por ley.",
+      "D) El órgano inferior respecto al superior, cuando concurran circunstancias especiales."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "148. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos administrativos que pongan fin a la vía administrativa son:",
+    "opciones": [
+      "A) Los que resuelvan un recurso de alzada.",
+      "B) Los que resuelvan un recurso de reposición.",
+      "C) Los que sean dictados por órganos que tengan atribuida competencia para resolver en última instancia.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "149. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos de trámite:",
+    "opciones": [
+      "A) Son aquellos que se producen durante la tramitación del procedimiento administrativo y no deciden el fondo del asunto.",
+      "B) Son aquellos que deciden el fondo del asunto y ponen fin al procedimiento administrativo.",
+      "C) Son aquellos que no son susceptibles de recurso administrativo.",
+      "D) Son aquellos que son susceptibles de recurso administrativo."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "150. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la suspensión del procedimiento administrativo se acordará cuando:",
+    "opciones": [
+      "A) Exista un procedimiento penal en curso que condicione directamente el contenido de la resolución administrativa.",
+      "B) Se solicite por el interesado y concurran causas justificadas.",
+      "C) Se acuerde de oficio por la Administración cuando sea necesario para la protección de intereses públicos.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  }
+]
