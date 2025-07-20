@@ -1,0 +1,502 @@
+[
+    {
+    "pregunta": "201. ¿Qué se entiende por contrato del sector público?",
+    "opciones": [
+      "A) Cualquier contrato celebrado por una empresa privada.",
+      "B) Aquellos contratos onerosos, cualquiera que sea su naturaleza jurídica, que celebren las entidades del sector público.",
+      "C) Solo los contratos de obras públicas.",
+      "D) Los contratos entre particulares que afectan a un servicio público."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "202. ¿Cuáles son los principios que rigen la contratación del sector público?",
+    "opciones": [
+      "A) Libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores.",
+      "B) Contratación directa, opacidad y favoritismo.",
+      "C) Competencia desleal y ausencia de publicidad.",
+      "D) Negociación secreta y trato preferente."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "203. ¿Qué órganos son los responsables de la contratación en el sector público?",
+    "opciones": [
+      "A) Los Ministros y los Secretarios de Estado.",
+      "B) Los órganos de contratación, que son los titulares de los órganos administrativos o de las entidades del sector público que tengan atribuida la competencia para contratar.",
+      "C) Las empresas privadas que actúan como intermediarias.",
+      "D) Los órganos consultivos."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "204. ¿Cuál de los siguientes NO es un tipo de contrato del sector público?",
+    "opciones": [
+      "A) Contrato de obras.",
+      "B) Contrato de servicios.",
+      "C) Contrato de arrendamiento entre particulares.",
+      "D) Contrato de suministro."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "205. ¿Qué es un contrato de obras?",
+    "opciones": [
+      "A) Aquel que tiene por objeto la creación de una obra literaria o artística.",
+      "B) Aquel que tiene por objeto la realización de una obra o la ejecución de un trabajo de construcción o ingeniería civil, definido por el proyecto.",
+      "C) El que tiene por objeto la prestación de servicios de consultoría.",
+      "D) El que tiene por objeto la compra de bienes muebles."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "206. ¿Qué es un contrato de suministro?",
+    "opciones": [
+      "A) Aquel que tiene por objeto la adquisición de bienes muebles por el poder adjudicador.",
+      "B) El que tiene por objeto la prestación de servicios de limpieza.",
+      "C) El que tiene por objeto la realización de obras de mantenimiento.",
+      "D) El que tiene por objeto la gestión de servicios públicos."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "207. ¿Qué es un contrato de servicios?",
+    "opciones": [
+      "A) El que tiene por objeto la realización de una obra de construcción.",
+      "B) Aquel que tiene por objeto prestaciones de hacer, tales como las de consultoría y asistencia, los de seguridad y vigilancia, los de limpieza, los de mantenimiento, los informáticos, etc.",
+      "C) El que tiene por objeto la adquisición de bienes muebles.",
+      "D) El que tiene por objeto la concesión de una obra pública."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "208. ¿Qué es un contrato de concesión de obra pública?",
+    "opciones": [
+      "A) Aquel en el que la contraprestación a favor del concesionario consiste únicamente en el derecho a explotar la obra.",
+      "B) Aquel en el que la contraprestación a favor del concesionario consiste únicamente en un precio.",
+      "C) El que tiene por objeto la realización de una obra sin derecho de explotación.",
+      "D) El que tiene por objeto la compra de terrenos para una obra."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "209. ¿Qué es un contrato de concesión de servicios?",
+    "opciones": [
+      "A) El que tiene por objeto la gestión de un servicio público, asumiendo el concesionario el riesgo operacional.",
+      "B) El que tiene por objeto la prestación de servicios de consultoría.",
+      "C) El que tiene por objeto la realización de obras de mantenimiento.",
+      "D) El que tiene por objeto la adquisición de bienes muebles."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "210. ¿Cuál de los siguientes es un procedimiento de adjudicación de contratos?",
+    "opciones": [
+      "A) El procedimiento abierto.",
+      "B) El procedimiento negociado.",
+      "C) El diálogo competitivo.",
+      "D) Todas las anteriores son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "211. El procedimiento abierto se caracteriza por:",
+    "opciones": [
+      "A) Que todo empresario interesado puede presentar una proposición.",
+      "B) Que solo pueden presentar proposiciones aquellos empresarios previamente invitados por el órgano de contratación.",
+      "C) Que el órgano de contratación negocia las condiciones del contrato con uno o varios empresarios.",
+      "D) Que no se requiere publicidad."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "212. El procedimiento restringido se caracteriza por:",
+    "opciones": [
+      "A) Que todo empresario interesado puede presentar una proposición.",
+      "B) Que solo pueden presentar proposiciones aquellos empresarios seleccionados por el órgano de contratación previa solicitud y cumplimiento de criterios de solvencia.",
+      "C) Que el órgano de contratación negocia las condiciones del contrato con uno o varios empresarios.",
+      "D) Que no se requiere publicidad."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "213. El procedimiento negociado se caracteriza por:",
+    "opciones": [
+      "A) Que el órgano de contratación negocia las condiciones del contrato con uno o varios empresarios.",
+      "B) Que todo empresario interesado puede presentar una proposición.",
+      "C) Que solo pueden presentar proposiciones aquellos empresarios previamente invitados por el órgano de contratación.",
+      "D) Que no se requiere publicidad."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "214. El diálogo competitivo se utiliza en casos de:",
+    "opciones": [
+      "A) Contratos sencillos y de poca cuantía.",
+      "B) Contratos especialmente complejos en los que el órgano de contratación no puede definir las soluciones técnicas o financieras o las condiciones jurídicas del proyecto.",
+      "C) Contratos de servicios de consultoría exclusivamente.",
+      "D) Contratos de obras de pequeña envergadura."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "215. ¿Qué es la Mesa de Contratación?",
+    "opciones": [
+      "A) Un órgano unipersonal que adjudica los contratos.",
+      "B) Un órgano colegiado de asistencia al órgano de contratación en los procedimientos de adjudicación de contratos, en los casos previstos en la Ley.",
+      "C) Un órgano de control externo de la contratación.",
+      "D) Un órgano consultivo sin capacidad de decisión."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "216. ¿Quién forma parte de la Mesa de Contratación?",
+    "opciones": [
+      "A) Solo personal técnico.",
+      "B) El Presidente, los vocales y el Secretario.",
+      "C) Únicamente el órgano de contratación.",
+      "D) Los licitadores."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "217. ¿Qué es el anuncio de licitación?",
+    "opciones": [
+      "A) Una comunicación interna del órgano de contratación.",
+      "B) El acto por el que se da publicidad a la convocatoria de un procedimiento de contratación, invitando a los interesados a presentar ofertas.",
+      "C) El resultado de la adjudicación de un contrato.",
+      "D) Un informe técnico sobre el objeto del contrato."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "218. ¿Dónde se publican los anuncios de licitación de los contratos sujetos a regulación armonizada?",
+    "opciones": [
+      "A) Solo en el perfil de contratante.",
+      "B) En el Diario Oficial de la Unión Europea (DOUE).",
+      "C) En el Boletín Oficial del Estado (BOE) exclusivamente.",
+      "D) En periódicos locales."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "219. ¿Qué es el perfil de contratante?",
+    "opciones": [
+      "A) Un documento físico donde se archivan los contratos.",
+      "B) El punto de acceso electrónico donde se publica la información relativa a la actividad contractual del órgano de contratación, para garantizar la transparencia y el acceso público a la misma.",
+      "C) Un registro de empresas contratistas.",
+      "D) Una base de datos interna de la Administración."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "220. ¿Qué se entiende por oferta económica más ventajosa?",
+    "opciones": [
+      "A) La oferta que presenta el precio más bajo.",
+      "B) La oferta que obtiene la mejor relación calidad-precio, valorada en base a criterios económicos y cualitativos relacionados con el objeto del contrato.",
+      "C) La oferta que se presenta en primer lugar.",
+      "D) La oferta presentada por una empresa con sede en España."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "221. ¿Qué es la adjudicación de un contrato?",
+    "opciones": [
+      "A) El acto por el que se inicia el procedimiento de contratación.",
+      "B) El acto por el que el órgano de contratación elige la oferta más ventajosa y formaliza el contrato con el licitador seleccionado.",
+      "C) La fase de preparación del contrato.",
+      "D) La ejecución de las obras o servicios objeto del contrato."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "222. ¿Cuál es el plazo para la formalización del contrato?",
+    "opciones": [
+      "A) Quince días hábiles siguientes al de la notificación de la adjudicación.",
+      "B) Un mes siguiente a la adjudicación.",
+      "C) Tres meses siguientes a la adjudicación.",
+      "D) No hay plazo establecido."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "223. ¿Qué ocurre si el adjudicatario no formaliza el contrato en el plazo establecido?",
+    "opciones": [
+      "A) Se le otorga un plazo adicional.",
+      "B) Se considera que ha desistido de su derecho a formalizar el contrato, perdiendo la garantía definitiva que, en su caso, hubiera constituido.",
+      "C) El contrato se formaliza automáticamente.",
+      "D) Se negocia un nuevo contrato."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "224. La modificación de los contratos del sector público se regirá por los principios de:",
+    "opciones": [
+      "A) Arbitrariedad y discrecionalidad.",
+      "B) Transparencia, no discriminación e igualdad de trato, y proporcionalidad.",
+      "C) Secreto y opacidad.",
+      "D) Negociación directa sin publicidad."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "225. ¿Cuándo se puede modificar un contrato del sector público?",
+    "opciones": [
+      "A) Siempre que lo solicite el contratista.",
+      "B) Solo en los casos y con los límites previstos en la Ley.",
+      "C) Cuando el órgano de contratación lo considere oportuno.",
+      "D) Nunca, una vez formalizado el contrato."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "226. La extinción de los contratos del sector público puede producirse por:",
+    "opciones": [
+      "A) Cumplimiento.",
+      "B) Resolución.",
+      "C) Mutuo acuerdo entre las partes.",
+      "D) Todas las anteriores son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "227. ¿Qué es la resolución de un contrato?",
+    "opciones": [
+      "A) La finalización del contrato por mutuo acuerdo.",
+      "B) La extinción del contrato por incumplimiento de alguna de las partes o por otras causas legalmente previstas.",
+      "C) La modificación de las condiciones del contrato.",
+      "D) La suspensión temporal del contrato."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "228. ¿Cuál de las siguientes es una causa de resolución de los contratos del sector público?",
+    "opciones": [
+      "A) El incumplimiento de las obligaciones contractuales esenciales por el contratista.",
+      "B) La voluntad unilateral del contratista sin causa justificada.",
+      "C) El retraso en la ejecución del contrato por causas imputables al contratista, siempre que el retraso supere el 5% del plazo de ejecución.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "229. En caso de resolución de un contrato por incumplimiento del contratista, ¿qué se puede exigir?",
+    "opciones": [
+      "A) Solo la devolución de las cantidades pagadas.",
+      "B) La incautación de la garantía definitiva y la indemnización de los daños y perjuicios ocasionados.",
+      "C) La continuidad del contrato con un nuevo contratista.",
+      "D) La suspensión temporal de la ejecución."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "230. ¿Qué es el recurso especial en materia de contratación?",
+    "opciones": [
+      "A) Un recurso contencioso-administrativo.",
+      "B) Un recurso administrativo especial que se puede interponer contra determinados actos en el procedimiento de contratación, antes de la formalización del contrato.",
+      "C) Un recurso de alzada contra la adjudicación de un contrato.",
+      "D) Un recurso de reposición contra la exclusión de un licitador."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "231. ¿Contra qué actos procede el recurso especial en materia de contratación?",
+    "opciones": [
+      "A) Contra el anuncio de licitación.",
+      "B) Contra los pliegos y documentos contractuales que establezcan las condiciones que hayan de regir la contratación.",
+      "C) Contra el acuerdo de adjudicación.",
+      "D) Todas las anteriores son correctas, siempre que el valor estimado del contrato sea superior a determinados umbrales."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "232. ¿Cuál es el plazo para interponer el recurso especial en materia de contratación?",
+    "opciones": [
+      "A) Quince días hábiles desde la publicación o notificación del acto recurrible.",
+      "B) Un mes desde la publicación o notificación del acto recurrible.",
+      "C) Tres meses desde la publicación o notificación del acto recurrible.",
+      "D) No hay plazo."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "233. ¿Quién es el órgano competente para resolver el recurso especial en materia de contratación?",
+    "opciones": [
+      "A) El órgano de contratación.",
+      "B) El Tribunal Administrativo Central de Recursos Contractuales o, en su caso, los órganos correspondientes de las Comunidades Autónomas.",
+      "C) Los tribunales de justicia.",
+      "D) El Consejo de Estado."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "234. ¿Qué efectos produce la interposición del recurso especial en materia de contratación?",
+    "opciones": [
+      "A) La suspensión automática del procedimiento de contratación, salvo que se acuerde lo contrario de forma motivada.",
+      "B) La continuación del procedimiento sin interrupción.",
+      "C) La anulación del acto recurrida de forma inmediata.",
+      "D) La imposibilidad de interponer otros recursos."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "235. La Ley de Prevención de Riesgos Laborales (Ley 31/1995, de 8 de noviembre) tiene por objeto:",
+    "opciones": [
+      "A) Regular las relaciones laborales entre empresarios y trabajadores.",
+      "B) Promover la seguridad y salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de los riesgos derivados del trabajo.",
+      "C) Establecer las indemnizaciones por accidentes de trabajo.",
+      "D) Regular el horario de trabajo."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "236. ¿Cuál es el principio fundamental de la acción preventiva?",
+    "opciones": [
+      "A) Proteger a los trabajadores una vez que se ha producido el daño.",
+      "B) Evitar los riesgos, evaluar los riesgos que no se puedan evitar y combatir los riesgos en su origen.",
+      "C) Priorizar la producción sobre la seguridad.",
+      "D) Delegar la responsabilidad de la prevención en los trabajadores."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "237. ¿Quién es el responsable de la seguridad y salud en el trabajo en la empresa?",
+    "opciones": [
+      "A) El trabajador exclusivamente.",
+      "B) El empresario.",
+      "C) Los representantes de los trabajadores.",
+      "D) Las Administraciones Públicas."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "238. La evaluación de riesgos laborales es:",
+    "opciones": [
+      "A) Un procedimiento opcional en las empresas.",
+      "B) La identificación y valoración de los riesgos existentes en los puestos de trabajo que puedan afectar a la seguridad y salud de los trabajadores.",
+      "C) La determinación de las sanciones por incumplimiento de la normativa.",
+      "D) Un informe médico de los trabajadores."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "239. ¿Cuándo se debe realizar una evaluación de riesgos laborales?",
+    "opciones": [
+      "A) Solo al inicio de la actividad de la empresa.",
+      "B) Inicialmente, cuando cambien las condiciones de trabajo, o cuando se hayan producido daños para la salud de los trabajadores.",
+      "C) Una vez al año, sin excepción.",
+      "D) Solo cuando lo exija la Inspección de Trabajo."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "240. ¿Qué se entiende por planificación de la actividad preventiva?",
+    "opciones": [
+      "A) La realización de cursos de formación para los trabajadores.",
+      "B) La adopción de medidas y el establecimiento de procedimientos para la eliminación o reducción de los riesgos, una vez evaluados.",
+      "C) La contratación de servicios de prevención ajenos.",
+      "D) La distribución de equipos de protección individual."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "241. ¿Qué son los equipos de protección individual (EPI)?",
+    "opciones": [
+      "A) Equipos utilizados para la protección colectiva de los trabajadores.",
+      "B) Cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud, así como cualquier complemento o accesorio destinado a tal fin.",
+      "C) Herramientas de trabajo que no tienen que ver con la seguridad.",
+      "D) Equipos utilizados para la vigilancia de la salud."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "242. La vigilancia de la salud de los trabajadores es:",
+    "opciones": [
+      "A) Un derecho de los trabajadores que siempre es obligatorio.",
+      "B) Un deber del empresario que siempre es obligatorio.",
+      "C) Obligatoria en determinados casos, respetando siempre el derecho a la intimidad y a la dignidad de la persona del trabajador.",
+      "D) Un procedimiento voluntario para el empresario."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "243. ¿Quién es el encargado de la vigilancia de la salud de los trabajadores?",
+    "opciones": [
+      "A) El empresario directamente.",
+      "B) El Servicio de Prevención de la empresa.",
+      "C) Los propios trabajadores.",
+      "D) Un médico de familia."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "244. La formación en materia de prevención de riesgos laborales debe ser:",
+    "opciones": [
+      "A) Teórica exclusivamente.",
+      "B) Práctica y teórica, suficiente y adecuada, y se impartirá al inicio de la relación laboral, cuando cambien las funciones o se introduzcan nuevas tecnologías o equipos.",
+      "C) Una vez al año sin excepción.",
+      "D) Opcional para los trabajadores."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "245. ¿Qué son los Delegados de Prevención?",
+    "opciones": [
+      "A) Los trabajadores designados por el empresario para llevar a cabo actividades preventivas.",
+      "B) Los representantes de los trabajadores con funciones específicas en materia de prevención de riesgos laborales.",
+      "C) Los técnicos de prevención contratados por la empresa.",
+      "D) Los miembros del Comité de Seguridad y Salud que no son representantes de los trabajadores."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "246. El Comité de Seguridad y Salud es un órgano paritario y colegiado de participación destinado a la consulta regular y periódica de las actuaciones de la empresa en materia de prevención de riesgos.",
+    "opciones": [
+      "A) Verdadero.",
+      "B) Falso.",
+      "C) Solo en empresas de más de 500 trabajadores.",
+      "D) Es un órgano voluntario."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "247. ¿Quiénes forman parte del Comité de Seguridad y Salud?",
+    "opciones": [
+      "A) Solo el empresario y sus representantes.",
+      "B) Solo los Delegados de Prevención.",
+      "C) Los Delegados de Prevención y el empresario o sus representantes en número igual al de los Delegados de Prevención.",
+      "D) Cualquier trabajador de la empresa."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "248. ¿Con qué periodicidad se reunirá el Comité de Seguridad y Salud?",
+    "opciones": [
+      "A) Una vez al año.",
+      "B) Trimestralmente y siempre que lo solicite alguna de las representaciones en el mismo.",
+      "C) Mensualmente.",
+      "D) Cada seis meses."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "249. ¿Qué se entiende por accidente de trabajo?",
+    "opciones": [
+      "A) Toda lesión corporal que el trabajador sufra con ocasión o por consecuencia del trabajo que ejecute por cuenta ajena.",
+      "B) Cualquier lesión sufrida fuera del horario laboral.",
+      "C) Una enfermedad común.",
+      "D) Un incidente sin daño físico."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "250. ¿Qué se entiende por enfermedad profesional?",
+    "opciones": [
+      "A) Cualquier enfermedad que contraiga el trabajador.",
+      "B) La contraída a consecuencia del trabajo ejecutado por cuenta ajena en las actividades que se especifiquen en el cuadro de enfermedades profesionales, y que esté provocada por la acción de los elementos o sustancias que en dicho cuadro se indiquen para cada enfermedad.",
+      "C) Una enfermedad crónica que ya padecía el trabajador.",
+      "D) Una enfermedad contagiosa sin relación con el trabajo."
+    ],
+    "respuesta_correcta": 1
+  }
+]
