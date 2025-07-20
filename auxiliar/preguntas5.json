@@ -1,502 +1,502 @@
 [
-  {
-    "pregunta": "201. La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, tiene por objeto:",
+ {
+    "pregunta": "201. Las acciones de las personas incluidas en el campo de aplicación del sistema de la Seguridad Social, derivadas de los derechos y obligaciones que la Ley General de la Seguridad Social establece, prescribirán:",
     "opciones": [
-      "A) Adaptar el ordenamiento jurídico español al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016.",
-      "B) Garantizar los derechos digitales de los ciudadanos.",
-      "C) Regular el tratamiento de los datos personales por parte de las Administraciones Públicas.",
-      "D) Todas las anteriores."
+      "A) A los cinco años, contados desde el día en que pudieron ejercitarse.",
+      "B) A los seis años, contados desde el día en que pudieron ejercitarse.",
+      "C) A los cuatro años, contados desde el día en que pudieron ejercitarse.",
+      "D) A los tres años, contados desde el día en que pudieron ejercitarse."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "202. La prescripción quedará interrumpida por las siguientes causas, señale la respuesta correcta:",
+    "opciones": [
+      "A) Por las reclamaciones ante la Administración de la Seguridad Social o ante el Ministerio Fiscal.",
+      "B) Por las reclamaciones ante la Administración de la Seguridad Social o ante los Tribunales de Justicia.",
+      "C) Por las reclamaciones ante la Administración de la Seguridad Social, así como por los recursos y por cualquier actuación administrativa o judicial realizada con conocimiento del interesado en el expediente.",
+      "D) Por las reclamaciones ante la Administración de la Seguridad Social o por los recursos."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "203. Señale la respuesta correcta. Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, son imprescriptibles:",
+    "opciones": [
+      "A) Las acciones para la fijación inicial de la base reguladora de las prestaciones.",
+      "B) Las acciones para el reconocimiento de las prestaciones ya reconocidas.",
+      "C) Las acciones para la fijación inicial de la cuantía de las prestaciones.",
+      "D) Las acciones para la fijación inicial del hecho causante de las prestaciones."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "204. ¿Cuáles de los siguientes no son órganos gestores de la Seguridad Social?",
+    "opciones": [
+      "A) La Tesorería General de la Seguridad Social.",
+      "B) El Instituto Nacional de la Seguridad Social.",
+      "C) El Instituto Social de la Marina.",
+      "D) El Servicio Público de Empleo Estatal."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "202. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el tratamiento de datos personales:",
+    "pregunta": "205. ¿Cuáles de los siguientes no son órganos gestores de la Seguridad Social?",
     "opciones": [
-      "A) Es toda operación o conjunto de operaciones realizadas sobre datos personales o conjuntos de datos personales, ya sea por procedimientos automatizados o no, como la recogida, registro, organización, estructuración, conservación, adaptación o modificación, extracción, consulta, utilización, comunicación por transmisión, difusión o cualquier otra forma de habilitación de acceso, cotejo o interconexión, limitación, supresión o destrucción.",
-      "B) Es toda operación o conjunto de operaciones realizadas sobre datos personales, ya sea por procedimientos automatizados o no.",
-      "C) Es toda operación o conjunto de operaciones realizadas sobre datos personales o conjuntos de datos personales, ya sea por procedimientos automatizados o no, como la recogida, registro y conservación.",
-      "D) Es toda operación o conjunto de operaciones realizadas sobre datos personales o conjuntos de datos personales, ya sea por procedimientos automatizados o no, como la recogida, registro y organización."
+      "A) La Tesorería General de la Seguridad Social.",
+      "B) El Instituto Nacional de Gestión Sanitaria (INGESA).",
+      "C) El Instituto Social de la Marina.",
+      "D) El Instituto de Mayores y Servicios Sociales (IMSERSO)."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "203. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el consentimiento del interesado para el tratamiento de sus datos personales deberá ser:",
+    "pregunta": "206. Según el Real Decreto 1555/2018, de 7 de diciembre, por el que se crea y regula el Observatorio Estatal de la Soledad no Deseada, el Observatorio es:",
     "opciones": [
-      "A) Libre, específico, informado e inequívoco.",
-      "B) Libre e informado.",
-      "C) Expreso o tácito.",
-      "D) Escrito."
+      "A) Un órgano colegiado, adscrito a la Secretaría de Estado de Derechos Sociales del Ministerio de Derechos Sociales y Agenda 2030.",
+      "B) Un órgano administrativo, adscrito a la Secretaría de Estado de Derechos Sociales del Ministerio de Derechos Sociales y Agenda 2030.",
+      "C) Un órgano unipersonal, adscrito a la Secretaría de Estado de Derechos Sociales del Ministerio de Derechos Sociales y Agenda 2030.",
+      "D) Una entidad de Derecho público, adscrita a la Secretaría de Estado de Derechos Sociales del Ministerio de Derechos Sociales y Agenda 2030."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "204. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, los datos personales de categorías especiales son aquellos que revelen:",
+    "pregunta": "207. ¿Cuál es el objeto de la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales?",
     "opciones": [
-      "A) El origen étnico o racial, las opiniones políticas, las convicciones religiosas o filosóficas, o la afiliación sindical.",
-      "B) Los datos genéticos, datos biométricos dirigidos a identificar de manera unívoca a una persona física, datos relativos a la salud o datos relativos a la vida sexual o la orientación sexual de una persona física.",
-      "C) La ideología, la afiliación sindical, la religión, las creencias, la salud, el origen racial, la vida sexual.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "205. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho de acceso a los datos personales implica:",
-    "opciones": [
-      "A) Obtener del responsable del tratamiento confirmación de si se están tratando o no datos personales que le conciernen y, en tal caso, acceso a los mismos y a determinada información.",
-      "B) Obtener del responsable del tratamiento la rectificación de los datos personales inexactos o incompletos que le conciernan.",
-      "C) Obtener del responsable del tratamiento la supresión de los datos personales que le conciernan.",
-      "D) Obtener del responsable del tratamiento la limitación del tratamiento de los datos personales que le conciernan."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "206. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho de rectificación de los datos personales implica:",
-    "opciones": [
-      "A) Obtener del responsable del tratamiento confirmación de si se están tratando o no datos personales que le conciernen y, en tal caso, acceso a los mismos y a determinada información.",
-      "B) Obtener del responsable del tratamiento la rectificación de los datos personales inexactos o incompletos que le conciernan.",
-      "C) Obtener del responsable del tratamiento la supresión de los datos personales que le conciernan.",
-      "D) Obtener del responsable del tratamiento la limitación del tratamiento de los datos personales que le conciernan."
+      "A) Determinar el cuerpo básico de garantías y responsabilidades para asegurar un adecuado nivel de protección de la salud de los trabajadores frente a los riesgos derivados de las condiciones de trabajo.",
+      "B) La determinación del cuerpo básico de garantías y responsabilidades preciso para establecer un adecuado nivel de protección de la salud de los trabajadores frente a los riesgos derivados de las condiciones de trabajo.",
+      "C) Establecer el cuerpo básico de garantías y responsabilidades que sean precisas para establecer un adecuado nivel de protección de la salud de los trabajadores frente a los riesgos derivados de las condiciones de trabajo.",
+      "D) Determinar el cuerpo básico de garantías y responsabilidades preciso para adecuar el nivel de protección de la salud de los trabajadores frente a los riesgos derivados de las condiciones de trabajo."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "207. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho de supresión de los datos personales implica:",
+    "pregunta": "208. Según el Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, se considera que un trabajador está especialmente sensible a los riesgos derivados del trabajo, salvo:",
     "opciones": [
-      "A) Obtener del responsable del tratamiento confirmación de si se están tratando o no datos personales que le conciernen y, en tal caso, acceso a los mismos y a determinada información.",
-      "B) Obtener del responsable del tratamiento la rectificación de los datos personales inexactos o incompletos que le conciernan.",
-      "C) Obtener del responsable del tratamiento la supresión de los datos personales que le conciernan.",
-      "D) Obtener del responsable del tratamiento la limitación del tratamiento de los datos personales que le conciernan."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "208. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho a la limitación del tratamiento de los datos personales implica:",
-    "opciones": [
-      "A) Obtener del responsable del tratamiento confirmación de si se están tratando o no datos personales que le conciernen y, en tal caso, acceso a los mismos y a determinada información.",
-      "B) Obtener del responsable del tratamiento la rectificación de los datos personales inexactos o incompletos que le conciernan.",
-      "C) Obtener del responsable del tratamiento la supresión de los datos personales que le conciernan.",
-      "D) Obtener del responsable del tratamiento la limitación del tratamiento de los datos personales que le conciernan."
+      "A) Que el trabajador tenga alguna discapacidad reconocida.",
+      "B) Las trabajadoras en situación de embarazo o parto reciente.",
+      "C) Los menores.",
+      "D) Los mayores."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "209. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho a la portabilidad de los datos personales implica:",
+    "pregunta": "209. Según el Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, la planificación de la actividad preventiva deberá incluir, en todo caso:",
     "opciones": [
-      "A) Recibir los datos personales que le incumben, que haya facilitado a un responsable del tratamiento, en un formato estructurado, de uso común y lectura mecánica, y a transmitirlos a otro responsable del tratamiento sin que lo impida el responsable al que se los hubiera facilitado.",
-      "B) Oponerse en cualquier momento, por motivos relacionados con su situación particular, a que datos personales que le conciernen sean objeto de un tratamiento.",
-      "C) No ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte significativamente de modo similar.",
-      "D) Ser informado antes de que sus datos personales sean tratados con fines de mercadotecnia directa."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "210. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho de oposición al tratamiento de los datos personales implica:",
-    "opciones": [
-      "A) Recibir los datos personales que le incumben, que haya facilitado a un responsable del tratamiento, en un formato estructurado, de uso común y lectura mecánica, y a transmitirlos a otro responsable del tratamiento sin que lo impida el responsable al que se los hubiera facilitado.",
-      "B) Oponerse en cualquier momento, por motivos relacionados con su situación particular, a que datos personales que le conciernen sean objeto de un tratamiento.",
-      "C) No ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte significativamente de modo similar.",
-      "D) Ser informado antes de que sus datos personales sean tratados con fines de mercadotecnia directa."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "211. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el responsable del tratamiento de los datos personales es:",
-    "opciones": [
-      "A) La persona física o jurídica, autoridad pública, servicio u otro organismo que, solo o junto con otros, determine los fines y medios del tratamiento.",
-      "B) La persona física o jurídica, autoridad pública, servicio u otro organismo que trate datos personales por cuenta del responsable del tratamiento.",
-      "C) La persona física o jurídica, autoridad pública, servicio u otro organismo que sea titular de los datos personales.",
-      "D) La persona física o jurídica, autoridad pública, servicio u otro organismo que sea el destinatario de los datos personales."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "212. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el encargado del tratamiento de los datos personales es:",
-    "opciones": [
-      "A) La persona física o jurídica, autoridad pública, servicio u otro organismo que, solo o junto con otros, determine los fines y medios del tratamiento.",
-      "B) La persona física o jurídica, autoridad pública, servicio u otro organismo que trate datos personales por cuenta del responsable del tratamiento.",
-      "C) La persona física o jurídica, autoridad pública, servicio u otro organismo que sea titular de los datos personales.",
-      "D) La persona física o jurídica, autoridad pública, servicio u otro organismo que sea el destinatario de los datos personales."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "213. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el Delegado de Protección de Datos es:",
-    "opciones": [
-      "A) La persona física o jurídica que vela por el cumplimiento de la normativa de protección de datos personales en el responsable o encargado del tratamiento.",
-      "B) La persona física o jurídica que ejerce las funciones de control y supervisión del cumplimiento de la normativa de protección de datos personales.",
-      "C) La persona física o jurídica que representa al responsable o encargado del tratamiento en materia de protección de datos personales.",
-      "D) La persona física o jurídica que asiste al responsable o encargado del tratamiento en el cumplimiento de la normativa de protección de datos personales."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "214. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, la Agencia Española de Protección de Datos es:",
-    "opciones": [
-      "A) Una autoridad de control independiente encargada de velar por el cumplimiento de la normativa de protección de datos personales.",
-      "B) Un organismo público encargado de promover la protección de datos personales.",
-      "C) Una entidad encargada de asesorar a los responsables y encargados del tratamiento en materia de protección de datos personales.",
-      "D) Una entidad encargada de resolver las reclamaciones de los interesados en materia de protección de datos personales."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "215. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, las infracciones en materia de protección de datos personales se clasifican en:",
-    "opciones": [
-      "A) Leves, graves y muy graves.",
-      "B) Leves, graves y muy graves, atendiendo a su naturaleza y entidad.",
-      "C) Leves, graves y muy graves, atendiendo a su naturaleza, entidad y reincidencia.",
-      "D) Leves, graves y muy graves, atendiendo a su naturaleza, entidad, reincidencia y perjuicio causado."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "216. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, las sanciones en materia de protección de datos personales podrán ser:",
-    "opciones": [
-      "A) Multas, amonestaciones y suspensión de actividades.",
-      "B) Multas, apercibimientos y prohibición temporal o definitiva del tratamiento.",
-      "C) Multas, cese de la actividad y revocación de autorizaciones.",
-      "D) Multas, cancelación de ficheros y suspensión de actividades."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "217. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho a la desconexión digital implica:",
-    "opciones": [
-      "A) El derecho de los trabajadores a no responder a comunicaciones empresariales fuera de su horario de trabajo.",
-      "B) El derecho de los trabajadores a no estar conectados a dispositivos digitales fuera de su horario de trabajo.",
-      "C) El derecho de los trabajadores a no recibir comunicaciones empresariales fuera de su horario de trabajo, salvo causa de fuerza mayor o circunstancias excepcionales.",
-      "D) El derecho de los trabajadores a no estar conectados a dispositivos digitales fuera de su horario de trabajo, salvo causa de fuerza mayor o circunstancias excepcionales."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "218. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho a la educación digital implica:",
-    "opciones": [
-      "A) El derecho de los menores a acceder a contenidos digitales adecuados a su edad y madurez.",
-      "B) El derecho de los menores a recibir formación en el uso seguro y responsable de Internet.",
-      "C) El derecho de los menores a participar en actividades educativas que fomenten el uso seguro y responsable de Internet.",
-      "D) El derecho de los menores a la protección de sus datos personales en el ámbito digital."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "219. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho al olvido en búsquedas de Internet implica:",
-    "opciones": [
-      "A) El derecho a que los motores de búsqueda de Internet eliminen los enlaces a informaciones que, siendo verdaderas, sean inadecuadas, incompletas, no pertinentes o excesivas o no actualizadas.",
-      "B) El derecho a que los motores de búsqueda de Internet eliminen los enlaces a informaciones que, siendo falsas, sean inadecuadas, incompletas, no pertinentes o excesivas o no actualizadas.",
-      "C) El derecho a que los motores de búsqueda de Internet eliminen los enlaces a informaciones que, siendo verdaderas, sean perjudiciales para el interesado.",
-      "D) El derecho a que los motores de búsqueda de Internet eliminen los enlaces a informaciones que, siendo falsas, sean perjudiciales para el interesado."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "220. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho a la libertad de expresión en Internet implica:",
-    "opciones": [
-      "A) El derecho a la libre expresión de ideas y opiniones en Internet, sin censura previa.",
-      "B) El derecho a la libre expresión de ideas y opiniones en Internet, con las limitaciones establecidas en la ley.",
-      "C) El derecho a la libre expresión de ideas y opiniones en Internet, sin limitación alguna.",
-      "D) El derecho a la libre expresión de ideas y opiniones en Internet, sin perjuicio de los derechos de terceros."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "221. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho a la neutralidad de la red implica:",
-    "opciones": [
-      "A) El derecho a que los operadores de redes y servicios de comunicaciones electrónicas traten el tráfico de datos de forma equitativa, sin discriminación ni interferencias.",
-      "B) El derecho a que los operadores de redes y servicios de comunicaciones electrónicas traten el tráfico de datos de forma prioritaria para determinados servicios.",
-      "C) El derecho a que los operadores de redes y servicios de comunicaciones electrónicas traten el tráfico de datos de forma diferenciada para determinados servicios.",
-      "D) El derecho a que los operadores de redes y servicios de comunicaciones electrónicas traten el tráfico de datos de forma ilimitada."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "222. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho a la seguridad digital implica:",
-    "opciones": [
-      "A) El derecho a que las Administraciones Públicas garanticen la seguridad de las comunicaciones electrónicas y de los datos personales.",
-      "B) El derecho a que los prestadores de servicios de la sociedad de la información garanticen la seguridad de las comunicaciones electrónicas y de los datos personales.",
-      "C) El derecho a que los usuarios adopten medidas de seguridad para proteger sus comunicaciones electrónicas y sus datos personales.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "223. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, la edad mínima para el consentimiento del tratamiento de datos personales de menores es de:",
-    "opciones": [
-      "A) 13 años.",
-      "B) 14 años.",
-      "C) 16 años.",
-      "D) 18 años."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "224. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, la Agencia Española de Protección de Datos podrá imponer sanciones por un importe de hasta:",
-    "opciones": [
-      "A) 20 millones de euros o, tratándose de una empresa, de una cuantía equivalente al 4% del volumen de negocio total anual global del ejercicio financiero anterior.",
-      "B) 10 millones de euros o, tratándose de una empresa, de una cuantía equivalente al 2% del volumen de negocio total anual global del ejercicio financiero anterior.",
-      "C) 5 millones de euros o, tratándose de una empresa, de una cuantía equivalente al 1% del volumen de negocio total anual global del ejercicio financiero anterior.",
-      "D) 1 millón de euros o, tratándose de una empresa, de una cuantía equivalente al 0,5% del volumen de negocio total anual global del ejercicio financiero anterior."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "225. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, la obligación de notificar las violaciones de la seguridad de los datos personales a la autoridad de control deberá realizarse en un plazo máximo de:",
-    "opciones": [
-      "A) 24 horas.",
-      "B) 48 horas.",
-      "C) 72 horas.",
-      "D) Una semana."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "226. La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, tiene por objeto:",
-    "opciones": [
-      "A) Regular la transparencia de la actividad pública.",
-      "B) Regular el derecho de acceso de los ciudadanos a la información pública.",
-      "C) Establecer las obligaciones de buen gobierno que deben cumplir los responsables públicos.",
-      "D) Todas las anteriores."
+      "A) Los plazos para su desarrollo.",
+      "B) La asignación de recursos humanos y materiales necesarios para la ejecución de las actividades.",
+      "C) Los plazos de ejecución.",
+      "D) Todas son correctas."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "227. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, se entiende por información pública:",
+    "pregunta": "210. Señale la respuesta incorrecta. Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, el derecho de los trabajadores a la protección frente a los riesgos laborales supone la existencia de un correlativo deber del empresario de protección de los trabajadores frente a los riesgos laborales.",
     "opciones": [
-      "A) Todos los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de alguno de los sujetos incluidos en el ámbito de aplicación de este título y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones.",
-      "B) Todos los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de las Administraciones Públicas y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones.",
-      "C) Todos los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de los sujetos incluidos en el ámbito de aplicación de este título.",
-      "D) Todos los contenidos o documentos, cualquiera que sea su formato o soporte, que sean de interés público."
+      "A) Este deber de protección constituye, a su vez, un deber de las Administraciones públicas.",
+      "B) Las Administraciones públicas promoverán la mejora de las condiciones de trabajo, con sujeción a lo dispuesto en la presente Ley y en sus normas de desarrollo.",
+      "C) Las Administraciones públicas velarán por el cumplimiento de las obligaciones de los empresarios, sin que afecte a las facultades atribuidas a otras administraciones públicas en materia de prevención de riesgos laborales.",
+      "D) Las Administraciones públicas promoverán la mejora de las condiciones de trabajo con sujeción a lo dispuesto en la presente Ley."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "228. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el derecho de acceso a la información pública es:",
+    "pregunta": "211. Según el Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, ¿cada cuánto tiempo revisará el empresario la evaluación de riesgos laborales?",
     "opciones": [
-      "A) Un derecho fundamental.",
-      "B) Un derecho constitucional.",
-      "C) Un derecho subjetivo.",
-      "D) Un derecho de configuración legal."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "229. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el ejercicio del derecho de acceso a la información pública podrá ser limitado cuando afecte a:",
-    "opciones": [
-      "A) La seguridad nacional.",
-      "B) La defensa.",
-      "C) Las relaciones exteriores.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "230. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la publicidad activa implica:",
-    "opciones": [
-      "A) La obligación de las Administraciones Públicas de publicar de forma periódica y actualizada la información cuyo conocimiento sea relevante para garantizar la transparencia de su actividad.",
-      "B) La obligación de las Administraciones Públicas de publicar toda la información que obre en su poder.",
-      "C) La obligación de las Administraciones Públicas de publicar la información que soliciten los ciudadanos.",
-      "D) La obligación de las Administraciones Públicas de publicar la información que sea de interés público."
+      "A) La evaluación inicial se revisará cuando se produzca algún cambio en las condiciones de trabajo y, en todo caso, con la periodicidad que se establezca en las disposiciones específicas, o a falta de ella, cada año.",
+      "B) La evaluación inicial se revisará cuando se produzca algún cambio en las condiciones de trabajo y, en todo caso, con la periodicidad que se establezca en las disposiciones específicas, o a falta de ella, cada dos años.",
+      "C) La evaluación inicial se revisará cuando se produzca algún cambio en las condiciones de trabajo y, en todo caso, con la periodicidad que se establezca en las disposiciones específicas, o a falta de ella, cada tres años.",
+      "D) La evaluación inicial se revisará cuando se produzca algún cambio en las condiciones de trabajo y, en todo caso, se realizará siempre que se produzcan daños para la salud de los trabajadores."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "231. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la información que debe ser objeto de publicidad activa incluye:",
+    "pregunta": "212. La vigilancia de la salud de los trabajadores, según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, solo podrá llevarse a cabo cuando el trabajador preste su consentimiento, excepto:",
     "opciones": [
-      "A) Información institucional, organizativa y de planificación.",
-      "B) Información de relevancia jurídica.",
-      "C) Información económica, presupuestaria y estadística.",
-      "D) Todas las anteriores."
+      "A) Que la realización de los reconocimientos sea imprescindible para evaluar los efectos de las condiciones de trabajo sobre la salud de los trabajadores.",
+      "B) Que el estado de salud del trabajador pueda constituir un peligro para el mismo.",
+      "C) Que el estado de salud del trabajador pueda constituir un peligro para los demás trabajadores o para otras personas relacionadas con la empresa.",
+      "D) Todas son correctas."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "232. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las solicitudes de acceso a la información pública se dirigirán a:",
+    "pregunta": "213. La información sobre la salud de los trabajadores deberá ajustarse a lo dispuesto en la Ley:",
     "opciones": [
-      "A) La Unidad de Información y Transparencia.",
-      "B) El órgano que posea la información.",
-      "C) El titular del órgano que posea la información.",
-      "D) El responsable de transparencia."
+      "A) Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.",
+      "B) Ley 14/1986, de 25 de abril, General de Sanidad.",
+      "C) Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "214. Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, el coste de las medidas relativas a la seguridad y salud en el trabajo:",
+    "opciones": [
+      "A) No deberá recaer en modo alguno sobre los trabajadores.",
+      "B) Deberá recaer de manera proporcional sobre los trabajadores.",
+      "C) Será asumido conjuntamente por el empresario y los trabajadores.",
+      "D) Podrá ser repercutido en parte sobre los trabajadores."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "215. Según el Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público, ¿cuál de los siguientes no es un tipo de contrato del sector público?",
+    "opciones": [
+      "A) Contrato de obras.",
+      "B) Contrato de concesión de obras públicas.",
+      "C) Contrato de gestión de servicios públicos.",
+      "D) Contrato de servicios especiales."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "216. ¿Cuál de las siguientes no es una de las fases de la tarea de suministro?",
+    "opciones": [
+      "A) Petición de material.",
+      "B) Mapa del hospital.",
+      "C) Gestión de Stock.",
+      "D) Control económico."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "233. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el plazo máximo para resolver las solicitudes de acceso a la información pública es de:",
+    "pregunta": "217. Señale la respuesta correcta en relación al stock de seguridad:",
     "opciones": [
-      "A) 10 días hábiles.",
-      "B) 15 días hábiles.",
-      "C) Un mes.",
-      "D) Dos meses."
+      "A) Es la cantidad mínima imprescindible de un material que debe existir en almacén para no incurrir en roturas de stock.",
+      "B) Es la cantidad máxima de un material que debe existir en almacén para no incurrir en roturas de stock.",
+      "C) Es la cantidad óptima de un material que debe existir en almacén para no incurrir en roturas de stock.",
+      "D) Es la cantidad que determina, en unidades, el número de éstas a partir de la cual debe de realizarse un pedido."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "234. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el silencio administrativo en las solicitudes de acceso a la información pública será:",
+    "pregunta": "218. Señale la respuesta correcta en relación a la Ley de Contratos del Sector Público:",
     "opciones": [
-      "A) Positivo.",
-      "B) Negativo.",
-      "C) Positivo, salvo que afecte a derechos o intereses de terceros.",
-      "D) Negativo, salvo que afecte a derechos o intereses de terceros."
+      "A) Son contratos de suministro los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes inmuebles.",
+      "B) Son contratos de suministro los que tienen por objeto la enajenación o el arrendamiento financiero de productos o bienes muebles.",
+      "C) Son contratos de suministro los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción de compra, de productos o bienes muebles.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "219. Los contratos \"cuyo objeto son prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro, incluyendo aquellos en que el adjudicatario se obligue a ejecutar el servicio de forma sucesiva y por precio unitario\", se",
+    "opciones": [
+      "A) Contrato de concesión de servicios.",
+      "B) Contratos de servicios.",
+      "C) Ninguna es correcta.",
+      "D) Contratos mixtos."
+    ],
+    "respuesta_correcta": 1
+  },
+   {
+    "pregunta": "220. Según el artículo 13.1 de la Ley de Contratos del Sector Público son contratos de obras aquellos que tienen por objeto:",
+    "opciones": [
+      "A) La ejecución de una obra, aislada o conjuntamente con la redacción del proyecto, o la realización de alguno de los trabajos enumerados en el Anexo I o la realización, por cualquier medio, de una obra que cumpla los requisitos fijados por la entidad del sector público contratante que ejerza una influencia decisiva en el tipo o el proyecto de la obra.",
+      "B) Aquel en cuya virtud uno o varios poderes adjudicadores encomiendan a título oneroso a una o varias personas, naturales o jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia, y cuya contrapartida venga constituida bien por el derecho a explotar los servicios objeto del contrato o bien por dicho derecho acompañado del de percibir un precio.",
+      "C) Únicamente la ejecución de una obra, aislada o conjuntamente con la redacción del proyecto, o la realización de alguno de los trabajos enumerados en el Anexo I.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "221. Según el artículo 15.1 de la Ley de Contratos del Sector Público, son contratos de servicios aquellos que tienen por objeto:",
+    "opciones": [
+      "A) Las prestaciones de hacer consistentes en el desarrollo de una actividad o dirigidas a la obtención de un resultado distinto de una obra o suministro, incluyendo aquellos en que el adjudicatario se obligue a ejecutar el servicio de forma sucesiva y por precio unitario.",
+      "B) La realización de una obra o el desarrollo de una actividad de cualquier clase.",
+      "C) La adquisición de bienes o productos.",
+      "D) La gestión de un servicio público."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "222. Según el artículo 16 de la Ley de Contratos del Sector Público, se consideran contratos mixtos:",
+    "opciones": [
+      "A) Aquellos que contengan prestaciones correspondientes a otros contratos de distinto tipo.",
+      "B) Aquellos que se combinen la adquisición de bienes con la realización de obras.",
+      "C) Aquellos que contengan prestaciones correspondientes a varios tipos de contratos administrativos.",
+      "D) Aquellos que contengan prestaciones de contratos de obras y servicios."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "223. Según el Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, la cartera de servicios comunes de atención primaria está integrada por:",
+    "opciones": [
+      "A) La atención a la salud sexual y reproductiva.",
+      "B) La atención a la salud bucodental.",
+      "C) La atención a la salud mental.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "224. Según el Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, la cartera de servicios comunes de atención especializada comprende:",
+    "opciones": [
+      "A) Atención ambulatoria especializada.",
+      "B) Hospitalización.",
+      "C) Atención de urgencia hospitalaria.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "225. Según la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, el objeto de la coordinación del Sistema Nacional de Salud es:",
+    "opciones": [
+      "A) Garantizar el carácter público del Sistema Nacional de Salud.",
+      "B) Asegurar a los ciudadanos el derecho a la protección de la salud.",
+      "C) Asegurar la equidad, la calidad y la cohesión de los servicios que preste el Sistema Nacional de Salud en todo el territorio del Estado.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "226. Según el artículo 23 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, las funciones del Consejo Interterritorial del Sistema Nacional de Salud son, entre otras:",
+    "opciones": [
+      "A) La aprobación de los criterios de calidad de los servicios sanitarios y de la ordenación profesional, así como el seguimiento de su aplicación.",
+      "B) La aprobación de los criterios de coordinación y la asignación de recursos a los servicios de salud.",
+      "C) La aprobación de los criterios de distribución de los fondos destinados a las comunidades autónomas.",
+      "D) La aprobación de los criterios de evaluación de la calidad de los servicios de salud."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "227. Según el Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, en la cartera de servicios comunes de atención especializada, la atención de urgencia hospitalaria se define como:",
+    "opciones": [
+      "A) La atención sanitaria que se presta al paciente en aquellos casos en que su situación clínica exige una asistencia inmediata.",
+      "B) La atención sanitaria que se presta al paciente en aquellos casos en que su situación clínica exige una asistencia programada.",
+      "C) La atención sanitaria que se presta al paciente en aquellos casos en que su situación clínica exige una asistencia diferida.",
+      "D) La atención sanitaria que se presta al paciente en aquellos casos en que su situación clínica exige una asistencia especializada."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "228. De los siguientes el que no es un derecho del paciente en relación con la información en el Sistema Nacional de Salud es:",
+    "opciones": [
+      "A) El derecho a conocer toda la información disponible sobre su estado de salud.",
+      "B) El derecho a decidir libremente, después de recibir la información adecuada, entre las opciones clínicas disponibles.",
+      "C) El derecho a que se respete su voluntad de no ser informado.",
+      "D) El derecho a que se le facilite la información sin límite de tiempo, siempre que la solicite."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "229. Según el Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, la cartera de servicios comunes del Sistema Nacional de Salud se clasifica en:",
+    "opciones": [
+      "A) Cartera de servicios comunes básicos y cartera de servicios comunes suplementaria.",
+      "B) Cartera de servicios comunes asistenciales y cartera de servicios comunes de salud pública.",
+      "C) Cartera de servicios comunes básicos, cartera de servicios comunes suplementaria y cartera de servicios comunes accesorios.",
+      "D) Cartera de servicios comunes básicos, cartera de servicios comunes suplementaria y cartera de servicios comunes de financiación adicional."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "230. Según el Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, la cartera de servicios comunes del Sistema Nacional de Salud está constituida por las técnicas, tecnologías o procedimientos y métodos que se utilizan en:",
+    "opciones": [
+      "A) Las actividades de promoción y protección de la salud.",
+      "B) La prevención de las enfermedades.",
+      "C) La asistencia sanitaria y la rehabilitación.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "231. Según el Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, ¿cuáles de los siguientes no es un servicio común básico?",
+    "opciones": [
+      "A) Prestación farmacéutica.",
+      "B) Prestación ortoprotésica.",
+      "C) Prestación de productos dietéticos.",
+      "D) Prestación de transporte sanitario."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "232. Según el Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, ¿cuáles de los siguientes no es un servicio común básico?",
+    "opciones": [
+      "A) Atención Primaria.",
+      "B) Atención Especializada.",
+      "C) Atención de urgencia.",
+      "D) Prestación de servicios de balneoterapia."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "233. ¿Qué Real Decreto establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización?",
+    "opciones": [
+      "A) Real Decreto 1030/2006, de 15 de septiembre.",
+      "B) Real Decreto 1555/2018, de 7 de diciembre.",
+      "C) Real Decreto 208/1996, de 9 de febrero.",
+      "D) Real Decreto 94/1999, de 25 de mayo."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "234. ¿Qué Ley establece la cohesión y calidad del Sistema Nacional de Salud?",
+    "opciones": [
+      "A) Ley 14/1986, de 25 de abril, General de Sanidad.",
+      "B) Ley 16/2003, de 28 de mayo.",
+      "C) Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.",
+      "D) Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "235. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, contra las resoluciones expresas o presuntas en materia de acceso a la información pública podrá interponerse:",
+    "pregunta": "235. La Ley de cohesión y calidad del Sistema Nacional de Salud es la Ley:",
     "opciones": [
-      "A) Recurso de alzada.",
-      "B) Recurso contencioso-administrativo.",
-      "C) Reclamación ante el Consejo de Transparencia y Buen Gobierno.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "236. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el Consejo de Transparencia y Buen Gobierno es:",
-    "opciones": [
-      "A) Un organismo público independiente.",
-      "B) Un órgano consultivo.",
-      "C) Un órgano de control.",
-      "D) Un órgano de gestión."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "237. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el ámbito subjetivo de aplicación de las obligaciones de buen gobierno incluye a:",
-    "opciones": [
-      "A) Los miembros del Gobierno y los Secretarios de Estado.",
-      "B) Los Subsecretarios y Directores Generales.",
-      "C) Los presidentes y directores de organismos públicos.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "238. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las obligaciones de buen gobierno incluyen:",
-    "opciones": [
-      "A) El ejercicio de las funciones con objetividad, imparcialidad e integridad.",
-      "B) La dedicación exclusiva al servicio público.",
-      "C) La abstención en los asuntos en que exista conflicto de intereses.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "239. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el incumplimiento de las obligaciones de buen gobierno dará lugar a:",
-    "opciones": [
-      "A) Responsabilidad política.",
-      "B) Responsabilidad administrativa.",
-      "C) Responsabilidad penal.",
-      "D) Todas las anteriores."
+      "A) 14/1986, de 25 de abril.",
+      "B) 16/2003, de 28 de mayo.",
+      "C) 41/2002, de 14 de noviembre.",
+      "D) Orgánica 3/2018, de 5 de diciembre."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "240. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el régimen sancionador se aplicará por el incumplimiento de:",
+    "pregunta": "236. La Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral tiene por objeto:",
     "opciones": [
-      "A) Las obligaciones de publicidad activa.",
-      "B) Las obligaciones de acceso a la información pública.",
-      "C) Las obligaciones de buen gobierno.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "241. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las infracciones en materia de buen gobierno se clasifican en:",
-    "opciones": [
-      "A) Leves, graves y muy graves.",
-      "B) Leves y graves.",
-      "C) Graves y muy graves.",
-      "D) Muy graves."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "242. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las sanciones por infracciones en materia de buen gobierno pueden ser:",
-    "opciones": [
-      "A) Multa y destitución del cargo.",
-      "B) Multa y apercibimiento.",
-      "C) Multa y suspensión de funciones.",
-      "D) Multa y inhabilitación."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "243. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la destitución del cargo por infracciones muy graves en materia de buen gobierno conllevará la imposibilidad de volver a ocupar un cargo de alto nivel en la Administración Pública durante un período de:",
-    "opciones": [
-      "A) Uno a tres años.",
-      "B) Tres a cinco años.",
-      "C) Cinco a diez años.",
-      "D) No hay un período mínimo establecido."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "244. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el registro de actividades y bienes de los altos cargos deberá ser:",
-    "opciones": [
-      "A) Público.",
-      "B) Reservado.",
-      "C) Confidencial.",
-      "D) Secreto."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "245. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la publicidad de los contratos públicos se realizará a través de:",
-    "opciones": [
-      "A) El Perfil de Contratante.",
-      "B) El Boletín Oficial del Estado.",
-      "C) El Diario Oficial de la Unión Europea.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "246. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la publicidad de los convenios de colaboración se realizará a través de:",
-    "opciones": [
-      "A) El Boletín Oficial del Estado o diario oficial correspondiente.",
-      "B) El Perfil de Contratante.",
-      "C) La Plataforma de Contratación del Sector Público.",
-      "D) El Registro de Convenios."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "247. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la información que debe ser publicada en el Portal de la Transparencia deberá estar organizada de forma:",
-    "opciones": [
-      "A) Clara, estructurada y comprensible.",
-      "B) Cronológica y temática.",
-      "C) Por órganos y unidades administrativas.",
-      "D) Por tipos de información."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "248. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, los datos personales serán objeto de publicación en el Portal de la Transparencia cuando:",
-    "opciones": [
-      "A) Sean necesarios para el ejercicio de un derecho o interés legítimo.",
-      "B) Estén relacionados con la organización y funcionamiento de la Administración Pública.",
-      "C) Sean datos meramente identificativos de los altos cargos y empleados públicos.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "249. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el Portal de la Transparencia es:",
-    "opciones": [
-      "A) Un instrumento para facilitar el acceso de los ciudadanos a la información pública.",
-      "B) Un instrumento para garantizar la publicidad activa de la Administración Pública.",
-      "C) Un instrumento para fomentar el buen gobierno de la Administración Pública.",
-      "D) Todas las anteriores."
+      "A) Facilitar la creación de empleo estable.",
+      "B) Potenciar la flexibilidad interna en las empresas como medida alternativa a la destrucción de empleo.",
+      "C) La Ley 3/2012 de 6 de julio tiene por objeto reducir la dualidad de nuestro mercado de trabajo.",
+      "D) Todas son correctas."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "250. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el seguimiento del cumplimiento de las obligaciones de transparencia se realizará por:",
+    "pregunta": "237. Las retribuciones complementarias se fijarán por:",
     "opciones": [
-      "A) El Consejo de Transparencia y Buen Gobierno.",
-      "B) La Agencia Española de Protección de Datos.",
-      "C) El Tribunal de Cuentas.",
-      "D) La Intervención General de la Administración del Estado."
+      "A) El Gobierno.",
+      "B) El Consejo de Gobierno de la Comunidad Autónoma Canaria.",
+      "C) El Ministerio de Hacienda y Administraciones Públicas.",
+      "D) El Ministerio de Sanidad, Servicios Sociales e Igualdad."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "238. Según la Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral, ¿cuál de las siguientes no es una de las medidas dirigidas a la reducción de la temporalidad y la dualidad?",
+    "opciones": [
+      "A) La limitación de la duración de los contratos para obra o servicio determinado.",
+      "B) El fomento de la contratación indefinida.",
+      "C) El establecimiento de un nuevo contrato de trabajo por tiempo indefinido de apoyo a los emprendedores.",
+      "D) La supresión de la obligación de comunicación de los contratos temporales y de formación."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "239. Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, los funcionarios públicos se clasifican en:",
+    "opciones": [
+      "A) Funcionarios de carrera.",
+      "B) Funcionarios interinos.",
+      "C) Personal laboral.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "240. Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, las retribuciones de los funcionarios públicos se clasifican en:",
+    "opciones": [
+      "A) Básicas y complementarias.",
+      "B) Fijas y variables.",
+      "C) Directas e indirectas.",
+      "D) Salariales y no salariales."
     ],
     "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "241. Según la Instrucción de retribuciones de la Dirección del SCS la deducción de la cuota de derechos pasivos se aplica al personal funcionario desde:",
+    "opciones": [
+      "A) Orden de la Consejería de Hacienda, de 21 de octubre de 1985.",
+      "B) Orden de la Consejería de Hacienda, de 21 de noviembre de 1985.",
+      "C) Orden de la Consejería de Hacienda, de 21 de octubre de 1984.",
+      "D) Orden de la Consejería de Hacienda, de 21 de noviembre de 1984."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "242. La aplicación de la deducción al Fondo de Garantía Salarial, se aplicará a los funcionarios de carrera:",
+    "opciones": [
+      "A) En una cuantía fija.",
+      "B) En relación al grupo retributivo.",
+      "C) En relación a la antigüedad desde la fecha de toma de posesión.",
+      "D) Los funcionarios de carrera no cotizan en este concepto."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "243. La confección de las nóminas de retribuciones de los funcionarios dependientes de cada uno de los Órganos Superiores de la Comunidad Autónoma de Canarias, será realizada por:",
+    "opciones": [
+      "A) Los Habilitados - Pagadores nombrados por cada Consejería, uno por cada Dirección Territorial o Provincial.",
+      "B) La Dirección de Recursos Humanos.",
+      "C) Los Habilitados - Pagadores nombrados por cada Consejería, uno por cada isla.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "244. Según lo establecido en la Instrucción de retribuciones de la Dirección del SCS las pagas extraordinarias serán:",
+    "opciones": [
+      "A) Tres al año y se devengarán en marzo, junio y diciembre.",
+      "B) Tres al año y se devengarán en junio, septiembre y diciembre.",
+      "C) Dos al año y se devengarán en junio y diciembre.",
+      "D) Dos al año y se devengarán en marzo y diciembre."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "245. El Decreto que regula la expedición de certificados, copias compulsadas, copias selladas y copias auténticas de documentos en la Administración Pública de la Comunidad Autónoma de Canarias es:",
+    "opciones": [
+      "A) Decreto 1/2014, de 15 de enero.",
+      "B) Decreto 1/2015, de 22 de enero.",
+      "C) Decreto 1/2015, de 15 de enero.",
+      "D) Decreto 1/2014, de 22 de enero."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "246. A los efectos del Decreto que regula la expedición de certificados y copias en la Administración Pública de la Comunidad Autónoma de Canarias, \"La reproducción de un documento, ya sea original o copia que, previo cotejo, acredita su presentación en los registros de los órganos y entidades incluidos en el ámbito de aplicación de este Decreto\" es la definición de la:",
+    "opciones": [
+      "A) Copia única.",
+      "B) Copia sellada.",
+      "C) Copia compulsada.",
+      "D) Copia auténtica."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "247. Según el Decreto que regula la expedición de certificados y copias en la Administración Pública de la Comunidad Autónoma de Canarias, ¿qué tipo de copia reproduce electrónicamente el documento original y su contenido, y garantiza su identidad y validez con el documento original, mediante la firma electrónica?",
+    "opciones": [
+      "A) Copia única.",
+      "B) Copia sellada.",
+      "C) Copia compulsada.",
+      "D) Copia auténtica."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "248. ¿Cuál es el objeto de la Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas, según su artículo 1?",
+    "opciones": [
+      "A) Regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, excluyendo el sancionador y el de reclamación de responsabilidad de las Administraciones Públicas.",
+      "B) Regular los requisitos legislativos y formales de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, excluyendo el sancionador y el de reclamación de responsabilidad de las Administraciones Públicas.",
+      "C) Regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las Administraciones Públicas.",
+      "D) Regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y excluyendo el de reclamación de responsabilidad de las Administraciones Públicas."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "249. La Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas tiene carácter supletorio para:",
+    "opciones": [
+      "A) Las Corporaciones de Derecho Público.",
+      "B) El sector público institucional.",
+      "C) Las Entidades que integran la Administración Local.",
+      "D) Las Administraciones de las Comunidades Autónomas."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "250. Una persona física que promueve un procedimiento administrativo como titular de un derecho, tiene según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la consideración de:",
+    "opciones": [
+      "A) Ciudadano.",
+      "B) Representante.",
+      "C) Beneficiario.",
+      "D) Interesado."
+    ],
+    "respuesta_correcta": 3
   }
 ]

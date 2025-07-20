@@ -322,181 +322,181 @@
   {
     "pregunta": "33. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, atendiendo al nivel de estudios exigido para el ingreso, el personal estatutario sanitario se clasifica en:",
     "opciones": [
-      "A) Personal de formación universitaria y personal de formación profesional.",
-      "B) Personal sanitario diplomado y personal sanitario de grado.",
-      "C) Personal sanitario licenciado y personal sanitario de pregrado.",
-      "D) Personal sanitario de nivel A y personal sanitario de nivel B."
-    ],
-    "respuesta_correcta": 0
-  },
-   {
-    "pregunta": "34. Según la Ley 55/2003, de 16 de diciembre, se acordará el cese del personal estatutario fijo:",
-    "opciones": [
-      "A) Por la finalización del plazo establecido y recogido expresamente en el nombramiento.",
-      "B) Por la finalización de la causa que originó el nombramiento.",
-      "C) Por razones de carácter organizativo que den lugar a la supresión o amortización de la plaza o puesto ocupado.",
-      "D) Ninguna es correcta."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "35. ¿Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud en qué supuestos y condiciones se pueden nombrar estatutarios interinos?",
-    "opciones": [
-      "A) Existencia de plaza vacante, cuando no sea posible su cobertura por personal estatutario fijo, durante un plazo máximo de dos años.",
-      "B) Ejecución de programas de carácter temporal, que deberán especificar sus fechas de inicio y de finalización y que no podrán tener una duración superior a tres años.",
-      "C) Exceso o acumulación de tareas, detallándose las mismas, concretando la fecha de inicio y fin del nombramiento, por un plazo máximo de seis meses, dentro de un periodo de doce meses.",
-      "D) Ninguna es correcta."
+      "A) Personal de gestión y servicios.",
+      "B) Personal facultativo, personal diplomado y personal técnico.",
+      "C) Personal sanitario y personal de gestión y servicios.",
+      "D) Personal con título de Grado y personal con título de Máster."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "36. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, se acordará el cese del personal estatutario sustituto, entre otros motivos:",
+    "pregunta": "34. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el personal estatutario de gestión y servicios, atendiendo al nivel del título exigido para el ingreso, se clasifica en:",
     "opciones": [
-      "A) Por razones de carácter organizativo que den lugar a la supresión o amortización de la plaza o puesto ocupado.",
-      "B) Por la cobertura de la plaza que se desempeñe por personal estatutario fijo a través de cualquiera de los procedimientos legalmente establecidos.",
-      "C) Por la finalización de la causa que originó el nombramiento.",
-      "D) Ninguna es correcta."
+      "A) Personal de gestión, personal de servicios y personal técnico de gestión.",
+      "B) Personal de gestión y servicios de formación universitaria, y personal de gestión y servicios de formación profesional.",
+      "C) Personal de gestión y servicios de nivel A, B, C, y D.",
+      "D) Personal de gestión y servicios de formación universitaria, personal de gestión y servicios de formación profesional y personal de gestión y servicios de certificado de escolaridad o de la experiencia profesional reconocida."
     ],
-    "respuesta_correcta": 2
+    "respuesta_correcta": 3
   },
   {
-    "pregunta": "37. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, ¿qué tipo de nombramiento se realizará para la cobertura de vacaciones y demás ausencias de carácter temporal que comporten la reserva de plaza?",
+    "pregunta": "35. Según el artículo 8 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, ¿quiénes son el personal estatutario fijo?",
     "opciones": [
-      "A) Nombramientos de interinidad.",
-      "B) Nombramientos de carácter eventual.",
-      "C) Nombramientos de sustitución.",
-      "D) Para la cobertura de vacaciones y demás ausencias se contrata personal laboral."
+      "A) Los que, una vez superado el correspondiente proceso selectivo, son nombrados para el desempeño con carácter permanente de las funciones que les son propias.",
+      "B) Los que, por razones de necesidad, ocupan con carácter temporal plazas de plantilla de los servicios de salud.",
+      "C) Los que son nombrados para el desempeño de funciones de gestión.",
+      "D) Los que son nombrados para el desempeño de funciones de servicios generales."
     ],
-    "respuesta_correcta": 2
+    "respuesta_correcta": 0
   },
   {
-    "pregunta": "38. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, entre las medidas dirigidas al control de la temporalidad:",
+    "pregunta": "36. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, los nombramientos de personal estatutario temporal pueden ser de las siguientes clases:",
     "opciones": [
-      "A) Las actuaciones irregulares en materia de nombramiento de personal estatutario temporal y sustituto no dará lugar en ningún caso a exigencia de responsabilidades.",
-      "B) Las administraciones sanitarias serán responsables del cumplimiento de las previsiones contenidas en el Estatuto Marco y, en especial, velarán por evitar cualquier tipo de irregularidad en el nombramiento del personal estatutario temporal y sustituto.",
-      "C) El incumplimiento del plazo máximo de permanencia dará lugar a una compensación económica para el personal estatutario temporal afectado, que será equivalente a treinta y cinco días de sus retribuciones fijas por año de servicio.",
+      "A) Nombramiento de interinidad, nombramiento eventual y nombramiento de sustitución.",
+      "B) Nombramiento de interinidad, nombramiento de duración determinada y nombramiento de personal de refuerzo.",
+      "C) Nombramiento de eventual, nombramiento de personal de apoyo y nombramiento de personal temporal.",
+      "D) Nombramiento de interinidad, nombramiento de sustitución y nombramiento de colaboración."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "37. Según el artículo 14 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, sobre la ordenación del personal estatutario, el personal estatutario fijo se estructura en:",
+    "opciones": [
+      "A) Grupos, categorías y especialidades.",
+      "B) Niveles, clases y escalas.",
+      "C) Rangos, grados y méritos.",
+      "D) Áreas, funciones y responsabilidades."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "38. Según el artículo 15 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la relación de puestos de trabajo de cada servicio de salud es:",
+    "opciones": [
+      "A) Un instrumento de gestión de personal que incluye, al menos, la denominación, clasificación, requisitos para su desempeño y retribuciones complementarias de cada puesto.",
+      "B) Un listado de todas las plazas vacantes en los servicios de salud.",
+      "C) Un documento que describe las funciones de cada categoría profesional.",
+      "D) Un registro de los nombramientos temporales del personal."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "39. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el acceso a la condición de personal estatutario fijo se realizará mediante:",
+    "opciones": [
+      "A) Concurso de méritos.",
+      "B) Concurso-oposición o concurso, que garanticen los principios constitucionales de igualdad, mérito, capacidad y publicidad.",
+      "C) Oposición libre.",
+      "D) Valoración de la experiencia profesional exclusivamente."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "40. Según el artículo 21 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el nombramiento de personal estatutario fijo se expedirá por el órgano competente del servicio de salud y deberá formalizarse en:",
+    "opciones": [
+      "A) Documento administrativo, conforme a los requisitos establecidos en la presente Ley y las demás normas aplicables.",
+      "B) Documento electrónico, con firma electrónica avanzada.",
+      "C) Documento privado, firmado por el interesado y el Director del centro sanitario.",
+      "D) Acto verbal, dejando constancia en el expediente personal."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "41. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la adquisición y pérdida de la condición de personal estatutario fijo, se regirá por los siguientes principios:",
+    "opciones": [
+      "A) Flexibilidad en los requisitos de acceso y permanencia.",
+      "B) Seguridad jurídica, publicidad, transparencia e irretroactividad.",
+      "C) Discrecionalidad en las decisiones de nombramiento y cese.",
+      "D) Equilibrio entre los intereses del personal y la eficiencia del servicio."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "42. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, los derechos del personal estatutario incluyen (señalar la respuesta incorrecta):",
+    "opciones": [
+      "A) Al mantenimiento de su condición de personal estatutario fijo.",
+      "B) Al desempeño efectivo de las funciones o tareas propias de su categoría.",
+      "C) A la formación continuada y al desarrollo profesional.",
+      "D) Al traslado con carácter forzoso a cualquier centro del Sistema Nacional de Salud."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "43. Según el artículo 29 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, los deberes del personal estatutario incluyen (señalar la respuesta incorrecta):",
+    "opciones": [
+      "A) Cumplir la Constitución y el resto del ordenamiento jurídico.",
+      "B) Observar el Código de Conducta de los empleados públicos.",
+      "C) Guardar secreto profesional y confidencialidad sobre los datos a los que tenga acceso.",
+      "D) Realizar actividades privadas que sean incompatibles con el desempeño de sus funciones."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "44. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la jornada de trabajo del personal estatutario será:",
+    "opciones": [
+      "A) La que establezca el Gobierno para todos los empleados públicos.",
+      "B) La que se determine en las normas específicas de cada servicio de salud, dentro de los límites máximos establecidos por la normativa general.",
+      "C) La misma para todos los centros sanitarios del Sistema Nacional de Salud.",
+      "D) Una jornada única, sin posibilidad de flexibilidad horaria."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "45. Según el artículo 36 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, sobre la promoción interna, para participar en los procesos selectivos de promoción interna, el personal estatutario deberá cumplir, al menos, el requisito de:",
+    "opciones": [
+      "A) Pertenecer a un nivel inferior al de la plaza a la que aspira.",
+      "B) Haber prestado servicios como personal estatutario fijo durante al menos dos años en la categoría de origen.",
+      "C) Estar en situación de servicio activo o en alguna de las situaciones que comporten reserva de plaza.",
+      "D) Tener una titulación superior a la exigida en la categoría de origen."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "46. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, los procesos de movilidad interna en cada servicio de salud se efectuarán:",
+    "opciones": [
+      "A) Únicamente por razones de urgencia del servicio.",
+      "B) Con carácter voluntario, a través de concursos de traslados, y con carácter forzoso, por razones de reordenación de recursos.",
+      "C) Sin necesidad de publicidad previa.",
+      "D) Sólo para el personal facultativo."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "47. Según el artículo 47 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, sobre las situaciones del personal estatutario, ¿cuál de las siguientes no es una situación del personal estatutario?",
+    "opciones": [
+      "A) Servicio activo.",
+      "B) Servicios especiales.",
+      "C) Excedencia por cuidado de familiares.",
+      "D) Jubilación parcial."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "48. Según el artículo 48 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el personal estatutario fijo se hallará en situación de servicio activo cuando:",
+    "opciones": [
+      "A) Esté desempeñando un puesto de trabajo en la Administración General del Estado.",
+      "B) Esté prestando servicios en la categoría o especialidad en la que obtuvo su nombramiento o en otra distinta en virtud de un procedimiento de movilidad.",
+      "C) Se encuentre en situación de excedencia voluntaria.",
+      "D) Se encuentre en situación de suspensión de funciones."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "49. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la situación de servicios especiales del personal estatutario fijo se produce, entre otros, en el caso de:",
+    "opciones": [
+      "A) Nombramiento como miembro del Gobierno o de los órganos de gobierno de las Comunidades Autónomas o de las Entidades Locales.",
+      "B) Nombramiento para el desempeño de puestos directivos en organismos internacionales.",
+      "C) Elección como Diputado o Senador de las Cortes Generales.",
       "D) Todas son correctas."
     ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "39. No tiene la consideración de derecho individual del personal estatutario de los Servicios de Salud:",
-    "opciones": [
-      "A) La formación continuada adecuada a la función desempeñada y al reconocimiento de su cualificación profesional en relación a dichas funciones.",
-      "B) La libre sindicación.",
-      "C) El ser informado de las funciones, tareas, cometidos, programación funcional y objetivos asignados a su unidad, centro o institución.",
-      "D) La acción social en los términos y ámbitos subjetivos que se determinen en las normas, acuerdos o convenios aplicables."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "40. El personal estatutario de los servicios de salud ostenta los siguientes derechos individuales, según el artículo 17 de la Ley 55/2003, de 16 de diciembre:",
-    "opciones": [
-      "A) A la no discriminación por razón de nacimiento, raza, sexo, religión, opinión, orientación e identidad sexual, expresión de género, características sexuales o cualquier otra condición o circunstancia.",
-      "B) Al encuadramiento en el Régimen Especial de la Seguridad Social, con los derechos y obligaciones que de ello se deriven.",
-      "C) A la movilidad forzosa, promoción interna y desarrollo personal en la forma en que prevean las disposiciones en cada caso aplicables.",
-      "D) A la jubilación obligatoria al cumplir los setenta y cinco años de edad."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "41. Según dispone la Ley 55/2003, de 16 de diciembre, por la que se aprueba el Estatuto Marco del personal estatutario de los servicios de salud, el personal estatutario ostenta el siguiente derecho individual:",
-    "opciones": [
-      "A) A disponer de servicios de prevención y de órganos representativos en materia de seguridad laboral.",
-      "B) A la huelga, garantizándose en todo caso el mantenimiento de los servicios que resulten esenciales para la atención sanitaria a la población.",
-      "C) Utilizar los medios, instrumental e instalaciones de los servicios de salud en beneficio del paciente, con criterios de eficiencia, y evitar su uso ilegítimo en beneficio propio o de terceras personal.",
-      "D) A la movilidad voluntaria, promoción interna y desarrollo profesional, en la forma en que prevean las disposiciones en cada caso aplicables."
-    ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "42. ¿Cuál de los siguientes no es un derecho colectivo establecido en la Ley 55/2003, de 16 de diciembre, del Estatuto Marco de personal estatutario de los servicios de salud?",
+    "pregunta": "50. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la excedencia por cuidado de familiares podrá ser solicitada por el personal estatutario fijo para atender al cuidado de:",
     "opciones": [
-      "A) Recibir protección eficaz en materia de seguridad y salud en el trabajo, así como sobre riesgos generales en el centro sanitario o derivados del trabajo habitual.",
-      "B) Disponer de servicios de prevención y de órganos representativos en materia de seguridad laboral.",
-      "C) La libre sindicación.",
-      "D) Reunión."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "43. Según el Estatuto Marco del personal estatutario de los servicios de salud, ¿qué se entiende por personal nocturno?",
-    "opciones": [
-      "A) El que realiza normalmente, durante el periodo nocturno, una parte no inferior a 4 horas de su tiempo de trabajo diario.",
-      "B) El que realiza durante el periodo nocturno un tercio de su tiempo de trabajo semestral.",
-      "C) El que realiza normalmente, durante el periodo nocturno, una parte no inferior a 3 horas de su tiempo de trabajo diario",
-      "D) El que realiza en periodo nocturno una cuarta parte de su tiempo de trabajo anual."
+      "A) Cada hijo, tanto por naturaleza como por adopción o acogimiento permanente o preadoptivo, a contar desde la fecha de nacimiento o de la resolución judicial o administrativa.",
+      "B) Un familiar hasta el segundo grado de consanguinidad o afinidad que, por razones de edad, accidente, enfermedad o discapacidad, no pueda valerse por sí mismo, y no desempeñe actividad retribuida.",
+      "C) Ambas son correctas.",
+      "D) Solo para el cuidado de hijos."
     ],
     "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "44. El periodo nocturno recogido en la Ley 55/2003, de 16 de diciembre:",
-    "opciones": [
-      "A) Tendrá una duración minima de siete horas.",
-      "B) Incluirá necesariamente el período comprendido entre las cero y las cinco horas de cada día natural.",
-      "C) Se considerará período nocturno, en ausencia de su definición, el comprendido entre las 23 horas y las seis horas del día siguiente.",
-      "D) Todas son correctas."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "45. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la jomada ordinaria en los centros sanitarios:",
-    "opciones": [
-      "A) Se determinará en las normas, pactos o acuerdos, según en cada caso resulte procedente.",
-      "B) No podrá establecerse una distribución irregular de la jornada a lo largo del año.",
-      "C) Siempre se fijará por orden del director del centro correspondiente.",
-      "D) Nunca el tiempo de trabajo correspondiente a la jornada ordinaria excederá de 10 horas ininterrumpidas."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "46. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, cuando se trate de la prestación de servicios de atención continuada y con el fin de garantizar la adecuada atención permanente al usuario de los centros sanitarios, el personal de determinadas categorías o unidades de los mismos desarrollará una jornada que será:",
-    "opciones": [
-      "A) Extraordinaria.",
-      "B) Ordinaria.",
-      "C) Especial.",
-      "D) Complementaria."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "47. Según el Estatuto Marco del personal estatutario de los servicios de salud, siempre que la duración de una jornada exceda de seis horas continuadas, deberá establecerse un período de descanso durante la misma:",
-    "opciones": [
-      "A) De 15 minutos de duración.",
-      "B) De duración no inferior a 15 minutos.",
-      "C) No es obligatorio establecer dicho descanso.",
-      "D) De duración no inferior a 15 minutos y el momento de disfrute de este período se establecerá a mitad de la jornada diaria." 
-    ],
-    "respuesta_correcta": 1
-  },
-   {
-    "pregunta": "48. Según el Estatuto Marco del personal estatutario de los servicios de salud, anualmente el personal estatutario tendrá derecho a una vacación retribuida:",
-    "opciones": [
-      "A) Que podrá ser sustituida, en todo caso, por una compensación económica.",
-      "B) El período o períodos de disfrute de la vacación semanal se fijará conforme a lo que prevea al respecto la programación funcional del correspondiente centro.",
-      "C) Cuya duración no será inferior a 30 días naturales, o al tiempo que proporcionalmente corresponda en función del tiempo de servicios.",
-      "D) Todas son correctas."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "49. Según el Estatuto Marco del personal estatutario de los servicios de salud, los nombramientos de personal estatutario a tiempo parcial:",
-    "opciones": [
-      "A) Podrán expedirse en el porcentaje, días y horario que, en cada caso y atendiendo a las circunstancias organizativas, funcionales y asistenciales, se determine.",
-      "B) Se aplican exclusivamente en los supuestos de reducciones de jornada, para la conciliación de la vida familiar y laboral.",
-      "C) Sólo están previstos para personal estatutario temporal.",
-      "D) Están prohibidos expresamente."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "50. Según el artículo 61 del Estatuto Marco del personal estatutario de los servicios de salud, el personal estatutario tendrá derecho a disfrutar del régimen de fiestas y permisos que se establezca:",
-    "opciones": [
-      "A) En el ámbito de cada servicio autonómico de salud.",
-      "B) En el ámbito del Sistema Nacional de Salud.",
-      "C) En el ámbito de cada centro o establecimiento sanitario.",
-      "D) En el ámbito de cada una de las comunidades autónomas."
-    ],
-    "respuesta_correcta": 3
   }
 ]

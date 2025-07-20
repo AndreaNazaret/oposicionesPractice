@@ -1,502 +1,504 @@
 [
+  
   {
-    "pregunta": "251. La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, tiene por objeto:",
+    "pregunta": "251. A los efectos del Decreto que regula la expedición de certificados y copias en la Administración Pública de la Comunidad Autónoma de Canarias, \"Documento de constatación externa en el que se materializa el acto administrativo de certificación\", es la definición de:",
     "opciones": [
-      "A) Regular la contratación del sector público para garantizar la transparencia, la libre concurrencia y la eficiencia en la utilización de los fondos públicos.",
-      "B) Establecer las normas para la adjudicación de contratos por parte de las Administraciones Públicas.",
-      "C) Regular los contratos celebrados por las entidades del sector público.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "252. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los principios de la contratación del sector público son:",
-    "opciones": [
-      "A) Libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, no discriminación e igualdad de trato entre los licitadores.",
-      "B) Eficiencia en el gasto, estabilidad presupuestaria y sostenibilidad financiera.",
-      "C) Integridad y rendición de cuentas.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "253. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el órgano de contratación es:",
-    "opciones": [
-      "A) La persona física o jurídica que contrata en nombre y por cuenta de las Administraciones Públicas.",
-      "B) El órgano administrativo que tiene atribuida la competencia para celebrar contratos en nombre y por cuenta de las Administraciones Públicas.",
-      "C) La mesa de contratación.",
-      "D) El comité de expertos."
+      "A) Certificación.",
+      "B) Certificado.",
+      "C) Compulsa.",
+      "D) Copia auténtica."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "254. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los tipos de contratos del sector público son:",
+    "pregunta": "252. A los efectos del Decreto que regula la expedición de certificados y copias en la Administración Pública de la Comunidad Autónoma de Canarias, la \"acción de comparar una copia de un documento con otro, con el objeto de comprobar que son idénticos\", es la definición de:",
     "opciones": [
-      "A) Contratos de obras, de concesión de obras, de concesión de servicios, de servicios y de suministros.",
-      "B) Contratos de obras, de servicios y de suministros.",
-      "C) Contratos de obras, de servicios, de suministros y de colaboración entre el sector público y el sector privado.",
-      "D) Contratos de obras, de servicios, de suministros, de concesión de obras y de concesión de servicios."
+      "A) Comparación.",
+      "B) Compulsa.",
+      "C) Cotejo.",
+      "D) Certificación."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "253. El ámbito de aplicación del Decreto canario que regula la expedición de certificados, copias compulsadas, copias selladas y copias auténticas de documentos es:",
+    "opciones": [
+      "A) La Administración Pública de la Comunidad Autónoma de Canarias.",
+      "B) La Administración Pública de la Comunidad Autónoma de Canarias y sus organismos autónomos.",
+      "C) La Administración Pública de la Comunidad Autónoma de Canarias, sus organismos autónomos y entidades de derecho público que de ella dependan.",
+      "D) La Administración Pública de la Comunidad Autónoma de Canarias, sus organismos autónomos y entidades de derecho público y privado que de ella dependan."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "254. La \"reproducción de un documento público o privado sobre el que el empleado público ante el que se presenta hace constar, previo cotejo, su coincidencia exacta con el original del que es copia\" es un/a:",
+    "opciones": [
+      "A) Copia compulsada.",
+      "B) Copia sellada.",
+      "C) Copia auténtica.",
+      "D) Sellado simple."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "255. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos menores son aquellos cuyo valor estimado es inferior a:",
+    "pregunta": "255. El Decreto canario regulador de la expedición de certificados, copias compulsadas, copias selladas y copias auténticas de documentos establece que serán competentes para emitir los actos de certificación, señale la respuesta incorrecta:",
     "opciones": [
-      "A) 15.000 euros en contratos de obras y 5.000 euros en contratos de servicios y suministros.",
-      "B) 40.000 euros en contratos de obras y 15.000 euros en contratos de servicios y suministros.",
-      "C) 100.000 euros en contratos de obras y 50.000 euros en contratos de servicios y suministros.",
-      "D) No hay límites establecidos para los contratos menores."
+      "A) Las personas titulares de los servicios, secciones y negociados responsables de los registros privados, respecto de los datos inscritos en los mismos.",
+      "B) Las personas titulares de los servicios, secciones y negociados responsables de los registros públicos, respecto de los datos inscritos en los mismos.",
+      "C) Las personas titulares de órganos administrativos y otro personal funcionario a los que expresamente se les atribuya esta función por el ordenamiento jurídico.",
+      "D) El personal funcionario responsable de las unidades administrativas de información al ciudadano, respecto de los servicios y procedimientos que se presten o se gestionen en dichas unidades."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "256. El Decreto canario regulador de la expedición de certificados, copias compulsadas, copias selladas y copias auténticas de documentos establece que serán competentes para emitir los actos de certificación, señale la respuesta correcta:",
+    "opciones": [
+      "A) Las unidades administrativas de información al ciudadano, respecto de los servicios y procedimientos que se presten o se gestionen en dichas unidades, con una valoración del emisor de los hechos certificados.",
+      "B) Los órganos administrativos, en el caso de las actuaciones no administrativas automatizadas de su competencia, de conformidad con lo establecido en su normativa reguladora.",
+      "C) El personal funcionario responsable de las unidades administrativas de información al ciudadano, respecto de los servicios y procedimientos que se presten o se gestionen en dichas unidades.",
+      "D) Las personas titulares de los servicios, secciones y negociados responsables de los registros privados, respecto de los datos inscritos en los mismos."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "257. El artículo 2 del Decreto regulador de la expedición de certificados, copias compulsadas, copias selladas y copias auténticas de documentos en la Administración Pública de la Comunidad Autónoma de Canarias contiene las siguientes definiciones:",
+    "opciones": [
+      "A) Copia auténtica, copia sellada, sellado simple, copia compulsada, compulsa, cotejo, certificado y certificación.",
+      "B) Copia auténtica, copia sellada, sellado simple, copia simple, compulsa, cotejo, certificado y certificación.",
+      "C) Copia auténtica, copia sellada, sellado simple, copia compulsada, cotejo, certificado y certificación autenticada.",
+      "D) Copia auténtica, copia sellada, copia original, sellado simple, copia compulsada, compulsa, cotejo, certificado y certificación."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "258. La norma que regula en el ámbito de la Comunidad Autónoma de Canarias, el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario es el:",
+    "opciones": [
+      "A) Decreto 126/2006, de 1 de agosto.",
+      "B) Real Decreto 116/2006, de 1 de agosto.",
+      "C) Decreto 116/2006, de 1 de agosto.",
+      "D) Real Decreto 126/2006, de 1 de agosto"
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "259. El Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario tiene por objeto:",
+    "opciones": [
+      "A) Listas de espera quirúrgica y listas de espera de consulta especializada y pruebas diagnósticas/terapéuticas.",
+      "B) Sólo la gestión de listas de espera quirúrgica.",
+      "C) Sólo la gestión de listas de espera de consulta especializada y pruebas diagnósticas/ terapéuticas.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "260. La finalidad del Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario es:",
+    "opciones": [
+      "A) La reducción de las listas de espera.",
+      "B) El incremento de las listas de espera.",
+      "C) Selección de personal estatutario y provisión de plazas básicas y puestos de trabajo en los órganos de prestación de servicios sanitarios del Servicio Canario de la Salud.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "261. El ámbito de aplicación del Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario es:",
+    "opciones": [
+      "A) Todos los centros y servicios de la Red Hospitalaria de Utilización Pública del Servicio Canario de la Salud y a los centros y servicios concertados.",
+      "B) Todos los centros y servicios de la Red Hospitalaria de Utilización Pública del Servicio Canario de la Salud.",
+      "C) Todos los centros y servicios de la Red Hospitalaria de Utilización Pública del Sistema Nacional de Salud y a los centros y servicios concertados.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 0
+  },
+ {
+    "pregunta": "262. Según el Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, señale la correcta:",
+    "opciones": [
+      "A) El desarrollo e implantación de las medidas para la reducción de las listas de espera establecidas en el Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, corresponde a la Dirección General competente en materia de programas asistenciales del Servicio Canario de Salud.",
+      "B) El desarrollo e implantación de las medidas para la reducción de las listas de espera establecidas en el Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, corresponde a la Dirección General de Salud Pública del Servicio Canario de Salud.",
+      "C) El desarrollo e implantación de las medidas para la reducción de las listas de espera establecidas en el Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, corresponde a la Dirección General de Farmacia del Servicio Canario de Salud.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "263. Entre las funciones de la Dirección General encargada de la organización, gestión e información de las listas de espera en el ámbito sanitario en la Comunidad Autónoma de Canarias están:",
+    "opciones": [
+      "A) Establecer y coordinar los flujos de pacientes con el fin de garantizar el cumplimiento del objetivo de reducción de las listas de espera.",
+      "B) Gestionar el sistema de información de listas de espera quirúrgica, de consulta especializada y pruebas diagnósticas/terapéuticas, manteniéndolo permanentemente actualizado.",
+      "C) Proponer a la Dirección del Servicio Canario de la Salud los criterios de inclusión en las listas de espera, de conformidad con lo establecido en la normativa básica de aplicación.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "264. El órgano encargado del seguimiento y evaluación de las medidas adoptadas para la reducción de las listas de espera contempladas en el Decreto que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario de Canarias es:",
+    "opciones": [
+      "A) La Dirección del Servicio Canario de la Salud.",
+      "B) La Dirección General de Recursos Humanos.",
+      "C) La Consejera de Sanidad.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "265. En relación al cómputo del tiempo máximo establecido en el Decreto canario que regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, señale la correcta:",
+    "opciones": [
+      "A) El inicio del cómputo del plazo máximo de permanencia en la lista de espera en consulta especializada y pruebas diagnósticas/terapéuticas se efectuará a partir del mismo día de indicación de la consulta especializada o prueba diagnóstica/terapéutica por el médico de la red pública, teniendo en cuenta tal petición.",
+      "B) El inicio del cómputo del plazo mínimo de permanencia en la lista de espera en consulta especializada y pruebas diagnósticas/terapéuticas se efectuará a partir del día siguiente a la fecha de indicación de la consulta especializada o prueba diagnóstica/terapéutica por el médico de la red pública, teniendo en cuenta tal petición.",
+      "C) El inicio del cómputo del plazo máximo de permanencia en la lista de espera en consulta especializada y pruebas diagnósticas/terapéuticas se efectuará a partir del día siguiente a la fecha de indicación de la consulta especializada o prueba diagnóstica/terapéutica por el médico de la red pública, teniendo documentada tal petición. ",
+      "D) Ninguna es correcta. "
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "266. Según establece el Decreto canario por el que se regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, el tiempo máximo de permanencia en lista de espera se interrumpirá cuando concurra alguno de los siguientes supuestos:",
+    "opciones": [
+      "A) Causas clínicas valoradas por el facultativo responsable que aconsejen retrasar la intervención, la realización de la consulta o la práctica de la prueba y durante el tiempo que se determine y sea necesario para su desaparición.",
+      "B) Mutuo acuerdo entre las partes.",
+      "C) Matrimonio, veinte días naturales.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "267. La Consejería competente en materia de sanidad, teniendo en cuenta las previsiones reguladas en la normativa básica, proporcionará la siguiente información general sobre las listas de espera:",
+    "opciones": [
+      "A) Estado de situación de las listas de espera en la Comunidad Autónoma de Canarias.",
+      "B) Tiempos máximos de espera en cada una de las listas.",
+      "C) La información general estará disponible en la página web de la Consejería.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "268. En relación a la información personalizada regulada en el artículo 17 del Decreto canario por el que se regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, el paciente, su representante legal o persona debidamente autorizada, recibirá el correspondiente documento acreditativo que deberá contener como mínimo, los siguientes datos:",
+    "opciones": [
+      "A) La fecha y motivo de la inclusión, así como la fecha prevista en que se realizará la intervención quirúrgica, o la fecha y hora de la primera consulta especializada o la primera prueba diagnóstica/terapéutica. En el supuesto de que estas últimas no puedan indicarse en ese momento, se dejará constancia del plazo en el que han de ser notificadas.",
+      "B) El procedimiento para obtener información sobre su situación en la lista de espera quirúrgica, primera consulta especializada o primeras pruebas diagnósticas/terapéuticas.",
+      "C) El procedimiento para ejercitar su derecho a la intervención en el plazo de demora máximo comprometido y. eventualmente, manifestar cualquier queja al respecto.",
+      "D) Todas son ciertas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "269. En relación al Decreto canario por el que se regula el sistema de organización, gestión e información de las listas de espera en el ámbito sanitario, señale la respuesta correcta:",
+    "opciones": [
+      "A) Transcurrido el tiempo máximo de programación sin que el centro o servicio sanitario hubiera fijado la fecha de la cita correspondiente, no se podrá derivar al paciente a otro centro o servicio de la Red Hospitalaria de Utilización Pública del Servicio Canario de la Salud o, en su caso, a un centro o servicio concertado.",
+      "B) Transcurrido el tiempo máximo de programación sin que el centro o servicio sanitario hubiera fijado la fecha de la cita correspondiente, se podrá derivar al paciente a otro centro o servicio de la Red Hospitalaria de Utilización Pública del Servicio Canario de la Salud; pero no a un centro o servicio concertado.",
+      "C) Transcurrido el tiempo máximo de programación sin que el centro o servicio sanitario hubiera fijado la fecha de la cita correspondiente, se podrá derivar al paciente a otro centro o servicio de la Red Hospitalaria de Utilización Pública del Servicio Canario de la Salud o, en su caso, a un centro o servicio concertado.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "270. Según se establece en el Decreto canario que regula las listas de espera en el ámbito sanitario, entre las causas para la interrupción de plazo del tiempo máximo de permanencia en lista de espera se encuentra:",
+    "opciones": [
+      "A) Nacimiento o adopción de un hijo o nieto y durante 4 días naturales.",
+      "B) Fallecimiento o enfermedad grave de un familiar hasta el cuarto grado de consanguinidad o afinidad, cuatro días naturales.",
+      "C) Cumplimiento de un deber inexcusable de carácter personal y durante el tiempo estrictamente necesario.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "271. La aplicación del Decreto que regula las listas de espera en la Comunidad Autónoma de Canarias afectará a todos los pacientes con derecho a la asistencia sanitaria pública en el Sistema Canario de la Salud que se encuentren en alguna de las situaciones siguientes:",
+    "opciones": [
+      "A) Pacientes en espera para ser atendidos en primeras consultas de asistencia especializada o para la realización de pruebas diagnósticas/terapéuticas en atención hospitalaria solicitadas por un médico de la red pública, teniendo documentada tal petición.",
+      "B) Pacientes en espera para ser atendidos en primeras consultas de atención primaria, teniendo documentada tal petición.",
+      "C) Pacientes en espera para ser atendidos en primeras consultas de asistencia especializada o para la realización de pruebas diagnósticas/terapéuticas en atención hospitalaria solicitadas por un médico de la red privada, teniendo documentada tal petición.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "272. Si desea imprimir páginas salteadas desde un procesador de texto:",
+    "opciones": [
+      "A) Ninguna de las respuestas es correcta.",
+      "B) Debe poner el número de las páginas separadas por una coma.",
+      "C) Debe poner el número de las páginas separadas por un asterisco.",
+      "D) Debe poner el número de las páginas separadas por un guión."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "256. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los procedimientos de adjudicación de contratos son:",
+    "pregunta": "273. Señale cuál de las siguientes combinaciones de teclas (método abreviado) permite cortar un texto seleccionado:",
     "opciones": [
-      "A) Abierto, restringido, de diálogo competitivo, de asociación para la innovación y negociado sin publicidad.",
-      "B) Abierto, restringido y negociado.",
-      "C) Abierto, restringido y diálogo competitivo.",
-      "D) Abierto y restringido."
+      "A) CTRL+Z.",
+      "B) CTRL+ V.",
+      "C) MAYÚS(Shift)+F3.",
+      "D) TRL+X"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "274. En un Procesador de texto, pulsando las teclas CTRL + AA (dos veces A) se activa la opción",
+    "opciones": [
+      "A) Seleccionar todo.",
+      "B) Deshacer.",
+      "C) Buscar y reemplazar la A por la A.",
+      "D) Ninguna de las respuestas es correcta."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "275. En un Sistema Gestor de Base de Datos, ¿a qué denominamos clave primaria?:",
+    "opciones": [
+      "A) Clave que se usa en una tabla secundaria y que coincide con la de una tabla primaria relacionada.",
+      "B) Campo que puede tener valores duplicados.",
+      "C) Uno o más campos cuyo valor identifica de manera exclusiva cada registro de una tabla.",
+      "D) Un campo que puede permitir valores nulos."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "276. En el mercado hay varios sistemas gestores de bases de datos, ¿cuál es el más extendido en la actualidad y que permite trabajar con tablas?:",
+    "opciones": [
+      "A) Modelo relacional.",
+      "B) Modelo jerárquico.",
+      "C) Modelo de red.",
+      "D) Modelo de árbol."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "257. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el procedimiento abierto es aquel en el que:",
+    "pregunta": "277. Podríamos definir la tabla de una base de datos relacional como:",
     "opciones": [
-      "A) Todo empresario interesado puede presentar una oferta.",
-      "B) Solo pueden presentar ofertas los empresarios invitados por el órgano de contratación.",
-      "C) El órgano de contratación negocia las condiciones del contrato con uno o varios empresarios.",
-      "D) El órgano de contratación celebra el contrato sin previa publicidad."
+      "A) Una colección de datos organizados en columnas (campos) y filas (registros).",
+      "B) Un conjunto de datos estructurados en filas, que son los campos.",
+      "C) Una colección de datos numéricos.",
+      "D) Una colección de datos organizados en columnas (registros) y filas (campos)."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "258. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el procedimiento restringido es aquel en el que:",
+    "pregunta": "278. Señale la respuesta correcta. Un procesador de texto es:",
     "opciones": [
-      "A) Todo empresario interesado puede presentar una oferta.",
-      "B) Solo pueden presentar ofertas los empresarios invitados por el órgano de contratación.",
-      "C) El órgano de contratación negocia las condiciones del contrato con uno o varios empresarios.",
-      "D) El órgano de contratación celebra el contrato sin previa publicidad."
+      "A) Una aplicación informática destinada a la creación o modificación de documentos escritos por medio de una computadora.",
+      "B) Una aplicación que permite manipular datos numéricos y alfanuméricos dispuestos en forma de tablas compuestas por celdas que se suelen organizar en una matriz bidimensional de filas y columnas.",
+      "C) Un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "279. Una base de datos está compuesta por objetos que tienen una función determinada. Señale cual de los siguientes objetos forma parte de una base de datos:",
+    "opciones": [
+      "A) Tablas para almacenar los datos.",
+      "B) Consultas para buscar y recuperar únicamente los datos que necesita.",
+      "C) Formularios para ver, agregar y actualizar los datos de las tablas.",
+      "D) Todas son ciertas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "280. En relación a los procesadores de texto, señale la verdadera:",
+    "opciones": [
+      "A) Brindan una amplia gama de funcionalidades tipográficas, idiomáticas u organizativas, con diversas variantes según el programa de que se disponga.",
+      "B) Como regla general, todos pueden trabajar con distintos tipos y tamaños de letra, formato de párrafo y efectos artísticos, además de brindar la posibilidad de intercalar o superponer imágenes u otros objetos gráficos dentro del texto.",
+      "C) Incorporan correctores de ortografía y gramática, así como diccionarios multilingües y de sinónimos que facilitan en gran medida la labor de redacción.",
+      "D) Todas son ciertas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "281. ¿Cuál es el orden de prioridad de operación en una hoja de cálculo, introduciendo una fórmula sin paréntesis?",
+    "opciones": [
+      "A) Primero se resuelven sumas y restas; después, cocientes y productos; y finalmente potencias.",
+      "B) Primero se resuelven potencias; después, cocientes y productos; y finalmente, sumas y restas.",
+      "C) Primero se resuelven cocientes y productos; después potencias; y finalmente sumas y restas.",
+      "D) Primero se resuelven sumas y restas; después, potencias; y finalmente cocientes y productos."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "259. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el procedimiento de diálogo competitivo es aquel en el que:",
+    "pregunta": "282. En una hoja de cálculo, ¿a qué categoría de funciones pertenece la función SI?",
     "opciones": [
-      "A) Todo empresario interesado puede presentar una oferta.",
-      "B) Solo pueden presentar ofertas los empresarios invitados por el órgano de contratación.",
-      "C) El órgano de contratación negocia las condiciones del contrato con uno o varios empresarios, con el fin de desarrollar una o varias soluciones susceptibles de satisfacer sus necesidades y sobre esa base, seleccionar la oferta más adecuada.",
-      "D) El órgano de contratación celebra el contrato sin previa publicidad."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "260. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el procedimiento negociado sin publicidad se utilizará en los casos previstos en la ley, entre otros:",
-    "opciones": [
-      "A) Cuando no se hayan presentado ofertas o solicitudes adecuadas en un procedimiento abierto o restringido.",
-      "B) Cuando las obras, suministros o servicios puedan ser encomendados a un único empresario por razones técnicas o artísticas o por motivos relacionados con la protección de derechos de exclusividad.",
-      "C) Cuando una situación de extrema urgencia, resultante de acontecimientos imprevisibles para el órgano de contratación y no imputables a él, haga imposible respetar los plazos de los procedimientos abierto, restringido o de diálogo competitivo.",
-      "D) Todas las anteriores."
+      "A) Búsqueda y referencia.",
+      "B) Estadística.",
+      "C) Texto.",
+      "D) Lógicas."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "261. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la adjudicación de los contratos se realizará utilizando una pluralidad de criterios de adjudicación, basados en:",
+    "pregunta": "283. ¿Cuál de estas fórmulas en una hoja de cálculo es incorrecta?",
     "opciones": [
-      "A) La relación calidad-precio.",
-      "B) El precio.",
-      "C) La calidad.",
-      "D) La experiencia del licitador."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "262. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la formalización de los contratos:",
-    "opciones": [
-      "A) Será en documento administrativo, salvo que el contrato sea menor.",
-      "B) Será en documento público cuando el importe del contrato sea superior a 50.000 euros.",
-      "C) Será en documento público en todo caso.",
-      "D) Será en documento privado."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "263. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el plazo para la formalización de los contratos es de:",
-    "opciones": [
-      "A) 5 días hábiles a contar desde la fecha de notificación de la adjudicación.",
-      "B) 10 días hábiles a contar desde la fecha de notificación de la adjudicación.",
-      "C) 15 días hábiles a contar desde la fecha de notificación de la adjudicación.",
-      "D) Un mes a contar desde la fecha de notificación de la adjudicación."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "264. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las garantías que deben prestar los contratistas son:",
-    "opciones": [
-      "A) Provisional y definitiva.",
-      "B) Provisional, definitiva y complementaria.",
-      "C) Definitiva y complementaria.",
-      "D) Definitiva."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "265. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el importe de la garantía definitiva es del:",
-    "opciones": [
-      "A) 2% del presupuesto base de licitación del contrato.",
-      "B) 5% del presupuesto base de licitación del contrato.",
-      "C) 10% del presupuesto base de licitación del contrato.",
-      "D) 20% del presupuesto base de licitación del contrato."
+      "A) =suma(A1:A7).",
+      "B) =suma(A1,A2,A3,A4,A5,A6,A7).",
+      "C) =suma(A1:A5;A6;A7).",
+      "D) =suma(A1:A2 A3 A4,A5,A6;A7)."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "266. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la modificación de los contratos podrá realizarse cuando:",
+    "pregunta": "284. La unidad básica de información en la hoja de cálculo, donde se insertan los valores y las fórmulas que realizan los cálculos se denomina:",
     "opciones": [
-      "A) Sea necesaria para adaptar el contrato a circunstancias sobrevenidas e imprevisibles.",
-      "B) Se establezca en los pliegos o en el anuncio de licitación.",
-      "C) Sea acordada por el órgano de contratación, previo informe favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "267. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la resolución de los contratos podrá producirse por:",
-    "opciones": [
-      "A) Incumplimiento de las obligaciones del contratista.",
-      "B) Mutuo acuerdo de las partes.",
-      "C) Muerte o incapacidad sobrevenida del contratista individual.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "268. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el plazo para la ejecución del contrato:",
-    "opciones": [
-      "A) Se contará a partir de la fecha de la formalización del contrato.",
-      "B) Se contará a partir de la fecha de la notificación de la adjudicación.",
-      "C) Se contará a partir de la fecha de la aprobación del expediente de contratación.",
-      "D) Se contará a partir de la fecha que se determine en el contrato."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "269. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la prórroga de los contratos podrá realizarse cuando:",
-    "opciones": [
-      "A) Se establezca en los pliegos o en el anuncio de licitación.",
-      "B) Sea acordada por el órgano de contratación, previo informe favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma.",
-      "C) Sea necesaria para adaptar el contrato a circunstancias sobrevenidas e imprevisibles.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "270. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el régimen de revisión de precios de los contratos:",
-    "opciones": [
-      "A) Se aplicará a los contratos de obras, suministros y servicios de tracto sucesivo o de ejecución continuada cuyo período de recuperación de la inversión sea igual o superior a cinco años.",
-      "B) Se aplicará a todos los contratos del sector público.",
-      "C) Se aplicará solo a los contratos de obras.",
-      "D) No se aplicará a ningún contrato del sector público."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "271. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la resolución del contrato por mutuo acuerdo de las partes:",
-    "opciones": [
-      "A) No dará derecho a indemnización alguna.",
-      "B) Dará derecho a la indemnización que se pacte.",
-      "C) Dará derecho a la indemnización que se fije legalmente.",
-      "D) Dará derecho a la indemnización que se determine por el órgano de contratación."
+      "A) Hoja.",
+      "B) Celda.",
+      "C) Libro.",
+      "D) Coordenada."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "272. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la responsabilidad del contratista por vicios ocultos en la ejecución del contrato será de:",
+    "pregunta": "285. Al utilizar una hoja de cálculo se introduce la información en celdas, que a su vez están organizadas en:",
     "opciones": [
-      "A) Seis meses.",
-      "B) Un año.",
-      "C) Dos años.",
-      "D) Cinco años."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "273. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el registro oficial de licitadores y empresas clasificadas es:",
-    "opciones": [
-      "A) Un registro público de carácter voluntario.",
-      "B) Un registro público de carácter obligatorio.",
-      "C) Un registro privado de carácter voluntario.",
-      "D) Un registro privado de carácter obligatorio."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "274. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la Plataforma de Contratación del Sector Público es:",
-    "opciones": [
-      "A) Un portal de Internet para la publicación de anuncios de licitación y adjudicación de contratos.",
-      "B) Un sistema de información para la gestión de los procedimientos de contratación del sector público.",
-      "C) Un registro electrónico de contratos.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "275. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la comunicación de los anuncios de licitación al Diario Oficial de la Unión Europea es obligatoria para los contratos de valor estimado igual o superior a:",
-    "opciones": [
-      "A) Los umbrales establecidos en las Directivas de la Unión Europea.",
-      "B) 100.000 euros.",
-      "C) 200.000 euros.",
-      "D) 500.000 euros."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "276. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las mesas de contratación:",
-    "opciones": [
-      "A) Son órganos colegiados de carácter permanente.",
-      "B) Son órganos colegiados de carácter no permanente.",
-      "C) Son órganos de asesoramiento del órgano de contratación.",
-      "D) Son órganos de decisión del órgano de contratación."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "277. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la composición de la mesa de contratación es:",
-    "opciones": [
-      "A) Un Presidente, un Secretario y un mínimo de tres vocales.",
-      "B) Un Presidente, un Secretario y un mínimo de cinco vocales.",
-      "C) Un Presidente, un Secretario y un mínimo de siete vocales.",
-      "D) Un Presidente, un Secretario y los vocales que se determinen reglamentariamente."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "278. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las funciones de la mesa de contratación son:",
-    "opciones": [
-      "A) La clasificación de las ofertas y la propuesta de adjudicación del contrato.",
-      "B) La valoración de las ofertas y la adjudicación del contrato.",
-      "C) La apertura de los sobres y la valoración de las ofertas.",
-      "D) La elaboración de los pliegos y la adjudicación del contrato."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "279. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la prohibición de contratar es:",
-    "opciones": [
-      "A) Una sanción que impide a una empresa contratar con el sector público.",
-      "B) Una causa de exclusión de la participación en procedimientos de contratación.",
-      "C) Una medida cautelar que impide a una empresa contratar con el sector público.",
-      "D) Una medida preventiva que impide a una empresa contratar con el sector público."
+      "A) Párrafos y columnas.",
+      "B) Filas y columnas.",
+      "C) Párrafos y filas.",
+      "D) Párrafos y hojas."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "280. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la duración máxima de los contratos de servicios y suministros es de:",
+    "pregunta": "286. ¿Qué combinación de teclas utilizarías en un procesador de texto para deshacer una acción?:",
     "opciones": [
-      "A) Cuatro años, incluidas las posibles prórrogas.",
-      "B) Cinco años, incluidas las posibles prórrogas.",
-      "C) Diez años, incluidas las posibles prórrogas.",
-      "D) No hay límites establecidos para la duración de los contratos de servicios y suministros."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "281. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la revisión de precios en los contratos del sector público:",
-    "opciones": [
-      "A) Es obligatoria en todos los contratos.",
-      "B) Es potestativa en todos los contratos.",
-      "C) Es obligatoria en los contratos de obras, suministros y servicios de tracto sucesivo o de ejecución continuada cuyo período de recuperación de la inversión sea igual o superior a cinco años.",
-      "D) Es obligatoria en los contratos de obras, suministros y servicios de tracto sucesivo o de ejecución continuada cuyo período de recuperación de la inversión sea igual o superior a dos años."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "282. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la cesión de los contratos:",
-    "opciones": [
-      "A) Está permitida en todo caso.",
-      "B) Está prohibida en todo caso.",
-      "C) Está permitida cuando lo autorice expresamente el órgano de contratación y se cumplan los requisitos legales.",
-      "D) Está permitida cuando lo autorice expresamente la ley y se cumplan los requisitos legales."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "283. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la subcontratación en los contratos del sector público:",
-    "opciones": [
-      "A) Está permitida en todo caso.",
-      "B) Está prohibida en todo caso.",
-      "C) Está permitida cuando lo autorice expresamente el órgano de contratación y se cumplan los requisitos legales.",
-      "D) Está permitida cuando lo autorice expresamente la ley y se cumplan los requisitos legales."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "284. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la suspensión del contrato podrá acordarse por:",
-    "opciones": [
-      "A) Mutuo acuerdo de las partes.",
-      "B) Causas de fuerza mayor.",
-      "C) Interrupción de la ejecución del contrato por causas imputables a la Administración.",
-      "D) Todas las anteriores."
+      "A) Control +X",
+      "B) Control +p",
+      "C) Control +C",
+      "D) Control +Z"
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "285. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la extinción de los contratos se producirá por:",
+    "pregunta": "287. ¿Cuál de las siguientes es la denominación para un grupo de ordenadores y/o dispositivos interconectados a fin de compartir información y recursos?",
     "opciones": [
-      "A) Cumplimiento, resolución o mutuo acuerdo de las partes.",
-      "B) Cumplimiento o resolución.",
-      "C) Cumplimiento o mutuo acuerdo de las partes.",
-      "D) Resolución o mutuo acuerdo de las partes."
+      "A) Protocolo de comunicación.",
+      "B) Red informática.",
+      "C) Algoritmo informático.",
+      "D) Lenguaje de programación."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "288. El dispositivo informático cuya misión es, entre otras, bloquear el acceso a usuarios no autorizados a una red privada que está conectada a Internet, es el:",
+    "opciones": [
+      "A) Firewall.",
+      "B) Antivirus.",
+      "C) IDS.",
+      "D) Servidor."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "286. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el recurso especial en materia de contratación se interpondrá contra:",
+    "pregunta": "289. Cada ordenador conectado a Internet tiene una dirección para identificarse por una serie de números. ¿Cuál es su nombre?:",
     "opciones": [
-      "A) Actos y decisiones adoptadas en los procedimientos de adjudicación de contratos de obras, suministros y servicios, que no sean contratos menores, y de concesión de obras y de concesión de servicios.",
-      "B) Actos y decisiones adoptadas en los procedimientos de adjudicación de todos los contratos del sector público.",
-      "C) Actos y decisiones adoptadas en los procedimientos de adjudicación de contratos de obras y de servicios.",
-      "D) Actos y decisiones adoptadas en los procedimientos de adjudicación de contratos de suministros y de servicios."
+      "A) DNS.",
+      "B) IP.",
+      "C) COM.",
+      "D) ID."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "290. ¿Con cuál de los siguientes protocolos pueden varios usuarios acceder de forma simultánea a la misma cuenta de correo electrónico y ver los mensajes?:",
+    "opciones": [
+      "A) IMAP.",
+      "B) POP3.",
+      "C) SMTP.",
+      "D) C3PO."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "287. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el plazo para la interposición del recurso especial en materia de contratación será de:",
+    "pregunta": "291. Si queremos enviar un correo electrónico a varios destinatarios sin que entre ellos reciban las direcciones de correo de los demás, usamos el campo:",
     "opciones": [
-      "A) 10 días hábiles a contar desde el día siguiente al de la notificación del acto recurrido o al de la publicación del anuncio de licitación.",
-      "B) 15 días hábiles a contar desde el día siguiente al de la notificación del acto recurrido o al de la publicación del anuncio de licitación.",
-      "C) Un mes a contar desde el día siguiente al de la notificación del acto recurrido o al de la publicación del anuncio de licitación.",
-      "D) Dos meses a contar desde el día siguiente al de la notificación del acto recurrido o al de la publicación del anuncio de licitación."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "288. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el Tribunal Administrativo Central de Recursos Contractuales es:",
-    "opciones": [
-      "A) Un órgano administrativo.",
-      "B) Un órgano jurisdiccional.",
-      "C) Un órgano consultivo.",
-      "D) Un órgano de control."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "289. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos públicos deberán incluir cláusulas que garanticen:",
-    "opciones": [
-      "A) La igualdad de género, la inserción laboral de personas con discapacidad y la protección del medio ambiente.",
-      "B) La contratación de empresas locales y la promoción del empleo juvenil.",
-      "C) La transparencia y la libre competencia.",
-      "D) La eficiencia y el ahorro de costes."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "290. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la revisión de oficio de los contratos:",
-    "opciones": [
-      "A) Es una potestad de la Administración para anular los contratos que sean contrarios a Derecho.",
-      "B) Es una potestad de la Administración para modificar los contratos que sean contrarios a Derecho.",
-      "C) Es una potestad de la Administración para suspender los contratos que sean contrarios a Derecho.",
-      "D) Es una potestad de la Administración para resolver los contratos que sean contrarios a Derecho."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "291. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la posibilidad de indemnización por daños y perjuicios derivados de la suspensión del contrato por causas imputables a la Administración será por:",
-    "opciones": [
-      "A) El lucro cesante y los gastos derivados de la suspensión.",
-      "B) Los daños emergentes y los gastos derivados de la suspensión.",
-      "C) El lucro cesante, los daños emergentes y los gastos derivados de la suspensión.",
-      "D) Los daños y perjuicios que se acrediten."
+      "A) Para.",
+      "B) CC.",
+      "C) CCO.",
+      "D) BCO."
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "292. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el concepto de \"ciclo de vida\" en la contratación pública se refiere a:",
+    "pregunta": "292. ¿Qué es un buscador Web?",
     "opciones": [
-      "A) Todas las fases sucesivas o interrelacionadas, incluyendo la investigación y el desarrollo que deban realizarse, la producción, la comercialización y sus condiciones, el transporte, la utilización, el mantenimiento, y al final de su vida, la eliminación, incluida la demolición, de una obra, suministro o servicio o de sus activos subyacentes.",
-      "B) Todas las fases de la vida de un producto, desde su producción hasta su eliminación.",
-      "C) Todas las fases de la vida de un servicio, desde su prestación hasta su finalización.",
-      "D) Todas las fases de la vida de una obra, desde su construcción hasta su demolición."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "293. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las técnicas de racionalización de la contratación son:",
-    "opciones": [
-      "A) Acuerdos marco, sistemas dinámicos de adquisición y central de contratación.",
-      "B) Acuerdos marco y sistemas dinámicos de adquisición.",
-      "C) Central de contratación y contratación conjunta.",
-      "D) Acuerdos marco, sistemas dinámicos de adquisición, central de contratación y contratación conjunta."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "294. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los acuerdos marco son:",
-    "opciones": [
-      "A) Acuerdos entre uno o varios poderes adjudicadores y uno o varios operadores económicos, que tienen por objeto establecer las condiciones que regirán los contratos que se vayan a adjudicar durante un período determinado, en particular por lo que se refiere a los precios y, en su caso, a las cantidades previstas.",
-      "B) Acuerdos entre uno o varios poderes adjudicadores y un único operador económico, que tienen por objeto establecer las condiciones que regirán los contratos que se vayan a adjudicar durante un período determinado.",
-      "C) Acuerdos entre varios poderes adjudicadores y un único operador económico, que tienen por objeto establecer las condiciones que regirán los contratos que se vayan a adjudicar durante un período determinado.",
-      "D) Acuerdos entre uno o varios poderes adjudicadores y uno o varios operadores económicos, que tienen por objeto establecer las condiciones que regirán los contratos que se vayan a adjudicar por cada poder adjudicador."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "295. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los sistemas dinámicos de adquisición son:",
-    "opciones": [
-      "A) Un procedimiento completamente electrónico de adquisición de uso restringido, abierto durante todo su periodo de validez a cualquier operador económico que satisfaga los criterios de selección y haya presentado una oferta indicativa que se ajuste al pliego de condiciones.",
-      "B) Un procedimiento completamente electrónico de adquisición de uso restringido, abierto durante un periodo determinado a cualquier operador económico que satisfaga los criterios de selección y haya presentado una oferta indicativa que se ajuste al pliego de condiciones.",
-      "C) Un procedimiento completamente electrónico de adquisición de uso ilimitado, abierto durante todo su periodo de validez a cualquier operador económico que satisfaga los criterios de selección y haya presentado una oferta indicativa que se ajuste al pliego de condiciones.",
-      "D) Un procedimiento completamente electrónico de adquisición de uso ilimitado, abierto durante un periodo determinado a cualquier operador económico que satisfaga los criterios de selección y haya presentado una oferta indicativa que se ajuste al pliego de condiciones."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "296. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las centrales de contratación son:",
-    "opciones": [
-      "A) Poderes adjudicadores que adquieren suministros o servicios o realizan obras, con el fin de suministrarlos a otros poderes adjudicadores.",
-      "B) Poderes adjudicadores que adquieren suministros o servicios o realizan obras, con el fin de prestarlos a otros poderes adjudicadores.",
-      "C) Poderes adjudicadores que adquieren suministros o servicios o realizan obras, con el fin de cederlos a otros poderes adjudicadores.",
-      "D) Poderes adjudicadores que adquieren suministros o servicios o realizan obras, con el fin de venderlos a otros poderes adjudicadores."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "297. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos de obras menores, no requieren:",
-    "opciones": [
-      "A) Proyecto.",
-      "B) Dirección de obra.",
-      "C) Certificación de obra.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "298. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos de servicios menores, no requieren:",
-    "opciones": [
-      "A) Informe de necesidad.",
-      "B) Pliegos.",
-      "C) Publicidad.",
-      "D) Todas las anteriores."
+      "A) Es un sitio para buscar dominios.",
+      "B) Es una herramienta para agregar sitios a una intranet.",
+      "C) Es un servidor informático que permite la búsqueda de contenidos en base a palabras clave.",
+      "D) Ninguna es correcta."
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "299. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos de suministros menores, no requieren:",
+    "pregunta": "293. Al conjunto de datos que se añaden a una unidad de datos para protegerlos contra la falsificación, permitiendo al receptor probar la fuente y la integridad de los mismos, se denomina:",
     "opciones": [
-      "A) Presupuesto.",
-      "B) Pliegos.",
-      "C) Publicidad.",
-      "D) Todas las anteriores."
+      "A) FNMT.",
+      "B) Memoria virtual.",
+      "C) Firewall.",
+      "D) Firma digital."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "294. ¿Qué es una ventana POP UP?",
+    "opciones": [
+      "A) Una ventana basada en el protocolo de correo POP-3.",
+      "B) Una ventana que tú abres voluntariamente para acceder a su información.",
+      "C) Una ventana emergente que aparece automáticamente al navegar en determinadas páginas.",
+      "D) La ventana normal de trabajo del navegador."
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "300. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la facultad de interpretar los contratos administrativos corresponde a:",
+    "pregunta": "295. ¿Qué significa en la red de Internet las siglas WWW?",
     "opciones": [
-      "A) El órgano de contratación.",
-      "B) El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma.",
-      "C) El Tribunal Administrativo Central de Recursos Contractuales.",
-      "D) Los Tribunales de Justicia."
+      "A) World Wild Web.",
+      "B) Work Wide Web.",
+      "C) Word Wide Web.",
+      "D) World Wide Web."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "296. En el caso de que los interesados optaran por relacionarse con las Administraciones Públicas a través de medios electrónicos, se considerarán válidos a efectos de firma:",
+    "opciones": [
+      "A) Sistemas de firma electrónica cualificada y avanzada basados en certificados electrónicos cualificados de firma electrónica expedidos por prestadores incluidos en la \"Lista de confianza de prestadores de servicios de certificación\".",
+      "B) Sistemas de sello electrónico cualificado y de sello electrónico avanzado basados en certificados electrónicos cualificados de sello electrónico expedidos por prestador incluido en la \"Lista de confianza de prestadores de servicios de certificación\".",
+      "C) Cualquier otro sistema que las Administraciones públicas consideren válido en los términos y condiciones que se establezca, siempre que cuenten con un registro previo como usuario que permita garantizar su identidad y previa comunicación a la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "297. Los medios o soportes en que se almacenen documentos electrónicos por la Administración, deberán contar con medidas de seguridad, de acuerdo con lo previsto en el:",
+    "opciones": [
+      "A) Esquema Nacional de Inteligencia.",
+      "B) Centro Nacional de Inteligencia. ",
+      "C) Esquema Nacional de Seguridad.",
+      "D) Centro Nacional de Seguridad."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "298. ¿Qué tipo de competencias tienen las unidades de información y atención al ciudadano en la Administración Pública, según la Ley 39/2015, de 1 de octubre?",
+    "opciones": [
+      "A) Técnicas y organizativas.",
+      "B) Gestión de personas.",
+      "C) Didácticas.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "299. ¿Quién puede obtener un Certificado electrónico de Ciudadano o Certificado Digital?",
+    "opciones": [
+      "A) Cualquier ciudadano español que esté en posesión de su DNI.",
+      "B) Cualquier ciudadano español o extranjero, que esté en posesión de su DNI o NIE.",
+      "C) Cualquier ciudadano español o extranjero, mayor de edad o menor emancipado que esté en posesión de su DNI o NIE.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "300. ¿De qué forma puede obtenerse el Certificado Digital?",
+    "opciones": [
+      "A) Con una vídeo identificación.",
+      "B) Con acreditación presencial en una oficina.",
+      "C) Utilizando el DNI electrónico.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
   }
+
 ]

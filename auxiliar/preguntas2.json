@@ -1,502 +1,504 @@
 [
   {
-    "pregunta": "51. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la jubilación forzosa se declarará al cumplir el personal estatutario la edad legalmente establecida, que es de:",
+    "pregunta": "51. El régimen general de situaciones del personal estatutario fijo, según el artículo 62 de la Ley 55/2003, de 16 de diciembre, comprende las siguientes:",
     "opciones": [
-      "A) Sesenta y cinco años.",
-      "B) Sesenta años.",
-      "C) Setenta años.",
-      "D) La edad legal de jubilación vigente en cada momento."
+      "A) Servicios especiales.",
+      "B) Servicios bajo otro régimen jurídico.",
+      "C) Suspensión de funciones.",
+      "D) Todas son situaciones del personal estatutario."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "52. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la jubilación voluntaria procederá a solicitud del interesado, una vez que el personal estatutario haya cumplido la edad y el periodo de servicios que se determinen en la legislación de:",
+    "pregunta": "52. Según el Estatuto Marco del personal estatutario de los servicios de salud, cuando el personal estatutario preste los servicios correspondientes a su nombramiento como tal, o cuando desempeñe funciones de gestión clínica, cualquiera que sea el servicio de salud, institución o centro en el que se encuentre destinado, así como cuando desempeñe puesto de trabajo de las relaciones de puestos de las Administraciones públicas abierto al personal estatutario, se hallará en:",
     "opciones": [
-      "A) Seguridad Social.",
-      "B) Personal al servicio de las Administraciones Públicas.",
-      "C) Sanidad.",
-      "D) Régimen estatutario."
+      "A) Servicios bajo otro régimen jurídico.",
+      "B) Servicios específicos.",
+      "C) Servicio activo.",
+      "D) Servicios especiales."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
-    "pregunta": "53. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, se podrá prolongar la permanencia en el servicio activo, por el tiempo que se determine en las normas de aplicación, al personal estatutario que cumpla la edad de jubilación forzosa y solicite mantener su relación de servicios, si la declaración de dicha prolongación se produce antes de cumplir la edad de:",
+    "pregunta": "53. Según el Estatuto Marco del personal estatutario de los servicios de salud, procederá declarar al personal estatutario en excedencia por prestación de servicios en el sector público:",
     "opciones": [
-      "A) Setenta años.",
-      "B) Sesenta y siete años.",
-      "C) Sesenta y ocho años.",
-      "D) Setenta y dos años."
+      "A) Cuando hayan obtenido la oportuna autorización de compatibilidad para prestar servicios en otra categoría de personal estatutario, como funcionario o como personal laboral, en cualquiera de las Administraciones públicas.",
+      "B) Cuando presten servicios en organismos públicos y no les corresponda quedar en otra situación.",
+      "C) El personal estatutario excedente por prestación de servicios en el sector público devengará retribuciones, y el tiempo de permanencia en esta situación no les será reconocido a efectos de trienios y carrera profesional, en su caso, cuando reingresen al servicio pasivo.",
+      "D) La excedencia por prestación de servicios en el sector público no está comprendida entre las situaciones del personal estatutario."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "54. En relación a la excedencia voluntaria por interés particular recogida en el artículo 67 de la Ley 55/2003, de 16 de diciembre:",
+    "opciones": [
+      "A) Deberá solicitar la excedencia voluntaria por interés particular quién esté sometido a un expediente disciplinario.",
+      "B) Para obtener el pase a esta situación será preciso haber prestado servicios efectivos en cualquiera de las Administraciones públicas durante los tres años inmediatamente anteriores.",
+      "C) El tiempo mínimo de permanencia en la situación de excedencia voluntaria será de tres años.",
+      "D) La concesión de la excedencia voluntaria por interés particular quedará subordinada a las necesidades del servicio, debiendo motivarse, en su caso su denegación."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "54. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la movilidad del personal estatutario se regirá por los siguientes principios, salvo:",
+    "pregunta": "55. Según el Estatuto Marco del personal estatutario de los servicios de salud, el personal declarado en la situación de suspensión firme:",
     "opciones": [
-      "A) Voluntariedad.",
-      "B) Concurrencia.",
-      "C) Publicidad.",
-      "D) Traslado forzoso."
+      "A) Conserva durante el tiempo de permanencia en la misma el ejercicio de sus funciones y de todos los derechos inherentes a su condición.",
+      "B) La suspensión firme se impondrá exclusivamente en virtud de sentencia dictada en causa criminal.",
+      "C) La suspensión firme determinará la pérdida del puesto de trabajo cuando exceda de seis meses.",
+      "D) El personal declarado en la situación de suspensión firme de funciones podrá prestar servicios en otra Administración pública."
     ],
-    "respuesta_correcta": 3
+    "respuesta_correcta": 2
   },
   {
-    "pregunta": "55. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la movilidad interna del personal estatutario se realizará por:",
+    "pregunta": "56. Según el artículo 68 del Estatuto Marco del personal estatutario de los servicios de salud la suspensión firme por sanción disciplinaria no podrá exceder de:",
     "opciones": [
-      "A) Libre designación.",
-      "B) Concurso de traslados.",
-      "C) Movilidad por razón de salud.",
-      "D) Adscripción temporal."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "56. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, los procedimientos de movilidad interservicios de salud serán convocados por:",
-    "opciones": [
-      "A) Los servicios de salud, sin perjuicio de los acuerdos que se puedan establecer con otros servicios de salud.",
-      "B) El Ministerio de Sanidad y Consumo, en el ámbito del Sistema Nacional de Salud.",
-      "C) El Consejo Interterritorial del Sistema Nacional de Salud, en el ámbito de sus competencias.",
-      "D) El Instituto de Gestión Sanitaria."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "57. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el nombramiento de personal estatutario temporal para la ejecución de programas de carácter temporal tendrá una duración máxima de:",
-    "opciones": [
-      "A) Seis meses.",
-      "B) Un año.",
-      "C) Dos años.",
+      "A) Seis años.",
+      "B) Seis meses.",
+      "C) Seis semanas.",
       "D) Tres años."
     ],
-    "respuesta_correcta": 2
+    "respuesta_correcta": 0
   },
   {
-    "pregunta": "58. ¿Qué órgano de la Organización Mundial de la Salud (OMS) es el responsable de adoptar el presupuesto y designar al Director General?",
+    "pregunta": "57. Según el artículo 20 de la Ley 55/2003, de 16 de diciembre, la adquisición de la condición de personal estatutario fijo se adquiere por el cumplimiento sucesivo de los siguientes requisitos (señalar la incorrecta):",
     "opciones": [
-      "A) El Consejo Ejecutivo.",
-      "B) La Asamblea de la Salud.",
-      "C) El Comité Regional.",
-      "D) La Secretaría."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "59. ¿Cuál es el principal objetivo de la Organización Mundial de la Salud (OMS)?",
-    "opciones": [
-      "A) Fomentar la investigación médica y el desarrollo de nuevas tecnologías.",
-      "B) Alcanzar para todos los pueblos el máximo grado de salud posible.",
-      "C) Proporcionar asistencia sanitaria a los países en desarrollo.",
-      "D) Establecer políticas de salud a nivel global."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "60. ¿Cuántos Estados Miembros tiene la Organización Mundial de la Salud (OMS)?",
-    "opciones": [
-      "A) 193.",
-      "B) 194.",
-      "C) 195.",
-      "D) 196."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "61. ¿Cuál de las siguientes afirmaciones sobre la Organización Mundial de la Salud (OMS) es INCORRECTA?",
-    "opciones": [
-      "A) La OMS es una agencia especializada de las Naciones Unidas.",
-      "B) Su sede se encuentra en Ginebra, Suiza.",
-      "C) Es el organismo rector y coordinador de la acción sanitaria internacional.",
-      "D) Su constitución fue adoptada en 1946."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "62. La Organización Mundial de la Salud (OMS) fue establecida el:",
-    "opciones": [
-      "A) 7 de abril de 1946.",
-      "B) 7 de abril de 1948.",
-      "C) 7 de mayo de 1946.",
-      "D) 7 de mayo de 1948."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "63. ¿Cuál de los siguientes no es un órgano principal de la Organización Mundial de la Salud (OMS)?",
-    "opciones": [
-      "A) La Asamblea Mundial de la Salud.",
-      "B) El Consejo Ejecutivo.",
-      "C) La Secretaría.",
-      "D) El Comité Permanente."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "64. El Director General de la Organización Mundial de la Salud (OMS) es designado por:",
-    "opciones": [
-      "A) El Consejo Ejecutivo.",
-      "B) La Asamblea de la Salud.",
-      "C) El Secretario General de las Naciones Unidas.",
-      "D) Los Estados Miembros."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "65. ¿Cuál de los siguientes no es un principio fundamental de la Constitución de la Organización Mundial de la Salud (OMS)?",
-    "opciones": [
-      "A) El goce del grado máximo de salud que se pueda lograr es uno de los derechos fundamentales de todo ser humano.",
-      "B) La salud de todos los pueblos es una condición fundamental para lograr la paz y la seguridad y depende de la más amplia cooperación de las personas y de los Estados.",
-      "C) La desigualdad en el desarrollo de los diferentes países en la promoción de la salud y el control de las enfermedades, especialmente las transmisibles, es un peligro común.",
-      "D) Una buena nutrición, una vivienda adecuada, el saneamiento, las condiciones satisfactorias de trabajo y otros factores ambientales, son elementos esenciales de la salud."
+      "A) Superación de las pruebas de selección.",
+      "B) Nombramiento conferido por el órgano competente.",
+      "C) Incorporación, previo incumplimiento de los requisitos formales en cada caso establecidos, a una plaza del servicio, institución o centro que corresponda en el plazo indeterminado en la convocatoria.",
+      "D) Incorporación, previo cumplimiento de los requisitos formales en cada caso establecidos, a una plaza del servicio, institución o centro que corresponda en el plazo determinado en la convocatoria."
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "66. ¿Cuál de los siguientes no es un objetivo de la Organización Mundial de la Salud (OMS)?",
+    "pregunta": "58. Según se regula en la Ley 55/2003, de 16 de diciembre, no es causa de extinción de la condición de personal estatutario fijo:",
     "opciones": [
-      "A) Actuar como autoridad directiva y coordinadora en asuntos de sanidad internacional.",
-      "B) Fomentar la investigación en el campo de la salud.",
-      "C) Establecer y mantener la cooperación con las Naciones Unidas, los organismos especializados gubernamentales y no gubernamentales.",
-      "D) Establecer reglamentos de carácter vinculante para todos los Estados Miembros."
+      "A) La jubilación.",
+      "B) La renuncia.",
+      "C) La pérdida de la nacionalidad tomada en consideración para el nombramiento.",
+      "D) La Incapacidad temporal."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "67. ¿Cuál de los siguientes no es un principio ético de la Ley 1/2007 de los Servicios de Salud de Canarias?",
+    "pregunta": "59. Según se regula en la Ley 55/2003, de 16 de diciembre, la renuncia a la condición de personal estatutario tiene el carácter de acto voluntario y deberá ser solicitada por el interesado con una antelación mínima de:",
     "opciones": [
-      "A) La salud como derecho universal y la equidad en el acceso a las prestaciones sanitarias públicas.",
-      "B) El respeto a la personalidad, dignidad humana e intimidad del paciente, sin discriminación alguna por razón de origen, etnia, sexo, orientación sexual, religión, convicciones o cualquier otra condición o circunstancia personal o social.",
-      "C) La participación de los profesionales y usuarios en los órganos de gobierno de los servicios sanitarios.",
-      "D) La primacía del interés individual sobre el interés colectivo."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "68. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, las actuaciones de la Administración pública de Canarias en materia de sanidad se orientarán por los siguientes principios generales, salvo:",
-    "opciones": [
-      "A) La concepción de la salud como un bien individual y colectivo.",
-      "B) La necesidad de que la oferta de servicios y prestaciones del sistema sanitario público se ajuste a las necesidades de salud de la población.",
-      "C) La atención integral de la salud, que comprende las actuaciones de promoción, prevención, asistencia y rehabilitación, fomentando el desarrollo de la salud pública.",
-      "D) El fomento de la calidad de los servicios sanitarios, impulsando el uso de las tecnologías sanitarias más avanzadas."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "69. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, la población de Canarias tiene derecho a la protección de la salud y a la asistencia sanitaria, en los términos y con el alcance que establezcan:",
-    "opciones": [
-      "A) Las leyes.",
-      "B) Los reglamentos.",
-      "C) La Constitución y las leyes.",
-      "D) La Constitución, las leyes y los reglamentos."
+      "A) 15 días a la fecha en que se desee hacer efectiva.",
+      "B) 1 mes a la fecha en que se desee hacer efectiva.",
+      "C) 2 meses a la fecha en que se desee hacer efectiva.",
+      "D) 1 semana a la fecha en que se desee hacer efectiva."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "70. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, en relación con los derechos de los ciudadanos en el ámbito sanitario:",
+    "pregunta": "60. Según se regula en el artículo 24 de la Ley 55/2003, de 16 de diciembre, la sanción de separación del servicio:",
     "opciones": [
-      "A) Derecho a la información sobre los servicios sanitarios a que pueden acceder.",
-      "B) Derecho a la confidencialidad de los datos referentes a su salud.",
-      "C) Derecho a la libre elección de médico general, pediatra y centro de atención primaria.",
-      "D) Todas son correctas."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "71. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, las personas, en su relación con los servicios y prestaciones del Sistema Canario de la Salud, tienen el deber de:",
-    "opciones": [
-      "A) Colaborar en el mantenimiento de la salubridad del medio ambiente.",
-      "B) Cumplir las prescripciones generales de salud comunes a toda la población, así como las específicas determinadas por los servicios sanitarios.",
-      "C) Usar las instalaciones de forma responsable.",
-      "D) Todas son correctas."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "72. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, los servicios y prestaciones sanitarias a que tiene derecho la población de Canarias serán dispensados por:",
-    "opciones": [
-      "A) El Servicio Canario de la Salud.",
-      "B) Los centros sanitarios privados concertados.",
-      "C) Las mutualidades de funcionarios.",
-      "D) Las corporaciones locales."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "73. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, el Sistema Canario de la Salud se organiza en:",
-    "opciones": [
-      "A) Áreas de salud.",
-      "B) Zonas básicas de salud.",
-      "C) Áreas de salud y zonas básicas de salud.",
-      "D) Niveles de atención."
+      "A) La sanción disciplinaria de separación del servicio, de carácter provisional, supone la pérdida de la condición de personal estatutario.",
+      "B) La sanción disciplinaria de separación del servicio, cuando adquiera carácter firme, nunca puede suponer la pérdida de la condición de personal estatutario.",
+      "C) La sanción disciplinaria de separación del servicio, cuando adquiera carácter firme, supone la pérdida de la condición de personal estatutario.",
+      "D) Ninguna es correcta."
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "74. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, la Atención Primaria de Salud:",
+    "pregunta": "61. Según se regula en el artículo 26 de la Ley 55/2003, de 16 de diciembre, procederá la prórroga en el servicio activo del personal estatutario:",
     "opciones": [
-      "A) Constituye el nivel básico de la asistencia sanitaria.",
-      "B) Se organiza a través de los centros de salud.",
-      "C) Se caracteriza por la integralidad de la atención.",
-      "D) Todas son correctas."
+      "A) De oficio, cuando, en el momento de cumplir la edad de jubilación forzosa, le resten seis años o menos de cotización para causar pensión de jubilación.",
+      "B) A instancia del interesado, cuando, en el momento de cumplir la edad de jubilación forzosa, le resten seis años o menos de cotización para causar pensión de jubilación.",
+      "C) De oficio, cuando, en el momento de cumplir la edad de jubilación forzosa, le resten ocho años o menos de cotización para causar pensión de jubilación.",
+      "D) A instancia del interesado, cuando, en el momento de cumplir la edad de jubilación forzosa, le resten ocho años o menos de cotización para causar pensión de jubilación."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "62. Según se establece en la Ley 55/2003, de 16 de diciembre, no es causa de pérdida de la condición de personal estatutario fijo:",
+    "opciones": [
+      "A) La incapacidad permanente total para la profesión habitual.",
+      "B) La incapacidad absoluta para todo trabajo.",
+      "C) La gran invalidez.",
+      "D) Ninguna es correcta."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "75. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, la Atención Especializada:",
+    "pregunta": "63. Según se regula en la Ley 55/2003, de 16 de diciembre, se producirá la recuperación de la condición de personal estatutario fijo:",
     "opciones": [
-      "A) Se prestará en los centros de salud.",
-      "B) Comprende las actividades de prevención, diagnóstico, tratamiento y rehabilitación de las enfermedades que requieren una atención más compleja.",
-      "C) Se organiza en la Red de Atención Primaria.",
-      "D) Se caracteriza por ser el primer nivel de contacto del paciente con el sistema sanitario."
+      "A) En ningún caso se puede recuperar la condición de personal estatutario fijo, salvo por superación de las pruebas de selección de un nuevo proceso selectivo.",
+      "B) Cuando se revisa la incapacidad temporal.",
+      "C) En el caso de pérdida de la condición de personal estatutario como consecuencia de pérdida de la nacionalidad, el interesado podrá recuperar dicha condición con una declaración responsable.",
+      "D) Procederá también la recuperación de la condición de personal estatutario cuando se hubiera perdido como consecuencia de incapacidad, si ésta es revisada conforme a las normas reguladoras del Régimen General de la Seguridad Social."
     ],
-    "respuesta_perfecta": 1
+    "respuesta_correcta": 3
   },
   {
-    "pregunta": "76. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, la Ordenación Farmacéutica se regirá por los principios de:",
+    "pregunta": "64. Según se regula en la Ley 55/2003, de 16 de diciembre, la provisión de plazas del personal estatutario se regirá por los siguientes principios básicos:",
     "opciones": [
-      "A) Calidad, eficiencia y racionalidad en la utilización de los medicamentos.",
-      "B) Accesibilidad, equidad y seguridad en la dispensación de los medicamentos.",
-      "C) Libre elección de farmacia.",
-      "D) Todas son correctas."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "77. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, el Servicio Canario de la Salud es:",
-    "opciones": [
-      "A) Un ente público de derecho privado, con personalidad jurídica propia y plena capacidad de obrar.",
-      "B) Un ente público de derecho público, con personalidad jurídica propia y plena capacidad de obrar.",
-      "C) Un organismo autónomo adscrito a la Consejería competente en materia de sanidad.",
-      "D) Una empresa pública dependiente de la Comunidad Autónoma de Canarias."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "78. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, los órganos del Servicio Canario de la Salud son:",
-    "opciones": [
-      "A) Órganos de dirección, órganos de gestión y órganos de participación.",
-      "B) Órganos superiores y órganos territoriales.",
-      "C) Órganos centrales y órganos periféricos.",
-      "D) Órganos de gobierno y órganos de administración."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "79. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, el Director del Servicio Canario de la Salud es nombrado por:",
-    "opciones": [
-      "A) El Consejo de Gobierno de Canarias, a propuesta del Consejero competente en materia de sanidad.",
-      "B) El Presidente del Gobierno de Canarias.",
-      "C) El Consejero competente en materia de sanidad.",
-      "D) El Parlamento de Canarias."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "80. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, las Gerencias de los Servicios Sanitarios son:",
-    "opciones": [
-      "A) Órganos de dirección de los servicios sanitarios.",
-      "B) Órganos de gestión de los servicios sanitarios.",
-      "C) Órganos de participación de los servicios sanitarios.",
-      "D) Órganos de control de los servicios sanitarios."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "81. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, los Consejos de Salud de Área son órganos de:",
-    "opciones": [
-      "A) Dirección.",
-      "B) Gestión.",
-      "C) Participación.",
-      "D) Control."
+      "A) Igualdad, mérito, incapacidad y publicidad en la selección, promoción y movilidad del personal de los servicios de salud.",
+      "B) Planificación deficiente de las necesidades de recursos y programación cada 5 años de las convocatorias.",
+      "C) Coordinación, cooperación y mutua información entre las Administraciones sanitarias públicas.",
+      "D) Movilidad del personal en el conjunto del Sistema Internacional de Salud."
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "82. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, los Consejos de Salud de Zona son órganos de:",
+    "pregunta": "65. Según se regula en la Ley 55/2003, de 16 de diciembre, las convocatorias de selección y sus bases vinculan a:",
     "opciones": [
-      "A) Dirección.",
-      "B) Gestión.",
-      "C) Participación.",
-      "D) Control."
+      "A) Exclusivamente a los tribunales encargados de juzgar las pruebas.",
+      "B) A los tribunales encargados de juzgar las pruebas, pero también a la Administración.",
+      "C) Vinculan a la Administración, a los tribunales encargados de juzgar las pruebas y a quienes participen en las mismas.",
+      "D) No vinculan a los participantes."
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "83. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, los Consejos de Salud de las islas son órganos de:",
+    "pregunta": "66. De acuerdo con lo establecido en la Ley 55/2003, de 16 de diciembre, por la que se aprueba el Estatuto Marco del personal estatutario de los servicios de salud, la selección de personal estatutario fijo se efectuará:",
     "opciones": [
-      "A) Dirección.",
-      "B) Gestión.",
-      "C) Participación.",
-      "D) Control."
+      "A) La selección del personal estatutario fijo se efectuará siempre por concurso-oposición.",
+      "B) Cuando las peculiaridades de las tareas específicas a desarrollar o el nivel de cualificación requerida así lo aconsejen, la selección podrá realizarse por el sistema de concurso.",
+      "C) Cuando las peculiaridades de las tareas específicas a desarrollar o el nivel de cualificación requerida así lo aconsejen, la selección no podrá realizarse por el sistema de concurso.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "67. La carrera profesional recogida en el Estatuto Marco del personal estatutario de los servicios de salud:",
+    "opciones": [
+      "A) Supondrá el derecho de los profesionales a progresar, de forma individualizada, como reconocimiento a su desarrollo profesional en cuanto a conocimientos, experiencia y cumplimiento de los objetivos de la organización a la cual prestan servicios.",
+      "B) Supondrá el derecho de los profesionales a progresar, de forma colectiva, como reconocimiento a su desarrollo profesional en cuanto a conocimientos, experiencia y cumplimiento de los objetivos de la organización a la cual prestan servicios.",
+      "C) Supondrá el derecho de los profesionales a progresar, de forma individualizada, como reconocimiento a su desarrollo profesional en cuanto a conocimientos, experiencia y cumplimiento de los objetivos fijados por la Comisión de Recursos Humanos del Sistema Nacional de Salud.",
+      "D) Es un concepto retributivo integrado en las retribuciones básicas del personal estatutario."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "68. De acuerdo con lo establecido en la Ley 55/2003, de 16 de diciembre, por la que se aprueba el Estatuto Marco del personal estatutario de los servicios de salud, no es una retribución básica:",
+    "opciones": [
+      "A) El sueldo.",
+      "B) El complemento de destino.",
+      "C) Las pagas extraordinarias.",
+      "D) Los trienios."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "69. De acuerdo con lo establecido en la Ley 55/2003, de 16 de diciembre, por la que se aprueba el Estatuto Marco del personal estatutario de los servicios de salud, es una retribución complementaria del personal estatutario:",
+    "opciones": [
+      "A) El complemento específico.",
+      "B) El complemento de productividad.",
+      "C) El complemento de atención continuada.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "70. De acuerdo con lo establecido en la Ley 55/2003, de 16 de diciembre, por la que se aprueba el Estatuto Marco del personal estatutario de los servicios de salud, el complemento específico retribuye:",
+    "opciones": [
+      "A) Las condiciones particulares de algunos puestos en atención a su especial dificultad técnica, dedicación, responsabilidad, incompatibilidad, peligrosidad o penosidad.",
+      "B) El nivel del puesto que se desempeña.",
+      "C) Al personal para atender a los usuarios de los servicios sanitarios de manera permanente y continuada.",
+      "D) El grado alcanzado en la carrera profesional cuando tal sistema de desarrollo profesional se haya implantado en la correspondiente categoría"
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "71. El objeto de la Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas, según su artículo 1 es:",
+    "opciones": [
+      "A) Regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, excluyendo el sancionador y el de reclamación de responsabilidad de las Administraciones Públicas.",
+      "B) Regular los requisitos legislativos y formales de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, excluyendo el sancionador y el de reclamación de responsabilidad de las Administraciones Públicas.",
+      "C) Regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las Administraciones Públicas.",
+      "D) D) Regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y excluyendo el de reclamación deresponsabilidad de las Administraciones Públicas"
+    ],
+    "respuesta_correcta": 2
+  },
+
+  {
+    "pregunta": "72. La Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas tiene carácter supletorio para:",
+    "opciones": [
+      "A) Las Corporaciones de Derecho Público.",
+      "B) El sector público institucional.",
+      "C) Las Entidades que integran la Administración Local.",
+      "D) Las Administraciones de las Comunidades Autónomas."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "73. Una persona física que promueve un procedimiento administrativo como titular de un derecho, tiene según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la consideración de:",
+    "opciones": [
+      "A) Ciudadano.",
+      "B) Representante.",
+      "C) Beneficiario.",
+      "D) Interesado."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "74. De acuerdo con el art. 13 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, quienes tienen capacidad de obrar ante las Administraciones Públicas, son titulares, en sus relaciones con ellas, de algunos derechos, entre los que se encuentra:",
+    "opciones": [
+      "A) A ser tratados con respeto y deferencia por las autoridades y empleados públicos, que habrán de facilitarles el ejercicio de sus derechos y el cumplimiento de sus obligaciones.",
+      "B) A ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.",
+      "C) A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "75. Según el art. 14.1 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, el medio elegido por la persona para comunicarse con las Administraciones Públicas:",
+    "opciones": [
+      "A) Deberá mantenerse por un plazo minimo de 5 meses.",
+      "B) Podrá ser modificado por aquella en cualquier momento.",
+      "C) Deberá mantenerse por un plazo mínimo de 1 año.",
+      "D) Deberá mantenerse por un plazo mínimo de 6 meses."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "76. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones, la lengua de los procedimientos tramitados por la Administración General del Estado, está regulada en el artículo:",
+    "opciones": [
+      "A) 14.",
+      "B) 15.",
+      "C) 11.",
+      "D) 16."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "77. De acuerdo con el art. 16.4 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, los documentos que los interesados dirijan a los órganos de las Administraciones Públicas podrán presentarse en:",
+    "opciones": [
+      "A) En las representaciones diplomáticas u oficinas consulares de España en el extranjero.",
+      "B) En el registro electrónico de la Administración u Organismo al que se dirijan.",
+      "C) En las oficinas de Correos.",
+      "D) Todas las respuestas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "78. Conforme al artículo 21.2 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo máximo en el que debe notificarse la resolución expresa será:",
+    "opciones": [
+      "A) El fijado por la norma reguladora del correspondiente procedimiento.",
+      "B) 10 días.",
+      "C) 3 meses.",
+      "D) 6 meses."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "79. De acuerdo con el artículo 23 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, contra el acuerdo que resuelva sobre la ampliación de plazos, que deberá ser notificado al interesado:",
+    "opciones": [
+      "A) Cabrá recurso de alzada.",
+      "B) Cabrá recurso extraordinario de revisión.",
+      "C) Cabrá recurso potestativo de reposición.",
+      "D) No cabrá recurso alguno."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "80. De conformidad con el artículo 26 de la Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas, no requerirán de firma electrónica, los documentos electrónicos emitidos por las Administraciones Públicas que:",
+    "opciones": [
+      "A) Formen parte de un expediente administrativo.",
+      "B) Incorporen una referencia temporal del momento en que han sido emitidos.",
+      "C) Incorporen los metadatos mínimos exigidos.",
+      "D) Se publiquen con carácter meramente informativo."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "81. El proceso tecnológico que permite convertir un documento en soporte papel o en otro soporte no electrónico en un fichero electrónico que contiene la imagen codificada, fiel e íntegra del documento, según el art. 27 de la Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas es:",
+    "opciones": [
+      "A) Codificación.",
+      "B) Autentificación.",
+      "C) Digitalización.",
+      "D) Autenticación."
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "84. Según la Ley 1/2007, de 2 de abril, de los Servicios de Salud de Canarias, el Servicio Canario de la Salud se financiará con cargo a:",
+    "pregunta": "82. Según el artículo 40 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, toda notificación deberá ser cursada, a partir de la fecha en que el acto haya sido dictado, dentro del plazo de:",
     "opciones": [
-      "A) Los Presupuestos Generales de la Comunidad Autónoma de Canarias.",
-      "B) Las cotizaciones sociales.",
-      "C) Las tasas y precios públicos por la prestación de servicios.",
-      "D) Todas son correctas."
+      "A) Diez días.",
+      "B) Veinte días.",
+      "C) Quince días.",
+      "D) Un mes."
     ],
-    "respuesta_correcta": 3
+    "respuesta_correcta": 0
   },
   {
-    "pregunta": "85. La Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, establece que la ordenación y coordinación de la política de salud y asistencia sanitaria de Canarias es competencia de:",
+    "pregunta": "83. Según la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, las notificaciones se practicarán:",
     "opciones": [
-      "A) El Gobierno de Canarias.",
-      "B) La Consejería competente en materia de sanidad.",
-      "C) El Servicio Canario de la Salud.",
-      "D) El Parlamento de Canarias."
+      "A) Preferentemente por medios electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía.",
+      "B) Siempre en papel.",
+      "C) Siempre por medios electrónicos.",
+      "D) Preferentemente por medios no electrónicos y, en todo caso, cuando el interesado resulte obligado a recibirlas por esta vía."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "84. Según la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, indicar la opción correcta:",
+    "opciones": [
+      "A) Los procedimientos administrativos sólo pueden iniciarse a solicitud del interesado.",
+      "B) Los procedimientos se pueden iniciar de oficio o a solicitud del interesado.",
+      "C) Los procedimientos sólo pueden iniciarse de oficio, por la Administración.",
+      "D) Los procedimientos deben iniciarse a través de representante en todo caso."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "86. La Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, dispone que el Servicio Canario de la Salud es un:",
+    "pregunta": "85. De acuerdo con el artículo 55 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, con anterioridad al inicio del procedimiento, el órgano competente podrá abrir un período de información o actuaciones previas con el fin de:",
     "opciones": [
-      "A) Organismo autónomo de carácter administrativo.",
-      "B) Ente público de derecho público.",
-      "C) Ente público de derecho privado.",
-      "D) Órgano de la Administración de la Comunidad Autónoma de Canarias."
+      "A) Ejercer la protección provisional de los intereses implicados.",
+      "B) Asegurar la eficacia de la resolución que pudiera recaer.",
+      "C) Conocer las circunstancias del caso concreto y la conveniencia o no de iniciar el procedimiento.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "86. De acuerdo con el artículo 56 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, iniciado el procedimiento, el órgano administrativo competente para resolver, podrá adoptar, de oficio o a instancia de parte y de forma motivada, las medidas provisionales que estime oportunas para asegurar la eficacia de la Resolución que pudiera recaer, de acuerdo a los siguientes principios:",
+    "opciones": [
+      "A) Intervención mínima.",
+      "B) Menor onerosidad.",
+      "C) Idoneidad.",
+      "D) Ninguna es correcta."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "87. ¿Cuál de las siguientes afirmaciones sobre la Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, es INCORRECTA?",
+    "pregunta": "87. Según el artículo 56 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, no se podrán adoptar medidas provisionales que puedan causar perjuicio de difícil o imposible reparación a los interesados o que:",
     "opciones": [
-      "A) Tiene por objeto la regulación general de todas las actividades que afecten a la salud en la Comunidad Autónoma de Canarias.",
-      "B) Crea el Servicio Canario de la Salud.",
-      "C) Establece los principios de la política de salud de Canarias.",
-      "D) Regula la participación de los ciudadanos en el Sistema Canario de la Salud."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "88. Según la Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, el Servicio Canario de la Salud se configura como el órgano encargado de:",
-    "opciones": [
-      "A) La gestión de los servicios y prestaciones sanitarias.",
-      "B) La dirección y coordinación de la política de salud y asistencia sanitaria de Canarias.",
-      "C) La planificación y ordenación de los recursos sanitarios.",
-      "D) La evaluación de la calidad de los servicios sanitarios."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "89. Según la Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, la Ordenación Sanitaria de Canarias se rige por los principios de:",
-    "opciones": [
-      "A) Descentralización y participación.",
-      "B) Universalización y equidad.",
-      "C) Planificación y eficiencia.",
-      "D) Todas son correctas."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "90. Según la Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, la atención sanitaria integral se prestará a través de los niveles de:",
-    "opciones": [
-      "A) Atención primaria y atención especializada.",
-      "B) Atención hospitalaria y atención extrahospitalaria.",
-      "C) Atención de urgencias y atención programada.",
-      "D) Atención de salud pública y atención individual."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "91. La Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, establece que la participación de los ciudadanos en el Sistema Canario de la Salud se garantizará a través de:",
-    "opciones": [
-      "A) Los Consejos de Salud de Área.",
-      "B) Los Consejos de Salud de Zona.",
-      "C) Los Consejos de Salud de las islas.",
-      "D) Todas son correctas."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "92. Según la Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, la Inspección Sanitaria:",
-    "opciones": [
-      "A) Es una función de control y evaluación de los servicios sanitarios.",
-      "B) Se ejercerá por la Consejería competente en materia de sanidad.",
-      "C) Tendrá como objetivo garantizar el cumplimiento de la normativa sanitaria.",
-      "D) Todas son correctas."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "93. La Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, establece el régimen de infracciones y sanciones en materia sanitaria, siendo las sanciones:",
-    "opciones": [
-      "A) Leves, graves y muy graves.",
-      "B) Económicas, de inhabilitación y de cierre de establecimientos.",
-      "C) Administrativas, civiles y penales.",
-      "D) Pecuniarias y no pecuniarias."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "94. Según la Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, la prescripción de medicamentos y productos sanitarios se regirá por los principios de:",
-    "opciones": [
-      "A) Necesidad, eficacia y seguridad.",
-      "B) Racionalidad, eficiencia y calidad.",
-      "C) Accesibilidad, equidad y publicidad.",
-      "D) Universalidad, integralidad y continuidad."
+      "A) Impliquen la prestación de fianzas.",
+      "B) Impliquen violación de derechos amparados por las leyes.",
+      "C) Impliquen violación de los derechos y obligaciones amparados por las leyes.",
+      "D) Impliquen la consignación o constitución de depósito de las cantidades que se reclamen."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "95. La Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, establece que la investigación y el desarrollo en materia de salud se fomentarán a través de:",
+    "pregunta": "88. Señale la respuesta correcta en relación con la acumulación de procedimientos del artículo 57 de la Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas:",
     "opciones": [
-      "A) La financiación de proyectos de investigación.",
-      "B) La creación de centros de investigación.",
-      "C) La colaboración con universidades y centros de investigación.",
-      "D) Todas son correctas."
+      "A) El órgano administrativo que inicie o tramite un procedimiento podrá disponer su acumulación a otros siempre que haya identidad en los interesados.",
+      "B) El órgano administrativo que inicie o tramite un procedimiento no podrá disponer su acumulación a a otros con los que guarde identidad sustancial o intima conexión.",
+      "C) Contra el acuerdo de acumulación podrá interponerse recurso de alzada ante el superior jerárquico del órgano que acordó la acumulación de procedimientos.",
+      "D) Contra el acuerdo de acumulación no procederá recurso alguno."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "96. La Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, dispone que la formación continuada de los profesionales sanitarios es un deber y un derecho:",
+    "pregunta": "89. Según el artículo 57 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿qué órgano administrativo es el competente para disponer la acumulación de un procedimiento a otros?:",
     "opciones": [
-      "A) Sí, es un deber y un derecho de los profesionales sanitarios.",
-      "B) No, es solo un deber de los profesionales sanitarios.",
-      "C) No, es solo un derecho de los profesionales sanitarios.",
-      "D) No es ni un deber ni un derecho de los profesionales sanitarios."
+      "A) El que inicie o tramite un procedimiento.",
+      "B) El que resuelva un procedimiento.",
+      "C) El superior jerárquico del que inicie un procedimiento.",
+      "D) Ninguna respuesta es correcta."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "97. Según la Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, la planificación sanitaria se realizará teniendo en cuenta:",
+    "pregunta": "90. Según el artículo 60 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, se entiende por inicio del procedimiento como consecuencia de orden superior la emitida por un órgano administrativo:",
     "opciones": [
-      "A) Las necesidades de salud de la población.",
-      "B) La disponibilidad de recursos económicos.",
-      "C) La opinión de los profesionales sanitarios.",
-      "D) Todas son correctas."
+      "A) Inferior jerárquico del competente para la iniciación del procedimiento.",
+      "B) Superior jerárquico del competente para la iniciación del procedimiento.",
+      "C) Mismo nivel jerárquico del competente para la iniciación del procedimiento.",
+      "D) Ninguna respuesta es correcta."
     ],
-    "respuesta_correcta": 3
+    "respuesta_correcta": 1
   },
   {
-    "pregunta": "98. La Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, establece que la evaluación de los servicios sanitarios se realizará con el fin de:",
+    "pregunta": "91. Según el artículo 61 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, la propuesta de iniciación del procedimiento formulada por cualquier órgano administrativo que no tiene competencia para iniciar éste y que tuvo conocimiento de las circunstancias, conductas o hechos objeto del procedimiento, bien ocasionalmente o bien por tener atribuidas funciones de inspección, averiguación o investigación se denomina:",
     "opciones": [
-      "A) Mejorar la calidad de la atención sanitaria.",
-      "B) Optimizar la utilización de los recursos.",
-      "C) Garantizar la equidad en el acceso a las prestaciones.",
-      "D) Todas son correctas."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "99. Según la Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, la gestión de los servicios sanitarios podrá realizarse de forma:",
-    "opciones": [
-      "A) Directa o indirecta.",
-      "B) Pública o privada.",
-      "C) Centralizada o descentralizada.",
-      "D) Individual o colectiva."
+      "A) Petición razonada de otros órganos.",
+      "B) Denuncia de otros órganos.",
+      "C) Orden superior.",
+      "D) Propia iniciativa."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "100. La Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias, establece que la salud pública comprende las actuaciones de:",
+    "pregunta": "92. Según lo dispuesto en el artículo 62 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, indique la respuesta correcta:",
     "opciones": [
-      "A) Promoción de la salud, prevención de la enfermedad y protección de la salud.",
-      "B) Atención primaria, atención especializada y atención hospitalaria.",
-      "C) Diagnóstico, tratamiento y rehabilitación.",
-      "D) Vigilancia epidemiológica, control de riesgos ambientales y educación para la salud."
+      "A) Se entiende por denuncia, el acto por el que cualquier persona, en cumplimiento o no de una obligación legal, pone en conocimiento de un órgano administrativo la existencia de un determinado hecho que pudiera justificar la iniciación de oficio de un procedimiento administrativo.",
+      "B) En ningún caso las denuncias deberán expresar la identidad de la persona o personas que las presentan.",
+      "C) Cuando la denuncia invocara un perjuicio en el patrimonio de las Administraciones Públicas, la no iniciación del procedimiento no deberá ser motivada y nunca se notificará a los denunciantes la decisión de si se ha iniciado o no el procedimiento.",
+      "D) La presentación de una denuncia confiere, siempre y en todo caso, la condición de interesado en el procedimiento."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "93. Según el artículo 62 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las denuncias sobre hechos que puedan constituir una infracción administrativa recogerán:",
+    "opciones": [
+      "A) La fecha de su comisión y, en todo caso, la identificación de los presuntos responsables.",
+      "B) La fecha de su comisión y, cuando sea posible, la identificación de los presuntos responsables.",
+      "C) La identificación de los presuntos responsables y, cuando sea posible, la fecha de su comisión.",
+      "D) Ninguna respuesta es correcta."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "94. Según lo dispuesto en el artículo 62.5 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, indique la respuesta correcta:",
+    "opciones": [
+      "A) La presentación de una denuncia confiere, por si misma, la condición de afectado en el procedimiento.",
+      "B) La presentación de una denuncia confiere, siempre y en todo caso, la condición de interesado en el procedimiento.",
+      "C) La presentación de una denuncia no confiere, por sí sola, la condición de interesado en el procedimiento.",
+      "D) Ninguna respuesta es correcta."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "95. Según el art. 65 de la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, el acuerdo de iniciación de un procedimiento de responsabilidad patrimonial, se notificará a los particulares presuntamente lesionados concediéndoles un plazo de:",
+    "opciones": [
+      "A) 15 dias para que aporten cuantas alegaciones, documentos o información estimen conveniente a su derecho y propongan cuantas pruebas sean pertinentes para el reconocimiento del mismo.",
+      "B) 10 días para que aporten cuantas alegaciones, documentos o información estimen conveniente a su derecho y propongan cuantas pruebas sean pertinentes para el reconocimiento del mismo.",
+      "C) 20 días para que aporten cuantas alegaciones, documentos o información estimen conveniente a su derecho y propongan cuantas pruebas sean pertinentes para el reconocimiento del mismo.",
+      "D) 7 días para que aporten cuantas alegaciones, documentos o información estimen conveniente a su derecho y propongan cuantas pruebas sean pertinentes para el reconocimiento del mismo."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "96. Según lo establecido en el artículo 67 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, respecto a los procedimientos de responsabilidad patrimonial de las administraciones públicas, el derecho a reclamar prescribe:",
+    "opciones": [
+      "A) A los seis meses de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.",
+      "B) A los dos años de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo.",
+      "C) Al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo",
+      "D) A los tres años de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "97. Según el artículo 68 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo de subsanación y mejora de la solicitud podrá ser ampliado prudencialmente hasta cinco días, a petición del interesado o a iniciativa del órgano, cuando la aportación de los documentos requeridos presente dificultades especiales, salvo:",
+    "opciones": [
+      "A) Que se trate de procedimientos sancionadores.",
+      "B) Que se trate de procedimientos de responsabilidad patrimonial.",
+      "C) Que se trate de procedimientos selectivos o de concurrencia competitiva.",
+      "D) Ninguna respuesta es correcta."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "98. Según la Ley 39/2015, de 1 de octubre, son anulables los actos de la Administración cuando:",
+    "opciones": [
+      "A) Incurran en cualquier infracción del ordenamiento jurídico.",
+      "B) Incurran en desviación de poder.",
+      "C) El acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "99. Según la Ley 39/2015, de 1 de octubre, la realización de actuaciones administrativas fuera del tiempo establecido para ellas sólo implicará la anulabilidad del acto:",
+    "opciones": [
+      "A) Los que sean constitutivos de infracción penal.",
+      "B) Cuando así lo imponga la naturaleza del término o plazo.",
+      "C) Implicará la anulabilidad siempre.",
+      "D) Cuando tengan un contenido imposible."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "100. Según la Ley 39/2015, de 1 de octubre, cuando un acto nulo o anulable contenga los elementos constitutivos de otro distinto y produce los efectos de éste se dice que se ha producido:",
+    "opciones": [
+      "A) La conversión de actos viciados.",
+      "B) La transmisibilidad.",
+      "C) La convalidación.",
+      "D) Ninguna es correcta."
     ],
     "respuesta_correcta": 0
   }
+
 ]

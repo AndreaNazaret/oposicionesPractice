@@ -1,502 +1,503 @@
 [
-  {
-    "pregunta": "151. La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, tiene por objeto:",
+ {
+    "pregunta": "151. Según el Art. 15 de La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, cuál de las siguientes no forman parte del contenido mínimo de la historia clínica:",
     "opciones": [
-      "A) Establecer las bases del régimen jurídico de las Administraciones Públicas.",
-      "B) Regular el funcionamiento de los órganos de la Administración General del Estado.",
-      "C) Regular las relaciones entre las distintas Administraciones Públicas.",
-      "D) Todas las anteriores."
+      "A) El informe de urgencias.",
+      "B) La hoja de interconsulta.",
+      "C) El informe clínico de alta.",
+      "D) Todas están incluidas en el contenido mínimo."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "152. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los principios que deben respetar las Administraciones Públicas en su actuación son:",
+    "pregunta": "152. Según el art. 15 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación sanitaria, cuál de los siguientes documentos no forma parte del contenido mínimo de la historia clínica:",
     "opciones": [
-      "A) Eficacia, eficiencia, transparencia, servicio a los ciudadanos.",
-      "B) Jerarquía, descentralización, desconcentración y coordinación.",
-      "C) Legalidad, objetividad, buena fe, lealtad institucional.",
-      "D) Todas las anteriores."
+      "A) La anamnesis y la exploración física.",
+      "B) La aplicación terapéutica de enfermería.",
+      "C) El informe de anestesia.",
+      "D) Hoja de reclamaciones."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "153. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la creación de cualquier Administración Pública requerirá:",
+    "pregunta": "153. En relación con los usos de la historia clínica regulados en el art. 16 de La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, señale la respuesta correcta:",
     "opciones": [
-      "A) Ley.",
-      "B) Real Decreto.",
-      "C) Orden Ministerial.",
-      "D) Resolución del Consejo de Ministros."
+      "A) La historia clínica es un instrumento destinado fundamentalmente a garantizar una asistencia adecuada al paciente.",
+      "B) Cada Comunidad Autónoma establecerá los métodos que posibiliten en todo momento el acceso a la historia clínica de cada paciente por los profesionales que le asisten.",
+      "C) Cada centro sanitario regulará el procedimiento para que quede constancia del acceso a la historia clínica y su uso.",
+      "D) Todas son ciertas."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "154. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la organización de la Administración General del Estado se estructura en:",
+    "pregunta": "154. Según el art. 16.6 de La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, el personal que accede a los datos de la historia clínica en el ejercicio de sus funciones queda sujeto al deber de:",
     "opciones": [
-      "A) Ministerios, Secretarías de Estado y Subsecretarías.",
-      "B) Órganos superiores y órganos directivos.",
-      "C) Órganos centrales y órganos territoriales.",
-      "D) Todas las anteriores."
+      "A) Vigilancia.",
+      "B) Secreto.",
+      "C) Deontologia.",
+      "D) Ninguna respuesta es correcta."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "155. De acuerdo con la ley 41/2002 un instrumento destinado fundamentalmente a garantizar una asistencia adecuada al paciente es:",
+    "opciones": [
+      "A) El informe de anatomía patológica.",
+      "B) La hoja de interconsulta.",
+      "C) La historia clínica.",
+      "D) Los informes de exploraciones complementarias."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "156. Según el art. 17 de La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica sobre conservación de la documentación clínica, los centros sanitarios tienen obligación de conservar la documentación clínica:",
+    "opciones": [
+      "A) En el soporte original.",
+      "B) Como mínimo, tres años contados desde la fecha del alta de cada proceso asistencial.",
+      "C) Como mínimo, cuatro años contados desde la fecha del alta de cada proceso asistencial.",
+      "D) Aunque no necesariamente en el soporte original."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "155. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los principios que deben regir las relaciones entre las Administraciones Públicas son:",
+    "pregunta": "157. Según la Ley 41/2002 de 14 de noviembre, la obligación de conservar la documentación clínica en condiciones que garanticen su correcto mantenimiento y seguridad la tiene:",
     "opciones": [
-      "A) Cooperación, colaboración y coordinación.",
-      "B) Lealtad institucional, eficiencia y transparencia.",
-      "C) Autonomía, especialidad y jerarquía.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "156. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los convenios entre Administraciones Públicas:",
-    "opciones": [
-      "A) Podrán tener por objeto la gestión de servicios y el desarrollo de actividades comunes.",
-      "B) Deberán publicarse en el \"Boletín Oficial del Estado\" o en el diario oficial correspondiente.",
-      "C) Tendrán la consideración de actos administrativos.",
-      "D) Todas las anteriores."
+      "A) La Comunidad Autónoma correspondiente.",
+      "B) Los centros sanitarios.",
+      "C) La Comunidad Autónoma correspondiente y los centros sanitarios.",
+      "D) Todo el personal del centro sanitario."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "157. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las relaciones entre la Administración General del Estado y las Comunidades Autónomas se regirán por los principios de:",
+    "pregunta": "158. Según la Ley 41/2002, de 14 de noviembre, ¿cuál es el tiempo mínimo que se debe conservar la documentación clínica desde la fecha del alta de cada proceso asistencial?",
     "opciones": [
-      "A) Coordinación, cooperación y lealtad institucional.",
-      "B) Subsidiariedad, autonomía y especialidad.",
-      "C) Competencia, jerarquía y transparencia.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "158. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los organismos públicos son:",
-    "opciones": [
-      "A) Entidades de derecho público, con personalidad jurídica propia y patrimonio propio, que se adscriben a una Administración Pública.",
-      "B) Entidades de derecho privado, con personalidad jurídica propia y patrimonio propio, que se adscriben a una Administración Pública.",
-      "C) Órganos de la Administración Pública, sin personalidad jurídica propia.",
-      "D) Sociedades mercantiles estatales."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "159. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las agencias estatales son:",
-    "opciones": [
-      "A) Organismos públicos dotados de autonomía y sometidos a la dirección estratégica y evaluación por parte de la Administración General del Estado.",
-      "B) Organismos públicos que tienen encomendada la gestión de un servicio público.",
-      "C) Organismos públicos que tienen encomendada la realización de actividades prestacionales, de gestión de servicios o de producción de bienes de interés público.",
-      "D) Organismos públicos que tienen encomendada la realización de actividades de fomento o de policía."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "160. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las autoridades administrativas independientes son:",
-    "opciones": [
-      "A) Organismos públicos que actúan con plena autonomía respecto a la Administración General del Estado.",
-      "B) Organismos públicos que actúan con plena independencia respecto a la Administración General del Estado.",
-      "C) Organismos públicos que tienen encomendada la regulación o supervisión de un sector económico o de una actividad.",
-      "D) Organismos públicos que tienen encomendada la protección de los derechos de los ciudadanos."
+      "A) 3 años.",
+      "B) 4 años.",
+      "C) 5 años.",
+      "D) 10 años."
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "161. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las sociedades mercantiles estatales son:",
+    "pregunta": "159. Según el artículo 18 de La Ley 41/2002, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, señale la incorrecta:",
     "opciones": [
-      "A) Sociedades en las que la participación directa o indirecta del capital social de la Administración General del Estado es superior al 50 por 100.",
-      "B) Sociedades en las que la participación directa o indirecta del capital social de la Administración General del Estado es inferior al 50 por 100.",
-      "C) Sociedades en las que la Administración General del Estado no tiene participación en el capital social.",
-      "D) Sociedades en las que la Administración General del Estado ostenta la mayoría de los derechos de voto."
+      "A) Según la normativa vigente el paciente tiene derecho de acceso al contenido integro de su historia clínica.",
+      "B) Según la normativa vigente el paciente tiene derecho de acceso al contenido íntegro de su historia clínica, con ciertas limitaciones.",
+      "C) El acceso de un tercero a la historia clínica, motivado por un riesgo para su salud, se limitará a los datos pertinentes.",
+      "D) El derecho de acceso del paciente a la historia clínica puede ejercerse también por representación debidamente acreditada."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "162. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las fundaciones del sector público son:",
+    "pregunta": "160. Según el Decreto 105/2000, de 26 de junio, por el que se regulan determinados aspectos del funcionamiento de los registros de la Administración Autonómica de Canarias, los registros se crearán, modificarán o suprimirán mediante:",
     "opciones": [
-      "A) Entidades sin ánimo de lucro, con personalidad jurídica propia, que se constituyen con aportación mayoritaria, directa o indirecta, de una Administración Pública o sus organismos públicos o dependientes, o de otras entidades del sector público.",
-      "B) Entidades sin ánimo de lucro, con personalidad jurídica propia, que se constituyen con aportación minoritaria, directa o indirecta, de una Administración Pública o sus organismos públicos o dependientes, o de otras entidades del sector público.",
-      "C) Entidades con ánimo de lucro, con personalidad jurídica propia, que se constituyen con aportación mayoritaria, directa o indirecta, de una Administración Pública o sus organismos públicos o dependientes, o de otras entidades del sector público.",
-      "D) Entidades con ánimo de lucro, con personalidad jurídica propia, que se constituyen con aportación minoritaria, directa o indirecta, de una Administración Pública o sus organismos públicos o dependientes, o de otras entidades del sector público."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "163. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los consorcios son:",
-    "opciones": [
-      "A) Entidades de derecho público, con personalidad jurídica propia, creadas por varias Administraciones Públicas o entidades de ellas dependientes, para la gestión en común de servicios o actividades de su competencia.",
-      "B) Entidades de derecho privado, con personalidad jurídica propia, creadas por varias Administraciones Públicas o entidades de ellas dependientes, para la gestión en común de servicios o actividades de su competencia.",
-      "C) Entidades sin personalidad jurídica, creadas por varias Administraciones Públicas o entidades de ellas dependientes, para la gestión en común de servicios o actividades de su competencia.",
-      "D) Entidades de derecho público, sin personalidad jurídica propia, creadas por varias Administraciones Públicas o entidades de ellas dependientes, para la gestión en común de servicios o actividades de su competencia."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "164. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las comisiones interministeriales son:",
-    "opciones": [
-      "A) Órganos colegiados de la Administración General del Estado.",
-      "B) Órganos colegiados de la Administración General del Estado que se crean para la coordinación y el seguimiento de políticas sectoriales.",
-      "C) Órganos colegiados de la Administración General del Estado que se crean para la resolución de conflictos de competencias.",
-      "D) Órganos colegiados de la Administración General del Estado que se crean para la elaboración de normas."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "165. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los órganos colegiados de la Administración General del Estado:",
-    "opciones": [
-      "A) Estarán integrados por un Presidente, un Vicepresidente y los vocales que se determinen reglamentariamente.",
-      "B) Estarán integrados por un Presidente y los vocales que se determinen reglamentariamente.",
-      "C) Estarán integrados por un Presidente y un número impar de vocales.",
-      "D) Estarán integrados por un Presidente y un número par de vocales."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "166. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los actos de los órganos colegiados se adoptarán por:",
-    "opciones": [
-      "A) Mayoría simple de los miembros presentes.",
-      "B) Mayoría absoluta de los miembros presentes.",
-      "C) Unanimidad de los miembros presentes.",
-      "D) El voto de calidad del Presidente."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "167. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la abstención en el ámbito de la Administración Pública es:",
-    "opciones": [
-      "A) Un derecho del interesado a no participar en un procedimiento administrativo.",
-      "B) Un deber del personal al servicio de las Administraciones Públicas de no intervenir en un procedimiento en el que concurran determinadas circunstancias.",
-      "C) Una obligación del personal al servicio de las Administraciones Públicas de no intervenir en un procedimiento en el que concurran determinadas circunstancias.",
-      "D) Una facultad del personal al servicio de las Administraciones Públicas de no intervenir en un procedimiento en el que concurran determinadas circunstancias."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "168. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la recusación en el ámbito de la Administración Pública es:",
-    "opciones": [
-      "A) Un derecho del interesado a que un miembro del órgano administrativo no intervenga en un procedimiento.",
-      "B) Un deber del personal al servicio de las Administraciones Públicas de no intervenir en un procedimiento en el que concurran determinadas circunstancias.",
-      "C) Una obligación del personal al servicio de las Administraciones Públicas de no intervenir en un procedimiento en el que concurran determinadas circunstancias.",
-      "D) Una facultad del personal al servicio de las Administraciones Públicas de no intervenir en un procedimiento en el que concurran determinadas circunstancias."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "169. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el expediente administrativo electrónico deberá contener:",
-    "opciones": [
-      "A) El índice de los documentos que lo integran, debidamente numerados.",
-      "B) Los documentos que lo integran, con su metadatos.",
-      "C) La firma electrónica de los documentos que lo integran.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "170. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la interoperabilidad entre las Administraciones Públicas:",
-    "opciones": [
-      "A) Es la capacidad de los sistemas de información de las Administraciones Públicas para intercambiar datos y compartir información.",
-      "B) Es la capacidad de los sistemas de información de las Administraciones Públicas para funcionar de forma conjunta.",
-      "C) Es la capacidad de los sistemas de información de las Administraciones Públicas para acceder a los datos de otras Administraciones Públicas.",
-      "D) Es la capacidad de los sistemas de información de las Administraciones Públicas para integrar los datos de otras Administraciones Públicas."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "171. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la Administración Pública actuará para el cumplimiento de sus fines con:",
-    "opciones": [
-      "A) Personalidad jurídica única.",
-      "B) Personalidad jurídica múltiple.",
-      "C) Personalidad jurídica propia.",
-      "D) Personalidad jurídica diferenciada."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "172. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la creación de organismos públicos requerirá:",
-    "opciones": [
-      "A) Ley, cuando se les atribuya el ejercicio de potestades públicas.",
-      "B) Real Decreto, cuando se les atribuya el ejercicio de potestades públicas.",
-      "C) Orden Ministerial, cuando se les atribuya el ejercicio de potestades públicas.",
-      "D) Resolución del Consejo de Ministros, cuando se les atribuya el ejercicio de potestades públicas."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "173. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la gestión de los servicios públicos se podrá llevar a cabo por:",
-    "opciones": [
-      "A) Gestión directa o gestión indirecta.",
-      "B) Gestión pública o gestión privada.",
-      "C) Gestión centralizada o gestión descentralizada.",
-      "D) Gestión individual o gestión colectiva."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "174. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los consorcios podrán ser disueltos por:",
-    "opciones": [
-      "A) Acuerdo de los órganos que lo crearon.",
-      "B) Cumplimiento de su objeto.",
-      "C) Imposibilidad de cumplimiento de su objeto.",
-      "D) Todas las anteriores."
+      "A) Sólo podrán ser creados por el Ministro correspondiente por ser una competencia estatal.",
+      "B) Todas las respuestas son falsas.",
+      "C) Decreto del Gobierno de Canarias y deberá ser publicada en el Boletín Oficial de Canarias.",
+      "D) Orden Departamental que deberá ser publicada en el Boletín Oficial de Canarias."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "175. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los órganos administrativos:",
+    "pregunta": "161. Según el Decreto 105/2000, de 26 de junio, por el que se regulan determinados aspectos del funcionamiento de los registros de la Administración Autonómica de Canarias, señale la respuesta incorrecta:",
     "opciones": [
-      "A) Tendrán las competencias que les sean atribuidas por ley o reglamento.",
-      "B) Tendrán las competencias que les sean atribuidas por el superior jerárquico.",
-      "C) Tendrán las competencias que les sean atribuidas por el órgano que los cree.",
-      "D) Tendrán las competencias que les sean atribuidas por el Presidente del Gobierno."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "176. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la delegación de competencias no podrá recaer en:",
-    "opciones": [
-      "A) Órganos que no sean jerárquicamente dependientes del delegante.",
-      "B) Órganos colegiados.",
-      "C) Órganos de la misma Administración Pública.",
-      "D) Órganos de otra Administración Pública."
+      "A) Los registros generales y auxiliares, una vez concluido al trámite registral, cursarán los escritos y comunicaciones a las unidades administrativas correspondientes y a sus destinatarios de inmediato, y en ningún caso después del siguiente día.",
+      "B) Todas las solicitudes, que se presenten en papel, o no en modelo normalizado, deberán llevar estampada en todas las páginas un sello o validación mecánica en que conste la identificación de la oficina de registro, los números de registro, la fecha y hora, con expresión del minuto, de la entrada o salida del documento.",
+      "C) Los registros auxiliares comunicarán al registro general del que dependan la totalidad de los asientos que practiquen, remitiendo copia de los mismos.",
+      "D) Todo órgano administrativo tendrá asignado un registro general. No obstante, un mismo registro podrá servir a varios órganos administrativos, siempre que así se prevea en la orden de creación."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "177. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la avocación de competencias se acordará por el órgano:",
+    "pregunta": "162. Según el artículo 49.3 de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, forman parte del Patrimonio Documental los documentos con una antigüedad superior a los cuarenta años generados, conservados o reunidos en el ejercicio de sus actividades, indique la respuesta correcta:",
     "opciones": [
-      "A) Superior que la asume.",
-      "B) Inferior que la cede.",
-      "C) Que la crea.",
-      "D) Que la suprime."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "178. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los organismos públicos se clasifican en:",
-    "opciones": [
-      "A) Organismos autónomos y entidades públicas empresariales.",
-      "B) Organismos autónomos y agencias estatales.",
-      "C) Entidades públicas empresariales y agencias estatales.",
-      "D) Organismos autónomos, entidades públicas empresariales y agencias estatales."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "179. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los organismos autónomos son:",
-    "opciones": [
-      "A) Entidades de derecho público, con personalidad jurídica propia y patrimonio propio, que realizan actividades prestacionales, de gestión de servicios o de producción de bienes de interés público, susceptibles de contraprestación.",
-      "B) Entidades de derecho público, con personalidad jurídica propia y patrimonio propio, que realizan actividades de fomento, prestacionales, de gestión de servicios públicos o de producción de bienes de interés público, que se someten al Derecho público.",
-      "C) Entidades de derecho privado, con personalidad jurídica propia y patrimonio propio, que realizan actividades prestacionales, de gestión de servicios o de producción de bienes de interés público, susceptibles de contraprestación.",
-      "D) Entidades de derecho privado, con personalidad jurídica propia y patrimonio propio, que realizan actividades de fomento, prestacionales, de gestión de servicios públicos o de producción de bienes de interés público, que se someten al Derecho privado."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "180. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las entidades públicas empresariales son:",
-    "opciones": [
-      "A) Entidades de derecho público, con personalidad jurídica propia y patrimonio propio, que realizan actividades prestacionales, de gestión de servicios o de producción de bienes de interés público, susceptibles de contraprestación.",
-      "B) Entidades de derecho público, con personalidad jurídica propia y patrimonio propio, que realizan actividades de fomento, prestacionales, de gestión de servicios públicos o de producción de bienes de interés público, que se someten al Derecho público.",
-      "C) Entidades de derecho privado, con personalidad jurídica propia y patrimonio propio, que realizan actividades prestacionales, de gestión de servicios o de producción de bienes de interés público, susceptibles de contraprestación.",
-      "D) Entidades de derecho privado, con personalidad jurídica propia y patrimonio propio, que realizan actividades de fomento, prestacionales, de gestión de servicios públicos o de producción de bienes de interés público, que se someten al Derecho privado."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "181. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la extinción de los organismos públicos se producirá por:",
-    "opciones": [
-      "A) Cumplimiento de sus fines.",
-      "B) Expiración del plazo de duración.",
-      "C) Acuerdo del Consejo de Ministros.",
-      "D) Todas las anteriores."
+      "A) Entidad y asociaciones de carácter político.",
+      "B) Entidad y asociaciones de carácter sindical.",
+      "C) Entidad y asociaciones de carácter religioso.",
+      "D) Todas las respuestas son correctas."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "182. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los bienes y derechos de los organismos públicos que se extingan se integrarán en el patrimonio de la Administración Pública a la que estén adscritos, salvo que la ley disponga otra cosa:",
+    "pregunta": "163. Según la Ley 41/2002, de 14 de noviembre, en relación al informe de alta:",
     "opciones": [
-      "A) Sí, es correcto.",
-      "B) No, se integrarán en el patrimonio del Estado.",
-      "C) No, se integrarán en el patrimonio de la Hacienda Pública.",
-      "D) No, se integrarán en el patrimonio del Ministerio de Hacienda y Administraciones Públicas."
+      "A) Todo paciente, familiar o persona vinculada a él, en su caso, tendrá el derecho a recibir del centro o servicio sanitario, una vez finalizado el proceso asistencial.",
+      "B) Las características, requisitos y condiciones de los informes de alta se determinarán reglamentariamente por las Administraciones sanitarias autonómicas.",
+      "C) Todo paciente o usuario tiene derecho a que se le faciliten los certificados acreditativos de su estado de salud.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "164. Según el Decreto 94/1999, de 25 de mayo, corresponde al titular del órgano del que dependa la Oficina Canaria de Defensa de los Derechos de los Usuarios Sanitarios (ODDUS) la contestación a reclamaciones y respuesta de las solicitudes, iniciativas y sugerencias siguientes:",
+    "opciones": [
+      "A) Las relativas al funcionamiento e información de los servicios administrativos no sanitarios.",
+      "B) Las reclamaciones de contenido patrimonial.",
+      "C) Las reclamaciones previas a la vía judicial, los recursos administrativos.",
+      "D) Ninguna respuesta es correcta."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "165. La Orden de 28 de febrero de 2005 de la Consejería de Sanidad, tiene por objeto:",
+    "opciones": [
+      "A) Aprobar la Carta de los Derechos y de los Deberes de los Pacientes y Usuarios Sanitarios del Sistema Canario de la Salud.",
+      "B) Crear la Oficina de Defensa de los Derechos de los Usuarios Sanitarios del Sistema Canario de la Salud.",
+      "C) Aprobar los carteles que se confeccionen y se fijarán en las paredes con mayor tránsito de pacientes o usuarios, de acuerdo con las caracteristicas de los Centros.",
+      "D) Aprobar los folletos, dípticos y hojas informativas se habilitarán en mostradores y lugares que puedan ser fácilmente accesibles a los usuarios para su consulta."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "183. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los sistemas de información de las Administraciones Públicas:",
+    "pregunta": "166. Tanto la ODDUS como las unidades que dependen funcionalmente de ella, en la tramitación de las reclamaciones, solicitudes, iniciativas y sugerencias, según el Decreto 94/1999, de 25 de mayo, actuarán con sometimiento a los siguientes principios, excepto:",
     "opciones": [
-      "A) Deberán garantizar la seguridad, integridad, autenticidad, confidencialidad, calidad y disponibilidad de la información.",
-      "B) Deberán garantizar la accesibilidad, usabilidad, interoperabilidad y reusabilidad de la información.",
-      "C) Deberán garantizar la transparencia y el acceso a la información pública.",
-      "D) Todas las anteriores."
+      "A) Autoevaluación.",
+      "B) Respeto a la autonomía profesional.",
+      "C) Transparencia en sus actuaciones y participación.",
+      "D) Buena fe y confianza legítima."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "184. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el Esquema Nacional de Seguridad:",
+    "pregunta": "167. ¿Hasta qué edad reconoce La Carta de Derechos y de los Deberes de los Pacientes y Usuarios Sanitarios, aprobada por la Orden de la Consejería de Sanidad de 28 de febrero de 2005, el derecho a la libre elección de pediatra?",
     "opciones": [
-      "A) Es un conjunto de medidas para garantizar la seguridad de la información tratada por las Administraciones Públicas.",
-      "B) Es un conjunto de requisitos para la gestión de la seguridad de la información en las Administraciones Públicas.",
-      "C) Es un conjunto de principios básicos y requisitos mínimos que deben cumplir las Administraciones Públicas para garantizar la seguridad de la información.",
-      "D) Es un conjunto de recomendaciones para la seguridad de la información en las Administraciones Públicas."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "185. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el Esquema Nacional de Interoperabilidad:",
-    "opciones": [
-      "A) Es un conjunto de medidas para garantizar la interoperabilidad de los sistemas de información de las Administraciones Públicas.",
-      "B) Es un conjunto de requisitos para la gestión de la interoperabilidad de los sistemas de información en las Administraciones Públicas.",
-      "C) Es un conjunto de principios básicos y requisitos mínimos que deben cumplir las Administraciones Públicas para garantizar la interoperabilidad de los sistemas de información.",
-      "D) Es un conjunto de recomendaciones para la interoperabilidad de los sistemas de información en las Administraciones Públicas."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "186. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el Gobierno y la Administración General del Estado:",
-    "opciones": [
-      "A) Son la misma cosa.",
-      "B) Son instituciones diferentes.",
-      "C) El Gobierno dirige la Administración General del Estado.",
-      "D) La Administración General del Estado dirige el Gobierno."
-    ],
-    "respuesta_correcta": 2
-  },
-  {
-    "pregunta": "187. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los Secretarios de Estado:",
-    "opciones": [
-      "A) Son órganos superiores de la Administración General del Estado.",
-      "B) Son órganos directivos de la Administración General del Estado.",
-      "C) Son órganos consultivos de la Administración General del Estado.",
-      "D) Son órganos de asesoramiento de la Administración General del Estado."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "188. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los Subsecretarios:",
-    "opciones": [
-      "A) Son órganos superiores de la Administración General del Estado.",
-      "B) Son órganos directivos de la Administración General del Estado.",
-      "C) Son órganos consultivos de la Administración General del Estado.",
-      "D) Son órganos de asesoramiento de la Administración General del Estado."
+      "A) 15 años.",
+      "B) 14 años.",
+      "C) 13 años.",
+      "D) 12 años."
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "189. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los Directores Generales:",
+    "pregunta": "168. En el artículo 4 del Decreto 94/1999 de 25 de mayo, por el que se regula la estructura y el funcionamiento de la Oficina Canaria de Defensa de los Derechos de los Usuarios Sanitarios (ODDUS) y la tramitación de reclamaciones, solicitudes, iniciativas y sugerencias en el ámbito sanitario, se dispone que, la actuación administrativa de la Oficina abarca las siguientes áreas funcionales, señale la incorrecta:",
     "opciones": [
-      "A) Son órganos superiores de la Administración General del Estado.",
-      "B) Son órganos directivos de la Administración General del Estado.",
-      "C) Son órganos consultivos de la Administración General del Estado.",
-      "D) Son órganos de asesoramiento de la Administración General del Estado."
+      "A) Reclamaciones, que constituyen las quejas de los usuarios sobre su insatisfacción por los servicios recibidos.",
+      "B) Solicitudes, que son las demandas de información escritas sobre servicios y prestaciones sanitarias, derechos y deberes de los usuarios, procedimientos, normativa y demás cuestiones de naturaleza sanitaria.",
+      "C) Iniciativas, que son las propuestas que formulan los usuarios para mejorar el grado de cumplimiento y observancia de los derechos y de los deberes de los usuarios, del funcionamiento de los servicios sanitarios y del cuidado y atención de los enfermos.",
+      "D) Reclamaciones patrimoniales por el anormal funcionamiento de los servicios sanitarios, cuando existen daños y perjuicios."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "169. Según el Decreto 94/1999, de 25 de mayo, corresponde a la Oficina (ODDUS), en el área de reclamaciones, el desempeño de las siguientes funciones. Señale la opción incorrecta:",
+    "opciones": [
+      "A) Atender, tramitar y elevar al órgano competente la propuesta de contestación de las reclamaciones presentadas por los usuarios sanitarios y no sanitarios.",
+      "B) Gestionar y custodiar un Registro de reclamaciones de los usuarios sanitarios, en coordinación con los registros que al efecto se constituyan en las unidades funcionales dependientes.",
+      "C) Elaborar estadísticas sobre las reclamaciones presentadas, clasificándolas de acuerdo con criterios geográficos, materiales, sectoriales o cualquier otro que estime pertinente.",
+      "D) Apoyar y asesorar a los órganos y unidades competentes en sus relaciones con todas aquellas entidades públicas y privadas, para la investigación y contestación de las reclamaciones presentadas por los usuarios sanitarios."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "170. Según el Decreto 94/1999, de 25 de mayo, corresponde a la Oficina (ODDUS), en el área de solicitudes, el desempeño de las siguientes funciones. Señale la opción incorrecta:",
+    "opciones": [
+      "A) Atender, tramitar, responder y proponer, en su caso, al órgano competente, la respuesta de las solicitudes presentadas por los usuarios sanitarios, pacientes o familiares.",
+      "B) Gestionar y custodiar un Registro de solicitudes presentadas por los usuarios sanitarios, en coordinación con los registros que al efecto se constituyan en las unidades funcionales dependientes.",
+      "C) Cualesquiera otras que el titular de la Consejería competente en materia de sanidad le encomiende dentro de este área.",
+      "D) Cualesquiera otras que el Director del Servicio Canario de la Salud le encomiende dentro de este área."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "171. Según el Decreto 94/1999, de 25 de mayo, corresponde a la Oficina (ODDUS), en el área de iniciativas y sugerencias, el desempeño de las siguientes funciones. Señale la opción incorrecta:",
+    "opciones": [
+      "A) Apoyar y asesorar a los órganos y unidades competentes en sus relaciones con todas aquellas entidades públicas y privadas, para la investigación y contestación de las reclamaciones presentadas por los usuarios sanitarios.",
+      "B) Gestionar, guardar y custodiar un Registro de iniciativas y sugerencias, en coordinación con los registros que al efecto se constituyan en las unidades funcionales dependientes.",
+      "C) Cualesquiera otras que se le encomiende dentro del área.",
+      "D) Atender, valorar y tramitar las iniciativas y sugerencias presentadas por los usuarios sanitarios para un mejor funcionamiento de los servicios y eficaz cumplimiento de sus derechos, recabando para ello de cualquier entidad, organismo, centro o servicio público o privado los informes y estudios de viabilidad, así como las propuestas o alternativas que dichas iniciativas y sugerencias pudieran dar lugar.."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "172. Según el Decreto 94/1999, de 25 de mayo, corresponde a la Oficina (ODDUS), en el área de información, el desempeño de las siguientes funciones. Señale la opción incorrecta:",
+    "opciones": [
+      "A) Recabar de las entidades y organismos públicos y privados del sector sanitario, cualquier tipo de información que considere oportuna para un mejor cumplimiento de sus funciones.",
+      "B) Divulgar y difundir información sobre determinados procesos sanitarios y no sanitarios que a juicio del titular del Departamento competente en materia de sanidad o educación, resulten ser de interés para los usuarios sanitarios en general.",
+      "C) Analizar, confeccionar, difundir y comunicar los resultados de las encuestas dirigidas a los usuarios",
+      "D) Elaborar la Memoria Anual de la Oficina"
+
     ],
     "respuesta_correcta": 1
   },
   {
-    "pregunta": "190. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las Delegaciones del Gobierno en las Comunidades Autónomas:",
+    "pregunta": "173. Señale la respuesta incorrecta. Según el artículo 8 del Decreto 94/1999, de 25 de mayo, corresponde al titular del órgano del que dependa la Oficina Canaria de Defensa de los Derechos de los Usuarios Sanitarios (ODDUS) la contestación a reclamaciones y respuesta de las solicitudes, iniciativas y sugerencias siguientes:",
     "opciones": [
-      "A) Son órganos de la Administración General del Estado en el territorio de las Comunidades Autónomas.",
-      "B) Son órganos de las Comunidades Autónomas.",
-      "C) Son órganos de la Administración Local.",
-      "D) Son órganos de la Administración de Justicia."
+      "A) Las que afecten a más de un Área de Salud.",
+      "B) Las que por su complejidad exijan una especial labor investigadora, de información o estudio.",
+      "C) Las que se refieran a varios centros, servicios o establecimientos sanitarios.",
+      "D) Las que se refieran a las actuaciones realizadas en centros o servicios de carácter privado concertado"
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "174. Señale la respuesta incorrecta. A los efectos de los expedientes y funciones previstas en el artículo 10 del Decreto 94/1999, de 25 de mayo, dependerán funcionalmente de la Oficina:",
+    "opciones": [
+      "A) Los Servicios de Atención al Usuario o Unidades equivalentes a los mismos existentes en los establecimientos integrados o adscritos en la Red Hospitalaria de Utilización Pública.",
+      "B) Los Servicios de Atención al Usuario o Unidades equivalentes a los mismos existentes en los establecimientos integrados o adscritos en la Red Hospitalaria de Utilización Privada.",
+      "C) Los Servicios análogos a los anteriores que existan o puedan crearse en las Gerencias de Atención Primaria y en las Gerencias de Servicios Sanitarios.",
+      "D) Las Unidades Insulares de la Oficina que se creen y se integren en la estructura orgánica de las Direcciones de las Áreas de Salud, así como las unidades de éstas destinadas al cumplimiento de las obligaciones contenidas en este Decreto en su área material de actividad."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "175. A los efectos de los expedientes y funciones previstas en el Decreto 94/1999, de 25 de mayo, que regula la ODDUS, dependerán funcionalmente de la Oficina:",
+    "opciones": [
+      "A) Los Servicios de Atención al Usuario o Unidades equivalentes a los mismos existentes en los establecimientos integrados o adscritos en la Red Hospitalaria de Utilización Pública.",
+      "B) Los Servicios de Atención al Usuario o Unidades equivalentes a los mismos existentes en los establecimientos integrados o adscritos en la Red Hospitalaria de Utilización Privada.",
+      "C) Los Servicios de Atención al Usuario o Unidades equivalentes a los mismos existentes en los establecimientos no integrados o adscritos en la Red Hospitalaria de Utilización Pública.",
+      "D) Los Servicios de Atención al Usuario o Unidades equivalentes a los mismos existentes en los establecimientos no integrados o adscritos en la Red Hospitalaria de Utilización Privada."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "191. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los Subdelegados del Gobierno:",
+    "pregunta": "176. Señale la respuesta incorrecta. Según el Decreto 94/1999, de 25 de mayo, corresponde al titular del órgano del que dependa la Oficina Canaria de Defensa de los Derechos de los Usuarios Sanitarios (ODDUS) la contestación a reclamaciones y respuesta de las solicitudes, iniciativas y sugerencias siguientes:",
     "opciones": [
-      "A) Son órganos de la Administración General del Estado en la provincia.",
-      "B) Son órganos de la Administración de la Comunidad Autónoma.",
-      "C) Son órganos de la Administración Local.",
-      "D) Son órganos de la Administración de Justicia."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "192. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la Administración General del Estado se organiza territorialmente en:",
-    "opciones": [
-      "A) Comunidades Autónomas y provincias.",
-      "B) Provincias e islas.",
-      "C) Comunidades Autónomas y municipios.",
-      "D) Provincias y municipios."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "193. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las relaciones de colaboración entre Administraciones Públicas se instrumentarán, en su caso, a través de:",
-    "opciones": [
-      "A) Convenios, conferencias sectoriales o planes y programas conjuntos.",
-      "B) Convenios, acuerdos o pactos.",
-      "C) Convenios, tratados o protocolos.",
-      "D) Convenios, órdenes o resoluciones."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "194. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las conferencias sectoriales:",
-    "opciones": [
-      "A) Son órganos de cooperación entre la Administración General del Estado y las Comunidades Autónomas.",
-      "B) Son órganos de coordinación entre la Administración General del Estado y las Comunidades Autónomas.",
-      "C) Son órganos de colaboración entre la Administración General del Estado y las Comunidades Autónomas.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "195. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los planes y programas conjuntos:",
-    "opciones": [
-      "A) Son instrumentos de planificación y programación de actuaciones conjuntas entre Administraciones Públicas.",
-      "B) Son instrumentos de coordinación de actuaciones entre Administraciones Públicas.",
-      "C) Son instrumentos de colaboración de actuaciones entre Administraciones Públicas.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "196. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la asistencia jurídica a la Administración General del Estado y a sus organismos públicos se prestará por:",
-    "opciones": [
-      "A) La Abogacía General del Estado.",
-      "B) Los Abogados del Estado.",
-      "C) Los servicios jurídicos de los Ministerios.",
-      "D) Los servicios jurídicos de los organismos públicos."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "197. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el control económico y financiero de la Administración General del Estado y de sus organismos públicos se ejercerá por:",
-    "opciones": [
-      "A) La Intervención General de la Administración del Estado.",
-      "B) El Tribunal de Cuentas.",
-      "C) La Contraloría General del Estado.",
-      "D) La Auditoría General del Estado."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "198. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la responsabilidad patrimonial de las Administraciones Públicas es:",
-    "opciones": [
-      "A) Directa y objetiva.",
-      "B) Directa y subjetiva.",
-      "C) Subsidiaria y objetiva.",
-      "D) Subsidiaria y subjetiva."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "199. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el derecho de los particulares a ser indemnizados por las lesiones que sufran en cualquiera de sus bienes y derechos, salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos, se denomina:",
-    "opciones": [
-      "A) Responsabilidad contractual.",
-      "B) Responsabilidad extracontractual.",
-      "C) Responsabilidad patrimonial.",
-      "D) Responsabilidad civil."
+      "A) Las que se refieran a las actuaciones realizadas en centros o servicios de carácter privado no concertado.",
+      "B) Las disconformidades de los usuarios en relación con las contestaciones y respuestas de las reclamaciones y solicitudes recibidas en el primer nivel de actuación.",
+      "C) Las que sean reiteradas por los usuarios con motivo de la falta de respuesta en plazo de las formuladas en cualquier nivel de actuación.",
+      "D) Las que por su importancia, gravedad o trascendencia acuerde el titular de la Consejería competente en materia de sanidad."
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "200. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el plazo para el ejercicio de la acción para exigir la responsabilidad patrimonial de las Administraciones Públicas es de:",
+    "pregunta": "177. Según su artículo 1, la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales tiene por objeto:",
     "opciones": [
-      "A) Un año desde el hecho que motive la indemnización.",
-      "B) Dos años desde el hecho que motive la indemnización.",
-      "C) Cuatro años desde el hecho que motive la indemnización.",
-      "D) Cinco años desde el hecho que motive la indemnización."
+      "A) Garantizar los derechos digitales de la ciudadanía conforme al mandato establecido en el artículo 18.4 de la Constitución Española.",
+      "B) Garantizar los derechos digitales de la ciudadanía conforme al mandato establecido en el articulo 28.4 de la Constitución Española.",
+      "C) Garantizar los derechos digitales de la ciudadanía conforme al mandato establecido en el artículo 8.4 de la Constitución Española.",
+      "D) Garantizar los derechos digitales de la ciudadanía conforme al mandato establecido en el artículo 38.4 de la Constitución Española."
     ],
     "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "178. De conformidad con lo establecido en el artículo 2.2 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, esta ley orgánica no será de aplicación:",
+    "opciones": [
+      "A) A los tratamientos de datos de personas incapacitadas judicialmente.",
+      "B) A los tratamientos sometidos a la normativa sobre protección de materias clasificadas.",
+      "C) No existen excepciones a la aplicación de esta ley orgánica.",
+      "D) A cualquier tratamiento total o parcialmente automatizado de datos personales."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "179. De conformidad con lo establecido en el artículo 4.1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, sobre la exactitud de los datos:",
+    "opciones": [
+      "A) Los datos serán exactos.",
+      "B) Los datos serán exactos y, si fuere necesario, actualizados.",
+      "C) Los datos serán actualizados, no es necesario que sean exactos.",
+      "D) Los datos serán exactos, aunque nunca será necesario actualizarlos."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "180. De conformidad con lo establecido en el artículo 5 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, sobre el deber de confidencialidad:",
+    "opciones": [
+      "A) La confidencialidad y el secreto profesional de los responsables y encargados del tratamiento de datos no se mantendrán al finalizar la relación del obligado con el responsable o encargado del tratamiento.",
+      "B) La confidencialidad y el secreto profesional de los responsables y encargados del tratamiento de datos se mantendrán aún cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento.",
+      "C) Solo el secreto profesional de los encargados del tratamiento de datos se mantendrán aún cuando finalizase la relación del obligado con el responsable o encargado del tratamiento.",
+      "D) Solo la confidencialidad de los encargados del tratamiento de datos se mantendrán aún cuando finalizase la relación del obligado con el responsable o encargado del tratamiento."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "181. De conformidad con lo establecido en el artículo 6.1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, se entiende por consentimiento del afectado:",
+    "opciones": [
+      "A) Toda manifestación de voluntad libre, específica, informada e inequívoca por la que éste acepta el tratamiento de datos personales que le conciernen.",
+      "B) Toda manifestación de voluntad libre, informada e inequívoca por la que éste acepta el tratamiento de datos personales que le conciernen.",
+      "C) Toda manifestación de voluntad específica e informada por la que éste acepta el tratamiento de datos personales que le conciernen.",
+      "D) Toda manifestación de voluntad libre y genérica por la que éste acepta el tratamiento de datos personales que le conciernen."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "182. De acuerdo con el artículo 7 de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales, el tratamiento de los datos personales de un menor de edad, fundado en el consentimiento, se considerará lícito:",
+    "opciones": [
+      "A) Siempre que sea mayor de 14 años cuando conste su consentimiento, sin excepciones.",
+      "B) Siempre que sea menor de 14 años, solo cuando conste el consentimiento del titular de la patria potestad o tutela, con el alcance que determinen éstos.",
+      "C) Nunca podrá ser objeto de tratamiento si tiene una edad inferior a 13 años.",
+      "D) Siempre que sea mayor de 12 años cuando conste su consentimiento."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "183. De conformidad con lo establecido en el artículo 8.2 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, en relación con el tratamiento de datos por obligación legal, interés público o ejercicio de poderes públicos:",
+    "opciones": [
+      "A) Solo podrá considerarse fundado en el cumplimiento de una misión realizada en interés público cuando derive de una competencia atribuida por una orden.",
+      "B) Solo podrá considerarse fundado en el cumplimiento de una misión realizada en interés público cuando derive de una competencia atribuida por una norma o resolución administrativa.",
+      "C) Solo podrá considerarse fundado en el cumplimiento de una misión realizada en interés público cuando derive de una competencia atribuida por una norma con rango de ley..",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "184. Según el artículo 9.1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, en relación a las categorías especiales de datos personales:",
+    "opciones": [
+      "A) El solo consentimiento del afectado bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico.",
+      "B) El solo consentimiento del afectado bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación sindical.",
+      "C) El solo consentimiento del afectado no bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico.",
+      "D) El solo consentimiento del afectado no bastará para levantar la prohibición del tratamiento de datos cuya finalidad principal sea identificar su afiliación sindical y orientación política."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "185. El artículo 9 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, señala que una norma con rango de ley:",
+    "opciones": [
+      "A) Podrá amparar el tratamiento de datos en el ámbito de la salud cuando así lo exija la gestión de los sistemas y servicios de asistencia sanitaria y social, pública y privada, o la ejecución de un contrato de seguro del que el afectado sea parte.",
+      "B) No podrá amparar el tratamiento de datos en el ámbito de la salud aunque así lo exija la gestión de los sistemas y servicios de asistencia sanitaria y social, pública y privada, o la ejecución de un contrato de seguro del que el afectado sea parte.",
+      "C) Podrá amparar el tratamiento de datos en el ámbito de la salud cuando así lo exija la gestión de los sistemas y servicios de asistencia sanitaria y social, sólo pública, o la ejecución de un contrato de seguro del que el afectado sea parte.",
+      "D) Podrá amparar el tratamiento de datos en el ámbito de la salud cuando así lo exija la gestión de los sistemas y servicios de asistencia sanitaria y social, sólo privada, o la ejecución de un contrato de seguro del que el afectado sea parte."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "186. Según el artículo 10.1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el tratamiento de datos personales relativos a condenas e infracciones penales, para fines distintos de los de prevención, investigación, detección o enjuiciamiento de infracciones penales o de ejecución de sanciones penales, solo podrá llevarse a cabo cuando se encuentre amparado en:",
+    "opciones": [
+      "A) Una norma de Derecho de la Unión.",
+      "B) En otras normas de rango legal.",
+      "C) En esta Ley Orgánica 3/2018. de 5 de diciembre.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "187. De conformidad con lo establecido en el artículo 12.1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, sobre las disposiciones generales sobre el ejercicio de los derechos:",
+    "opciones": [
+      "A) Los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679 solo podrán ejercerse directamente por el interesado.",
+      "B) Los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679 solo podrán ejercerse por medio de representante legal o voluntario.",
+      "C) Los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679 no podrán ejercerse por medio de representante voluntario.",
+      "D) Los derechos reconocidos en los artículos 15 a 22 del Reglamento (UE) 2016/679 podrán ejercerse directamente o por medio de representante legal o voluntario."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "188. Según el artículo 132 del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, las Administraciones públicas están obligadas a facilitar los datos y documentos que precisen los órganos gestores, servicios comunes y entidades colaboradoras de la Seguridad Social, en relación con los procedimientos que tramiten en el ejercicio de sus respectivas competencias. Señale la respuesta incorrecta:",
+    "opciones": [
+      "A) No se exceptúan los datos de carácter protegido.",
+      "B) Se exceptúan los datos de carácter protegido.",
+      "C) Las Administraciones públicas deberán facilitar los datos y documentos sin que el acceso a ellos suponga coste alguno para la Seguridad Social.",
+      "D) Las Administraciones públicas deberán facilitar los datos y documentos a través de medios electrónicos."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "189. Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, la gestión de la Seguridad Social se realizará bajo la dirección y tutela de:",
+    "opciones": [
+      "A) El Gobierno.",
+      "B) El Ministerio de Inclusión, Seguridad Social y Migraciones.",
+      "C) El Ministerio de Hacienda y Función Pública.",
+      "D) Las Comunidades Autónomas."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "190. Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, las entidades gestoras y servicios comunes de la Seguridad Social son:",
+    "opciones": [
+      "A) Entidades de Derecho público con personalidad jurídica propia, adscritas al Ministerio de Inclusión, Seguridad Social y Migraciones.",
+      "B) Entidades de Derecho público con personalidad jurídica propia, adscritas al Ministerio de Sanidad.",
+      "C) Entidades de Derecho privado con personalidad jurídica propia, adscritas al Ministerio de Inclusión, Seguridad Social y Migraciones.",
+      "D) Entidades de Derecho privado con personalidad jurídica propia, adscritas al Ministerio de Hacienda y Función Pública."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "191. Según el artículo 124 del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, el sistema de la Seguridad Social, en su modalidad contributiva, se financiará de la siguiente forma:",
+    "opciones": [
+      "A) Con las aportaciones de las Comunidades Autónomas.",
+      "B) Con las aportaciones finalistas del Estado.",
+      "C) Con las aportaciones de las personas incluidas en el sistema de la Seguridad Social y de los empresarios y con las que se efectúen por los conceptos de recaudación conjunta.",
+      "D) Con las aportaciones de las Mutuas Colaboradoras con la Seguridad Social."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "192. Según el artículo 125.1 del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, la obligación de cotizar nace:",
+    "opciones": [
+      "A) Desde el momento en que se inicie la actividad laboral.",
+      "B) Desde el momento en que se realicen, en su caso, las actividades determinantes de su inclusión en el campo de aplicación del sistema de la Seguridad Social, aunque no se hayan cumplido los plazos reglamentarios de afiliación, alta o variación de datos.",
+      "C) Desde el momento en que se cumplan los plazos reglamentarios de afiliación, alta o variación de datos.",
+      "D) Desde el momento en que se reciba la notificación de alta por parte de la Tesorería General de la Seguridad Social."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "193. Según el artículo 126.1 del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, la obligación de cotizar se mantendrá:",
+    "opciones": [
+      "A) Mientras el trabajador permanezca en alta en el régimen correspondiente, aunque se encuentre en situación de incapacidad temporal, maternidad, paternidad, riesgo durante el embarazo, riesgo durante la lactancia natural o cumplimiento de deberes de carácter público.",
+      "B) Mientras el trabajador permanezca en alta en el régimen correspondiente y no se encuentre en ninguna de las situaciones de incapacidad temporal, maternidad, paternidad, riesgo durante el embarazo, riesgo durante la lactancia natural o cumplimiento de deberes de carácter público.",
+      "C) Mientras el trabajador permanezca en alta en el régimen correspondiente, con las excepciones que se establezcan reglamentariamente.",
+      "D) Solo mientras el trabajador preste servicios efectivos."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "194. El artículo 136 del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social dispone que: \"Estarán obligatoriamente incluidos en el campo de aplicación del Régimen General de la Seguridad Social...\"",
+    "opciones": [
+      "A) Los trabajadores por cuenta ajena y los asimilados a los que se refiere el artículo 7.1.a) de esta ley, salvo que por razón de su actividad deban quedar comprendidos en el campo de aplicación de algún régimen especial de la Seguridad Social.",
+      "B) Los trabajadores por cuenta propia y los asimilados a los que se refiere el artículo 7.1.a) de esta ley, salvo que por razón de su actividad deban quedar comprendidos en el campo de aplicación de algún régimen especial de la Seguridad Social.",
+      "C) Los trabajadores por cuenta ajena y los asimilados a los que se refiere el artículo 8.1.a) de esta ley, salvo que por razón de su actividad deban quedar comprendidos en el campo de aplicación de algún régimen general de la Seguridad Social.",
+      "D) Los trabajadores por cuenta propia y los asimilados a los que se refiere el artículo 8.1.a) de esta ley, salvo que por razón de su actividad deban quedar comprendidos en el campo de aplicación de algún régimen especial de la Seguridad Social."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "195. Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social no darán lugar a inclusión en el Régimen General de la Seguridad Social los siguientes trabajos:",
+    "opciones": [
+      "A) Los que se ejecuten ocasionalmente mediante los llamados servicios amistosos, benévolos o de buena vecindad.",
+      "B) Los que den lugar a la inclusión en alguno de los regímenes especiales de la Seguridad Social.",
+      "C) Los realizados por los profesores universitarios eméritos, de conformidad con lo previsto en el apartado 2 de la disposición adicional vigésima segunda de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades.",
+      "D) Todas las respuestas anteriores son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "196. Según el artículo 138 del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, ¿en cuál de los siguientes casos no se permite la asimilación a trabajadores por cuenta ajena?",
+    "opciones": [
+      "A) La realización de prácticas formativas en empresas, instituciones o entidades incluidas en el ámbito de aplicación de los regímenes de Seguridad Social.",
+      "B) Los consejeros y administradores de las sociedades mercantiles capitalistas, siempre que posean el control de la sociedad.",
+      "C) El personal al servicio de Notarías, Registros de la Propiedad y Oficinas o Despachos de Abogados.",
+      "D) Los laicos o seglares que presten servicios retribuidos en los establecimientos o dependencias de la Iglesia Católica y de las confesiones religiosas debidamente inscritas en el correspondiente Registro."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "197. Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, a efectos de su inclusión en el Régimen General, se considerarán asimilados a trabajadores por cuenta ajena, entre otros, salvo que se establezca lo contrario, a:",
+    "opciones": [
+      "A) El personal que realiza operaciones de carga y descarga de vehículos, de forma ambulante o en puntos fijos.",
+      "B) Los trabajadores por cuenta propia.",
+      "C) Los deportistas profesionales.",
+      "D) Los toreros."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "198. Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, ¿en cuál de los siguientes casos no se permite la asimilación a trabajadores por cuenta ajena?",
+    "opciones": [
+      "A) Los socios trabajadores de cooperativas de trabajo asociado.",
+      "B) El personal que presta servicios retribuidos en los establecimientos militares.",
+      "C) Los socios de sociedades mercantiles capitalistas, aun cuando sean miembros de su órgano de administración, si el desempeño de este cargo no conlleva la realización de las funciones de dirección y gerencia, ni posean el control de la sociedad.",
+      "D) Los deportistas profesionales."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "199. Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, ¿cuál de los siguientes no es un régimen especial de la Seguridad Social?",
+    "opciones": [
+      "A) El Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos.",
+      "B) El Régimen Especial de la Seguridad Social de los empleados de hogar.",
+      "C) El Régimen Especial de la Seguridad Social para la Minería del Carbón.",
+      "D) El Régimen Especial de la Seguridad Social de los funcionarios al servicio de la Administración de Justicia."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "200. Según el Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, ¿cuál de los siguientes no es un régimen especial de la Seguridad Social?",
+    "opciones": [
+      "A) El Régimen Especial de la Seguridad Social de los Trabajadores del Mar.",
+      "B) El Régimen Especial de la Seguridad Social de los funcionarios de carrera de la Administración del Estado.",
+      "C) El Régimen Especial de la Seguridad Social para la Minería del Carbón.",
+      "D) El Régimen Especial de la Seguridad Social Agrario."
+    ],
+    "respuesta_correcta": 1
   }
 ]

@@ -1,502 +1,503 @@
 [
   {
-    "pregunta": "101. La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, tiene por objeto:",
+    "pregunta": "101. Según la Ley 39/2015, de 1 de octubre, los siguientes actos deben ser motivados:",
     "opciones": [
-      "A) Regular el procedimiento administrativo común en el ámbito de la Administración General del Estado.",
-      "B) Regular el procedimiento administrativo común en el ámbito de las Administraciones Públicas.",
-      "C) Regular el procedimiento administrativo común en el ámbito de la Administración Pública estatal, autonómica y local.",
-      "D) Regular el procedimiento administrativo común de los órganos constitucionales."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "102. La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se aplica a:",
-    "opciones": [
-      "A) La Administración General del Estado.",
-      "B) Las Administraciones de las Comunidades Autónomas.",
-      "C) Las Entidades que integran la Administración Local.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "103. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se entiende por interesados en el procedimiento administrativo:",
-    "opciones": [
-      "A) Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.",
-      "B) Quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.",
-      "C) Aquellos cuyos intereses legítimos individuales o colectivos puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "104. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿cuál de los siguientes no es un derecho de los interesados en el procedimiento administrativo?",
-    "opciones": [
-      "A) A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.",
-      "B) A ser asistidos en el uso de medios electrónicos en sus relaciones con las Administraciones Públicas.",
-      "C) A la confidencialidad de los datos personales.",
-      "D) A no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por ésta."
+      "A) Los que limiten derechos objetivos o intereses legítimos.",
+      "B) Los que limiten derechos objetivos o intereses ilegítimos.",
+      "C) Los que limiten derechos subjetivos o intereses legítimos.",
+      "D) Los actos que limiten derechos subjetivos o intereses ilegítimos."
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "105. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los derechos de los interesados podrán ser ejercidos:",
+    "pregunta": "102. Según la Ley 39/2015, de 1 de octubre, no tienen por qué motivarse los actos que:",
     "opciones": [
-      "A) Por sí mismos o por medio de representante.",
-      "B) Solo por sí mismos.",
-      "C) Solo por medio de representante.",
-      "D) Por sí mismos, salvo que sean menores de edad."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "106. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la representación en el procedimiento administrativo:",
-    "opciones": [
-      "A) Podrá acreditarse por cualquier medio válido en Derecho que deje constancia fidedigna de su existencia.",
-      "B) Deberá acreditarse mediante poder notarial o declaración en comparecencia personal en la oficina pública.",
-      "C) Podrá presumirse en determinados casos establecidos reglamentariamente.",
-      "D) Sólo se admitirá si la solicitud o escrito se presenta por medios electrónicos."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "107. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿quién tiene capacidad de obrar ante las Administraciones Públicas?",
-    "opciones": [
-      "A) Las personas físicas o jurídicas que ostenten capacidad jurídica conforme a las normas civiles.",
-      "B) Los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad o tutela.",
-      "C) Los grupos de afectados, uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos.",
-      "D) Todas las anteriores."
+      "A) Resuelvan recursos administrativos.",
+      "B) Los actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos.",
+      "C) Los actos que rechacen pruebas propuestas por los interesados.",
+      "D) Todas las respuestas son incorrectas."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "108. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos de las Administraciones Públicas se producirán por el órgano competente, por orden de:",
+    "pregunta": "103. Según la Ley 39/2015, de 1 de octubre, en su artículo 37 sobre la inderogabilidad singular:",
     "opciones": [
-      "A) Superior jerárquico.",
-      "B) Inferior jerárquico.",
-      "C) Su titular.",
-      "D) Delegación o sustitución."
+      "A) Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+      "B) Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter particular, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+      "C) Las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter particular, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición particular.",
+      "D) Las resoluciones administrativas de carácter general no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "104. Según el artículo 25 de la Ley 39/2015, de 1 de octubre, en los procedimientos iniciados de oficio, el vencimiento del plazo máximo para resolver y notificar, produce los siguientes efectos:",
+    "opciones": [
+      "A) Los interesados podrán entender estimadas sus pretensiones por silencio administrativo en el caso de procedimientos de los que se deriven la constitución de derechos.",
+      "B) En los procedimientos en que la administración ejercite potestades sancionadoras el interesado debe solicitar la caducidad de las actuaciones.",
+      "C) En los procedimientos en que la Administración ejercite potestades sancionadoras, se producirá la caducidad.",
+      "D) Ninguna es correcta"
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "109. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la competencia de los órganos administrativos es:",
+    "pregunta": "105. Según el artículo 24 de la Ley 39/2015, de 1 de octubre, se entiende que el silencio de la Administración tiene carácter negativo, en procedimientos iniciados a solicitud del interesado, en el siguiente caso:",
     "opciones": [
-      "A) Irrenunciable.",
-      "B) Delegable.",
-      "C) Susceptible de avocación.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "110. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la delegación de competencias requiere:",
-    "opciones": [
-      "A) Que la ley así lo autorice.",
-      "B) Que el órgano delegante sea superior jerárquico del delegado.",
-      "C) La publicación en el Diario Oficial correspondiente.",
-      "D) Que se realice por escrito y se notifique a los interesados."
+      "A) En todos los procedimientos, salvo en los de responsabilidad patrimonial de las Administraciones Públicas.",
+      "B) En todos los procedimientos, salvo que sean actividades que puedan dañar el medio ambiente.",
+      "C) En los procedimientos relativos al ejercicio del derecho de petición del artículo 29 de la Constitución.",
+      "D) En ninguno de los casos propuestos."
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "111. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la avocación de competencias requiere:",
+    "pregunta": "106. Según la Ley 39/2015, de 1 de octubre, en el supuesto de que se produzca silencio administrativo positivo y, luego, la Administración resuelva expresamente, la resolución:",
     "opciones": [
-      "A) Que la ley así lo autorice.",
-      "B) Que el órgano avoquente sea inferior jerárquico del avocado.",
-      "C) La publicación en el Diario Oficial correspondiente.",
-      "D) Que se realice por escrito y se notifique a los interesados."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "112. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo máximo para resolver y notificar una resolución expresa en los procedimientos iniciados de oficio es de:",
-    "opciones": [
-      "A) Tres meses.",
-      "B) Seis meses.",
-      "C) Doce meses.",
-      "D) El que fije su normativa reguladora."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "113. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el silencio administrativo en los procedimientos iniciados a solicitud del interesado, si no hay resolución expresa, será:",
-    "opciones": [
-      "A) Positivo.",
-      "B) Negativo.",
-      "C) Positivo, salvo que una norma con rango de ley o de Derecho de la Unión Europea establezca lo contrario.",
-      "D) Negativo, salvo que una norma con rango de ley o de Derecho de la Unión Europea establezca lo contrario."
+      "A) Puede denegar lo conseguido en virtud del silencio administrativo.",
+      "B) Indistintamente, puede rectificar lo conseguido o denegarlo.",
+      "C) Ha de ser confirmatoria de lo conseguido por el silencio administrativo.",
+      "D) Ninguna es correcta."
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "114. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el acto administrativo es:",
+    "pregunta": "107. Según la Ley 39/2015, de 1 de octubre, los supuestos de nulidad de pleno derecho de actos administrativos:",
     "opciones": [
-      "A) Toda declaración de voluntad, de deseo, de conocimiento o de juicio realizada por la Administración Pública en el ejercicio de una potestad administrativa.",
-      "B) Toda resolución adoptada por la Administración Pública en el ejercicio de una potestad administrativa.",
-      "C) Toda actuación material de la Administración Pública en el ejercicio de una potestad administrativa.",
-      "D) Toda declaración de voluntad de la Administración Pública, sometida al Derecho Administrativo."
+      "A) Son la regla general en nuestro Derecho.",
+      "B) Son los recogidos en el artículo 46 de la Ley del Procedimiento Administrativo Común de las Administraciones Públicas, exclusivamente.",
+      "C) Pueden establecerse expresamente en una disposición con rango de Ley.",
+      "D) Son sólo los del artículo 48 de la Ley del Procedimiento Administrativo Común de las Administraciones Públicas y de otras Leyes formales."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
-    "pregunta": "115. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos administrativos serán:",
+    "pregunta": "108. El defecto de forma de un acto, según reconoce expresamente la Ley 39/2015, de 1 de octubre:",
     "opciones": [
-      "A) Nulos de pleno derecho o anulables.",
-      "B) Válidos o inválidos.",
-      "C) Firmes o no firmes.",
-      "D) Ejecutivos o no ejecutivos."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "116. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, serán nulos de pleno derecho los actos de las Administraciones Públicas que:",
-    "opciones": [
-      "A) Lesionen el contenido esencial de los derechos y libertades susceptibles de amparo constitucional.",
-      "B) Sean dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
-      "C) Tengan un contenido imposible.",
-      "D) Todas las anteriores."
+      "A) Determinará la nulidad absoluta cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin.",
+      "B) Lo vicia con nulidad absoluta.",
+      "C) Lo vicia con anulabilidad en todo caso.",
+      "D) Determinará la anulabilidad si produce indefensión de los interesados."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "117. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos anulables son aquellos que incurren en cualquier infracción del ordenamiento jurídico, incluso la:",
+    "pregunta": "109. Según la Ley 39/2015, de 1 de octubre, los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde:",
     "opciones": [
-      "A) Desviación de poder.",
-      "B) Incompetencia manifiesta.",
-      "C) Prescripción.",
-      "D) Caducidad."
+      "A) La fecha en que se notifiquen en todo caso.",
+      "B) La fecha en que se publiquen.",
+      "C) La fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "110. Según la Ley 39/2015, de 1 de octubre, la Administración podrá convalidar un acto:",
+    "opciones": [
+      "A) Si el vicio consiste en incompetencia jerárquica no determinante de nulidad.",
+      "B) Si el vicio consiste en incompetencia funcional no determinante de nulidad.",
+      "C) Si el vicio consiste en incompetencia territorial no determinante de nulidad.",
+      "D) Ninguna respuesta es correcta."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "118. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la notificación de los actos administrativos:",
+    "pregunta": "111. Según la Ley 39/2015, de 1 de octubre, la Administración no podrá convalidar un acto si el vicio consiste en:",
     "opciones": [
-      "A) Deberá contener el texto íntegro del acto, con indicación de si es o no definitivo en la vía administrativa, la expresión de los recursos que procedan, órgano ante el que hubieran de presentarse y plazo para interponerlos.",
-      "B) Se practicará en el plazo de diez días a partir de la fecha en que el acto haya sido dictado.",
-      "C) Se practicará por cualquier medio que permita tener constancia de su recepción por el interesado o su representante.",
-      "D) Todas las anteriores."
+      "A) Incompetencia jerárquica.",
+      "B) La falta de una autorización.",
+      "C) Incompetencia funcional.",
+      "D) La omisión de un informe facultativo."
     ],
-    "respuesta_correcta": 3
+    "respuesta_correcta": 2
   },
   {
-    "pregunta": "119. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la publicación de los actos administrativos sustituirá a la notificación:",
-    "opciones": [
-      "A) Cuando así lo establezcan las normas reguladoras de cada procedimiento o cuando lo aconsejen razones de interés público apreciadas por el órgano competente.",
-      "B) Cuando los interesados en el procedimiento sean una pluralidad indeterminada de personas.",
-      "C) Cuando los actos sean de carácter general.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "120. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la validez de los actos administrativos es:",
-    "opciones": [
-      "A) Presunta.",
-      "B) Implícita.",
-      "C) Expresa.",
-      "D) Tácita."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "121. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la eficacia de los actos administrativos es:",
-    "opciones": [
-      "A) Desde la fecha en que se dicten.",
-      "B) Desde la fecha en que se notifiquen o publiquen.",
-      "C) Desde la fecha en que adquieran firmeza.",
-      "D) Desde la fecha en que se ejecuten."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "122. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la ejecución forzosa de los actos administrativos podrá llevarse a cabo por cualquiera de los siguientes medios, salvo:",
-    "opciones": [
-      "A) Apremio sobre el patrimonio.",
-      "B) Ejecución subsidiaria.",
-      "C) Multa coercitiva.",
-      "D) Embargo de bienes."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "123. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los recursos administrativos son:",
-    "opciones": [
-      "A) Recurso de alzada, recurso potestativo de reposición y recurso extraordinario de revisión.",
-      "B) Recurso de alzada y recurso de reposición.",
-      "C) Recurso de alzada y recurso extraordinario de revisión.",
-      "D) Recurso de reposición y recurso extraordinario de revisión."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "124. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el recurso de alzada se interpondrá contra:",
-    "opciones": [
-      "A) Actos que pongan fin a la vía administrativa.",
-      "B) Actos que no pongan fin a la vía administrativa.",
-      "C) Resoluciones de recursos de reposición.",
-      "D) Resoluciones de recursos extraordinarios de revisión."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "125. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo para la interposición del recurso de alzada, si el acto fuera expreso, será de:",
+    "pregunta": "112. El plazo para interponer un recurso de alzada contra un acto expreso será de:",
     "opciones": [
       "A) Un mes.",
-      "B) Dos meses.",
-      "C) Tres meses.",
+      "B) Tres meses.",
+      "C) Diez días.",
       "D) Seis meses."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "126. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el recurso potestativo de reposición se interpondrá contra:",
+    "pregunta": "113. ¿En qué supuesto se podrá interponer el recurso extraordinario de revisión dentro del plazo de 4 años siguientes a la fecha de la notificación de la resolución a impugnar?:",
     "opciones": [
-      "A) Actos que pongan fin a la vía administrativa.",
-      "B) Actos que no pongan fin a la vía administrativa.",
-      "C) Resoluciones de recursos de alzada.",
-      "D) Resoluciones de recursos extraordinarios de revisión."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "127. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo para la interposición del recurso potestativo de reposición, si el acto fuera expreso, será de:",
-    "opciones": [
-      "A) Un mes.",
-      "B) Dos meses.",
-      "C) Tres meses.",
-      "D) Seis meses."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "128. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el recurso extraordinario de revisión procederá contra:",
-    "opciones": [
-      "A) Actos firmes en vía administrativa.",
-      "B) Actos que no pongan fin a la vía administrativa.",
-      "C) Resoluciones de recursos de alzada.",
-      "D) Resoluciones de recursos de reposición."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "129. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo para interponer el recurso extraordinario de revisión, cuando se trate de documentos de valor esencial que no pudieron aportarse al expediente, será de:",
-    "opciones": [
-      "A) Tres meses desde su conocimiento.",
-      "B) Cuatro años desde la notificación del acto impugnado.",
-      "C) Un año desde el conocimiento del fraude o falsedad.",
-      "D) Seis meses desde que se dictó la resolución."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "130. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el desistimiento del interesado en el procedimiento administrativo implica:",
-    "opciones": [
-      "A) La terminación del procedimiento, pero no impide que se pueda iniciar un nuevo procedimiento sobre el mismo objeto.",
-      "B) La terminación del procedimiento y la imposibilidad de iniciar un nuevo procedimiento sobre el mismo objeto.",
-      "C) La suspensión del procedimiento, que se reanudará cuando el interesado lo solicite.",
-      "D) La caducidad del procedimiento."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "131. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la renuncia del interesado a sus derechos en el procedimiento administrativo implica:",
-    "opciones": [
-      "A) La terminación del procedimiento, pero no impide que se pueda iniciar un nuevo procedimiento sobre el mismo objeto.",
-      "B) La terminación del procedimiento y la imposibilidad de iniciar un nuevo procedimiento sobre el mismo objeto.",
-      "C) La suspensión del procedimiento, que se reanudará cuando el interesado lo solicite.",
-      "D) La caducidad del procedimiento."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "132. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la caducidad del procedimiento administrativo:",
-    "opciones": [
-      "A) Se produce por la paralización del procedimiento imputable al interesado por un plazo de tres meses.",
-      "B) Se produce por la paralización del procedimiento imputable a la Administración por un plazo de tres meses.",
-      "C) No se produce si el procedimiento tiene por objeto la protección del medio ambiente.",
-      "D) No se produce si el procedimiento tiene por objeto la protección de la salud pública."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "133. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la interrupción de los plazos en el procedimiento administrativo se producirá por:",
-    "opciones": [
-      "A) La realización de cualquier actuación administrativa de impulso del procedimiento.",
-      "B) La petición de informes que sean preceptivos y determinantes del contenido de la resolución.",
-      "C) La suspensión del procedimiento por la existencia de un procedimiento penal.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "134. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la ampliación de los plazos en el procedimiento administrativo podrá concederse por un período de:",
-    "opciones": [
-      "A) La mitad del plazo inicial.",
-      "B) El doble del plazo inicial.",
-      "C) El que se fije en la resolución que la conceda.",
-      "D) Hasta tres meses."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "135. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la tramitación de urgencia del procedimiento administrativo implicará la reducción a la mitad de los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de:",
-    "opciones": [
-      "A) Recursos.",
-      "B) Alegaciones.",
-      "C) Pruebas.",
-      "D) Informes."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "136. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los expedientes administrativos electrónicos deberán contener:",
-    "opciones": [
-      "A) El índice de los documentos que lo integran.",
-      "B) Una copia electrónica de los documentos que lo integran.",
-      "C) Un resumen de los trámites realizados.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "137. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la identificación de los interesados en el procedimiento administrativo podrá realizarse mediante:",
-    "opciones": [
-      "A) Firma electrónica avanzada.",
-      "B) Sistema de claves concertadas o análogas.",
-      "C) Cualquier medio que permita acreditar la identidad de la persona interesada.",
-      "D) Todas las anteriores."
-    ],
-    "respuesta_correcta": 3
-  },
-  {
-    "pregunta": "138. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la sede electrónica:",
-    "opciones": [
-      "A) Es la dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones.",
-      "B) Es el punto de acceso electrónico a través del cual los ciudadanos pueden ejercer sus derechos y cumplir sus deberes con la Administración Pública.",
-      "C) Es el conjunto de medios electrónicos que permiten a los ciudadanos acceder a los servicios y trámites de la Administración Pública.",
-      "D) Es el portal de internet de la Administración Pública."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "139. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el registro electrónico general:",
-    "opciones": [
-      "A) Es el único registro válido para la presentación de documentos en la Administración Pública.",
-      "B) Permitirá la presentación de documentos todos los días del año durante las veinticuatro horas del día.",
-      "C) Es el registro en el que se inscriben los documentos presentados por los ciudadanos de forma presencial.",
-      "D) Es el registro en el que se inscriben los documentos presentados por los ciudadanos por correo postal."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "140. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las notificaciones electrónicas se entenderán practicadas:",
-    "opciones": [
-      "A) En el momento en que se produzca el acceso a su contenido.",
-      "B) En el momento en que el ciudadano acceda a la sede electrónica.",
-      "C) En el momento en que el ciudadano acceda al sistema de notificación.",
-      "D) En el momento en que se envíe la notificación al ciudadano."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "141. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los certificados electrónicos:",
-    "opciones": [
-      "A) Son documentos electrónicos que permiten identificar al titular de forma inequívoca.",
-      "B) Son documentos electrónicos que permiten firmar documentos de forma electrónica.",
-      "C) Son documentos electrónicos que permiten acreditar la identidad del titular y firmar documentos de forma electrónica.",
-      "D) Son documentos electrónicos que permiten acceder a los servicios de la Administración Pública."
+      "A) Que en la resolución hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme, anterior o posterior a aquella resolución.",
+      "B) Que la resolución se hubiese dictado como consecuencia de prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible y se haya declarado así en virtud de sentencia judicial firme.",
+      "C) Que al dictarlos se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente.",
+      "D) Que aparezcan documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución recurrida."
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "142. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la firma electrónica:",
+    "pregunta": "114. El recurso de alzada:",
     "opciones": [
-      "A) Es el conjunto de datos que permiten identificar al firmante de un documento electrónico.",
-      "B) Es el conjunto de datos que permiten garantizar la autenticidad e integridad de un documento electrónico.",
-      "C) Es el conjunto de datos que permiten identificar al firmante y garantizar la autenticidad e integridad de un documento electrónico.",
-      "D) Es el conjunto de datos que permiten acceder a los servicios de la Administración Pública."
+      "A) Podrá interponerse, en cualquier caso, en el plazo de 3 meses.",
+      "B) Podrá interponerse ante cualquier acto que ponga fin a la vía administrativa.",
+      "C) Podrá interponerse contra las disposiciones administrativas de carácter general ante el órgano superior jerárquico del que las dictó.",
+      "D) Podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "115. Contra la resolución de un recurso de reposición:",
+    "opciones": [
+      "A) No podrá interponerse de nuevo dicho recurso.",
+      "B) Podrá interponerse un nuevo recurso de reposición.",
+      "C) Podrá interponerse de nuevo recurso de reposición pero ante el órgano superior jerárquico del que lo resolvió.",
+      "D) Procederá el recurso extraordinario de revisión, siempre y cuando concurran las circunstancias previstas en el art. 109.1 de la Ley 39/2015 de 1 de octubre."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "116. Contra los actos administrativos que ponen fin a la vía administrativa, ¿qué recurso podremos interponer en vía administrativa?",
+    "opciones": [
+      "A) Ninguno.",
+      "B) Recurso de alzada.",
+      "C) Recurso potestativo de reposición.",
+      "D) Alzada o extraordinario de revisión."
     ],
     "respuesta_correcta": 2
   },
   {
-    "pregunta": "143. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los registros administrativos:",
+    "pregunta": "117. El recurso de alzada se resuelve por:",
     "opciones": [
-      "A) Son los instrumentos que permiten dejar constancia de la entrada y salida de documentos en la Administración Pública.",
-      "B) Son los instrumentos que permiten gestionar los procedimientos administrativos.",
-      "C) Son los instrumentos que permiten archivar los documentos de la Administración Pública.",
-      "D) Son los instrumentos que permiten la comunicación entre las Administraciones Públicas."
+      "A) El superior jerárquico del órgano que dictó el acto que se impugna.",
+      "B) El mismo órgano que dictó el acto que se impugna.",
+      "C) El Ministro competente, siempre.",
+      "D) La Presidencia del Gobierno."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "144. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los archivos administrativos:",
+    "pregunta": "118. Ante un acto no expreso, el solicitante y otros posibles interesados podrán interponer recurso de reposición en qué plazo?:",
     "opciones": [
-      "A) Son los instrumentos que permiten conservar y gestionar los documentos de la Administración Pública.",
-      "B) Son los instrumentos que permiten archivar los documentos de la Administración Pública.",
-      "C) Son los instrumentos que permiten organizar los documentos de la Administración Pública.",
-      "D) Son los instrumentos que permiten la consulta de los documentos de la Administración Pública."
+      "A) En el plazo de tres meses a partir del día siguiente a aquél en que, de acuerdo con su normativa específica, se produzca el acto presunto.",
+      "B) En el plazo de seis meses a partir del día siguiente a aquél en que, de acuerdo con su normativa específica, se produzca el acto presunto.",
+      "C) En cualquier momento a partir del día siguiente a aquél en que, de acuerdo con su normativa específica, se produzca el acto presunto.",
+      "D) En el plazo de un año a partir del día siguiente a aquél en que, de acuerdo con su normativa específica, se produzca el acto presunto."
     ],
-    "respuesta_correcta": 0
+    "respuesta_correcta": 2
   },
   {
-    "pregunta": "145. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las notificaciones por comparecencia electrónica se entenderán practicadas:",
+    "pregunta": "119. ¿Cuál no es un recurso de los recogidos en la Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas?",
     "opciones": [
-      "A) Transcurridos diez días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
-      "B) En el momento en que el interesado o su representante acceda a la sede electrónica.",
-      "C) En el momento en que el interesado o su representante acceda al sistema de notificación.",
-      "D) En el momento en que se envíe la notificación al ciudadano."
-    ],
-    "respuesta_correcta": 0
-  },
-  {
-    "pregunta": "146. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la interposición de cualquier recurso, excepto el de revisión:",
-    "opciones": [
-      "A) Suspenderá automáticamente la ejecución del acto impugnado.",
-      "B) No suspenderá automáticamente la ejecución del acto impugnado.",
-      "C) Suspenderá la ejecución del acto impugnado si el interesado lo solicita.",
-      "D) Suspenderá la ejecución del acto impugnado si la Administración lo acuerda."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "147. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la avocación de competencias podrá ser ejercida por:",
-    "opciones": [
-      "A) El órgano superior respecto al inferior, en cualquier momento y sobre cualquier asunto.",
-      "B) El órgano superior respecto al inferior, cuando razones técnicas, económicas, sociales, jurídicas o territoriales lo hagan aconsejable.",
-      "C) El órgano superior respecto al inferior, de forma excepcional y en supuestos determinados por ley.",
-      "D) El órgano inferior respecto al superior, cuando concurran circunstancias especiales."
-    ],
-    "respuesta_correcta": 1
-  },
-  {
-    "pregunta": "148. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos administrativos que pongan fin a la vía administrativa son:",
-    "opciones": [
-      "A) Los que resuelvan un recurso de alzada.",
-      "B) Los que resuelvan un recurso de reposición.",
-      "C) Los que sean dictados por órganos que tengan atribuida competencia para resolver en última instancia.",
-      "D) Todas las anteriores."
+      "A) Recurso potestativo de reposición.",
+      "B) Recurso de alzada.",
+      "C) Recurso extraordinario de revisión.",
+      "D) Ninguna respuesta es correcta."
     ],
     "respuesta_correcta": 3
   },
   {
-    "pregunta": "149. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos de trámite:",
+    "pregunta": "120. Contra los actos firmes en vía administrativa, sólo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias previstas en el artículo:",
     "opciones": [
-      "A) Son aquellos que se producen durante la tramitación del procedimiento administrativo y no deciden el fondo del asunto.",
-      "B) Son aquellos que deciden el fondo del asunto y ponen fin al procedimiento administrativo.",
-      "C) Son aquellos que no son susceptibles de recurso administrativo.",
-      "D) Son aquellos que son susceptibles de recurso administrativo."
+      "A) 124.1.",
+      "B) 125.1.",
+      "C) 126.1.",
+      "D) 127.1."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "121. Podrán interponerse, por los interesados, los recursos de alzada y potestativo de reposición, que cabrá fundar en cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de la Ley 39/2015:",
+    "opciones": [
+      "A) Contra las resoluciones y los actos de trámite.",
+      "B) Contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto.",
+      "C) Contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento.",
+      "D) Contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos e intereses legítimos."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "122. Las leyes podrán sustituir el recurso de alzada, en supuestos o ámbitos sectoriales determinados, y cuando la especificidad de la materia así lo justifique, ante órganos colegiados o Comisiones específicas no sometidas a instrucciones jerárquicas, con respeto a los principios, garantías y plazos que la Ley 39/2015, de 1 de octubre, reconoce a las personas y a los interesados en todo procedimiento administrativo por otros procedimientos de:",
+    "opciones": [
+      "A) Impugnación.",
+      "B) Mediación y arbitraje.",
+      "C) Conciliación, mediación y arbitraje.",
+      "D) Todas son correctas."
+
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "123. Señale la respuesta incorrecta. Ponen fin a la vía administrativa:",
+    "opciones": [
+      "A) Las resoluciones de los recursos de alzada.",
+      "B) Las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una Ley establezca lo contrario.",
+      "C) Las resoluciones de los procedimientos a que se refiere el artículo 112.3.",
+      "D) Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "124. Señale la respuesta incorrecta. Además de lo previsto en el artículo 114.1 de la Ley 39/2015, en el ámbito estatal ponen fin a la vía administrativa los actos y resoluciones siguientes:",
+    "opciones": [
+      "A) Los actos administrativos de los miembros y órganos del Gobierno.",
+      "B) Los emanados de los Consejeros y los Secretarios de Estado en el ejercicio de las competencias que tienen atribuidas los órganos de los que son titulares.",
+      "C) Los emanados de los órganos directivos con nivel de Director general o superior, en relación con las competencias que tengan atribuidas en materia de personal.",
+      "D) En los Organismos públicos y entidades de derecho público vinculados o dependientes de la Administración General del Estado, los de sus máximos órganos de dirección unipersonales o colegiados, de acuerdo con lo que establezcan sus estatutos, salvo que por Ley se establezca otra cosa."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "125. Según el Real Decreto 208/1996, de 9 de febrero, por el que se regulan los servicios de información administrativa y atención al ciudadano. Las funciones de información administrativa y atención al ciudadano, tienen por objeto:",
+    "opciones": [
+      "A) Potenciar y mejorar la comunicación entre los ciudadanos y la Administración.",
+      "B) Simplificar los trámites administrativos.",
+      "C) Facilitar el acceso de los ciudadanos a los servicios públicos.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "126. Según el Real Decreto 208/1996, de 9 de febrero, por el que se regulan los servicios de información administrativa y atención al ciudadano. Las funciones de información administrativa y atención al ciudadano, tienen por objeto:",
+    "opciones": [
+      "A) El acercamiento de la Administración a los ciudadanos.",
+      "B) Fomentar la participación en la gestión pública.",
+      "C) Promover la calidad de los servicios públicos.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "127. El ámbito de aplicación del Real Decreto 208/1996, de 9 de febrero, comprende a:",
+    "opciones": [
+      "A) La Administración Central del Estado.",
+      "B) La Administración Local.",
+      "C) La Administración de las Comunidades Autónomas.",
+      "D) Todas son correctas."
     ],
     "respuesta_correcta": 0
   },
   {
-    "pregunta": "150. Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la suspensión del procedimiento administrativo se acordará cuando:",
+    "pregunta": "128. Según el Real Decreto 208/1996, de 9 de febrero, la información administrativa que tiene por objeto orientar e informar a los ciudadanos, con carácter general, sobre la organización de la Administración Pública, sus funciones, requisitos jurídicos o técnicos que las disposiciones impongan a los proyectos, actuaciones o solicitudes que los ciudadanos se propongan realizar, la referente a los procedimientos, trámites, requisitos y documentación para las actuaciones que aquellos pretendan realizar, o cualquier otro dato de interés de los servicios públicos es:",
     "opciones": [
-      "A) Exista un procedimiento penal en curso que condicione directamente el contenido de la resolución administrativa.",
-      "B) Se solicite por el interesado y concurran causas justificadas.",
-      "C) Se acuerde de oficio por la Administración cuando sea necesario para la protección de intereses públicos.",
-      "D) Todas las anteriores."
+      "A) La información particular.",
+      "B) La información de carácter general.",
+      "C) La información especializada.",
+      "D) La información sectorial."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "129. Según el Real Decreto 208/1996, de 9 de febrero, la información administrativa que tiene por objeto conocer el estado de tramitación de un procedimiento concreto, así como el contenido de los actos y resoluciones en los que directamente tenga la condición de interesado es:",
+    "opciones": [
+      "A) La información general.",
+      "B) La información particular.",
+      "C) La información especializada.",
+      "D) La información sectorial."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "130. Según el Real Decreto 208/1996, de 9 de febrero, el servicio de información administrativa y atención al ciudadano se realizará por:",
+    "opciones": [
+      "A) Unidades de Información administrativa.",
+      "B) Oficinas de atención al ciudadano.",
+      "C) Oficinas de atención a la ciudadanía.",
+      "D) Todas son correctas."
     ],
     "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "131. Según el Real Decreto 208/1996, de 9 de febrero, se considera unidad de información administrativa:",
+    "opciones": [
+      "A) Aquellas a las que se asigne, en la estructura de los Departamentos u Organismos públicos, la función de gestionar la información general de acuerdo con las directrices que, en su caso, adopte el Centro de Información Administrativa.",
+      "B) Aquellas a las que se asigne, en la estructura de los Departamentos u Organismos públicos, la función de gestionar la información particular de acuerdo con las directrices que, en su caso, adopte el Centro de Información Administrativa.",
+      "C) Aquellas a las que se asigne, en la estructura de los Departamentos u Organismos públicos, la función de gestionar la información de acuerdo con las directrices que, en su caso, adopte el Centro de Información Administrativa.",
+      "D) Todas son incorrectas."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "132. Según el Real Decreto 208/1996, de 9 de febrero, el Centro de Información Administrativa:",
+    "opciones": [
+      "A) Es la Unidad orgánica del Ministerio de Economía y Hacienda a la que corresponde las funciones de coordinador del servicio de información administrativa de la Administración General del Estado.",
+      "B) Es la Unidad orgánica del Ministerio de la Presidencia a la que corresponde las funciones de coordinador del servicio de información administrativa de la Administración General del Estado.",
+      "C) Es la Unidad orgánica de la Subsecretaría del Ministerio de la Presidencia a la que corresponde las funciones de coordinador del servicio de información administrativa de la Administración General del Estado.",
+      "D) Es la Unidad orgánica del Ministerio de Administraciones Públicas a la que corresponde las funciones de coordinador del servicio de información administrativa de la Administración General del Estado."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "133. Según el Real Decreto 208/1996, de 9 de febrero, las funciones específicas del Centro de Información Administrativa son:",
+    "opciones": [
+      "A) Elaborar los datos de carácter general para su tratamiento y difusión.",
+      "B) Mantener actualizadas y distribuir las bases de datos de la Administración General del Estado.",
+      "C) Cooperar en el desarrollo de las unidades y oficinas de información de los demás Departamentos y organismos de la Administración General del Estado.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "134. Según el Real Decreto 208/1996, de 9 de febrero, las Oficinas de Información y Atención al Ciudadano que se encuentran en los órganos territoriales de la Administración General del Estado son:",
+    "opciones": [
+      "A) De carácter central y sectorial.",
+      "B) De carácter general y particular.",
+      "C) De carácter central y periférico.",
+      "D) De carácter general y sectorial."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "135. Según el Real Decreto 208/1996, de 9 de febrero, ¿cuál de las siguientes es una función específica de las unidades y oficinas de información y atención al ciudadano?",
+    "opciones": [
+      "A) Mantener actualizadas y distribuir las bases de datos de la Administración General del Estado.",
+      "B) Elaborar los datos de carácter general para su tratamiento y difusión.",
+      "C) Establecer las directrices de coordinación en materia de información y atención al ciudadano para el conjunto de la Administración General del Estado.",
+      "D) Recibir las iniciativas y quejas formuladas por los ciudadanos sobre el funcionamiento de los servicios públicos, dándoles la tramitación prevista en la norma reguladora de esta materia."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "136. Según el Real Decreto 208/1996, de 9 de febrero, las funciones de control y evaluación de los servicios de información administrativa y atención al ciudadano las realiza:",
+    "opciones": [
+      "A) El Centro de Información Administrativa.",
+      "B) La Subsecretaría del Ministerio de Administraciones Públicas.",
+      "C) El Ministerio de Administraciones Públicas.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "137. ¿Cuál es el objeto de la Ley 31/1995 de Prevención de Riesgos Laborales?",
+    "opciones": [
+      "A) Fomentar una cultura de la prevención en el ámbito laboral y proteger a los trabajadores frente a los riesgos laborales.",
+      "B) Establecer un marco normativo para la promoción de la seguridad y salud en el trabajo.",
+      "C) Promover la mejora de las condiciones de trabajo en España.",
+      "D) Todas las anteriores son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "138. Los principios de la acción preventiva en la Ley de Prevención de Riesgos Laborales, en su artículo 15, establecen:",
+    "opciones": [
+      "A) Evaluar los riesgos que se puedan evitar.",
+      "B) Adaptar el trabajo a la persona, en particular en lo que respecta a la concepción de los puestos de trabajo, así como a la elección de los equipos y los métodos de trabajo y de producción, con miras, en particular, a atenuar el trabajo monótono y repetitivo y a reducir los efectos del mismo en la salud.",
+      "C) Planificar la prevención, buscando un complejo coherente que integre en un mismo conjunto la técnica, la organización del trabajo, las condiciones de trabajo, las relaciones sociales y la influencia de los factores ambientales en el trabajo.",
+      "D) Dar instrucciones adecuadas a los trabajadores."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "139. La Ley de Prevención de Riesgos Laborales, en su artículo 15, establece los principios de la acción preventiva. Señale cuál de las siguientes respuestas no es correcta:",
+    "opciones": [
+      "A) Tener en cuenta la evolución de la técnica.",
+      "B) Combatir los riesgos en su origen.",
+      "C) Evaluar los riesgos que no se puedan evitar.",
+      "D) Adoptar medidas que antepongan la protección individual a la colectiva."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "140. Según el artículo 16 de la Ley de Prevención de Riesgos Laborales, la prevención de riesgos laborales deberá integrarse en el sistema general de gestión de la empresa, a través de la implantación y aplicación de un plan de prevención de riesgos laborales. Este plan de prevención de riesgos laborales:",
+    "opciones": [
+      "A) Incluirá la estructura organizativa, las responsabilidades, las funciones, las prácticas, los procedimientos, los procesos y los recursos necesarios para realizar la acción de prevención de riesgos en la empresa.",
+      "B) Deberá ser aprobado por la autoridad laboral competente en materia de prevención de riesgos laborales antes de su implantación.",
+      "C) No será necesario que se refleje en un documento.",
+      "D) Será elaborado, necesariamente, por un servicio de prevención ajeno."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "141. Según el artículo 16 de la Ley de Prevención de Riesgos Laborales, la evaluación de riesgos laborales se realizará:",
+    "opciones": [
+      "A) Siempre que se produzca una modificación en las condiciones de trabajo.",
+      "B) Siempre que se introduzcan nuevos equipos de trabajo.",
+      "C) Siempre que se incorpore un trabajador especialmente sensible a determinados riesgos.",
+      "D) Todas las anteriores son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "142. Según la Ley de Prevención de Riesgos Laborales, la información sobre los riesgos para la salud de los trabajadores se deberá impartir de forma:",
+    "opciones": [
+      "A) Periódica y, en su caso, cuando se modifiquen las funciones que desarrolle el trabajador o se introduzcan nuevas tecnologías o equipos de trabajo.",
+      "B) Exclusivamente al inicio de la actividad laboral.",
+      "C) Solamente cuando se produzcan accidentes de trabajo.",
+      "D) Todas las anteriores son correctas."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "143. Según el artículo 20 de la Ley de Prevención de Riesgos Laborales, en las situaciones de emergencia grave e inminente, el trabajador tendrá derecho a:",
+    "opciones": [
+      "A) Interrumpir su actividad y, si fuera necesario, abandonar el lugar de trabajo.",
+      "B) Volver al trabajo sin consultar al superior jerárquico.",
+      "C) Elegir el equipo de protección individual que desee.",
+      "D) Todas las anteriores son correctas."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "144. Según el artículo 22 de la Ley de Prevención de Riesgos Laborales, el empresario garantizará a los trabajadores a su servicio la vigilancia periódica de su estado de salud en función de los riesgos inherentes al trabajo. Esta vigilancia:",
+    "opciones": [
+      "A) Será obligatoria para todos los trabajadores sin excepción.",
+      "B) Será voluntaria para el trabajador, salvo en determinados supuestos legalmente establecidos.",
+      "C) Se realizará exclusivamente al inicio de la actividad laboral.",
+      "D) Todas las anteriores son correctas."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "145. Según el Real Decreto 208/1996, de 9 de febrero, las oficinas de información y atención al ciudadano de los órganos territoriales de la Administración General del Estado son:",
+    "opciones": [
+      "A) De carácter general y particular.",
+      "B) De carácter central y sectorial.",
+      "C) De carácter individual y social.",
+      "D) De carácter individual y sectorial."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "146. ¿En qué artículo del Real Decreto 208/1996, de 9 de febrero, por el que se regulan los servicios de información administrativa y atención al ciudadano se regula la información particular?",
+    "opciones": [
+      "A) Artículo 2.",
+      "B) Artículo 3.",
+      "C) Articulo 4.",
+      "D) Articulo 5."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "147. Según el Real Decreto 208/1996, de 9 de febrero, la Información administrativa puede ser:",
+    "opciones": [
+      "A) General y particular.",
+      "B) Colectiva e individual.",
+      "C) Social y no social.",
+      "D) General e individual."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "148. Según el Real Decreto 208/1996, de 9 de febrero, son funciones específicas del Centro de Información Administrativa:",
+    "opciones": [
+      "A) Mantener actualizadas y distribuir las bases de datos de la Administración General del Estado.",
+      "B) Cooperar en el desarrollo de las unidades y oficinas de información de los demás Departamentos y organismos de la Administración General del Estado.",
+      "C) Promover y organizar, en colaboración con el Instituto Nacional de Administración Pública, cursos de capacitación en materias relacionadas con las funciones propias de las unidades de información administrativa.",
+      "D) Todas las respuestas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+   {
+    "pregunta": "149. Según el Real Decreto 208/1996, de 9 de febrero, la información administrativa es:",
+    "opciones": [
+      "A) Es un fin adecuado a través del cual los ciudadanos pueden acceder al conocimiento de sus derechos y obligaciones y a la utilización de los bienes y servicios públicos. ",
+       "B) Es un cauce adecuado a través del cual los ciudadanos pueden acceder al conocimiento de sus derechos y obligaciones y a la utilización de los bienes y servicios públicos. ",
+       "C) Es un cauce adecuado a través del cual los ciudadanos pueden acceder al conocimiento de sus deberes y obligaciones y a la utilización de los bienes y servicios públicos. ",
+       "D) Es un fin adecuado a través del cual los ciudadanos pueden acceder al conocimiento de sus deberes y obligaciones y a la utilización de los bienes y servicios públicos "
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "150.  Según el Real Decreto 208/1996, de 9 de febrero, ¿sólo los interesados en un procedimiento tienen acceso a la información particular? [cite: 18, 19]",
+    "opciones": [
+       "A) Si. ",
+       "B) No, también sus familiares. ",
+       "C) No, también sus representantes legales. ",
+       "D) No, también sus familiares y sus representantes legales. "
+    ],
+    "respuesta_correcta": 2
   }
 ]
