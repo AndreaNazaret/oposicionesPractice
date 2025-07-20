@@ -1,0 +1,502 @@
+[
+  {
+    "pregunta": "1. En relación al derecho a la protección frente a los riesgos laborales recogido en la Ley 31/1995, de 8 de noviembre:",
+    "opciones": [
+      "A) El empresario desarrollará una acción temporal de seguimiento de la actividad preventiva para los riesgos que no se hayan podido evitar.",
+      "B) El coste de las medidas relativas a la seguridad y salud en el trabajo no deberá recaer en modo alguno sobre el empresario.",
+      "C) Es un deber de las Administraciones públicas una protección eficaz en materia de seguridad y salud en el trabajo de los trabajadores frente a los riesgos laborales, respecto del personal a su servicio.",
+      "D) El concierto con entidades especializadas para el desarrollo de actividades de prevención eximen al empresario del cumplimiento del deber de protección de los trabajadores."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "2. La Ley de Prevención de Riesgos Laborales, en su artículo 15, establece los principios de la acción preventiva. Señale cuál de las siguientes respuestas no es correcta:",
+    "opciones": [
+      "A) Tener en cuenta la evolución de la técnica.",
+      "B) Combatir los riesgos en su origen.",
+      "C) Evaluar los riesgos que no se puedan evitar.",
+      "D) Adoptar medidas que antepongan la protección individual a la colectiva."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "3. Según la Ley 31/1995, de 8 de noviembre, el empresario deberá realizar una evaluación inicial de riesgos para la seguridad y salud de los trabajadores teniendo en cuenta:",
+    "opciones": [
+      "A) Las características de los puestos de trabajo existentes y de los trabajadores que deban desempeñarlos.",
+      "B) La elección de los equipos de trabajo, de las sustancias o preparados químicos.",
+      "C) El acondicionamiento de los lugares de trabajo.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "4. Según la Ley 31/1995 de 8 de noviembre, cuando la utilización de un equipo de trabajo pueda presentar un riesgo específico para la seguridad y salud de los trabajadores, el empresario adoptará las medidas necesarias con el fin de que:",
+    "opciones": [
+      "A) La utilización del equipo de trabajo quede reservada a los encargados de dicha utilización.",
+      "B) Los trabajos de reparación, transformación, mantenimiento o conservación sean realizados por todos los trabajadores.",
+      "C) Los trabajos de reparación, transformación, mantenimiento o conservación sean realizados por el coordinador de seguridad y salud.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "5. Respecto a la información, consulta y participación de los trabajadores, según la ley 31/1995, de 8 de noviembre de prevención de Riesgos Laborales:",
+    "opciones": [
+      "A) Los trabajadores tienen la obligación de efectuar propuestas al empresario dirigidas a la mejora de los niveles de protección de la seguridad y la salud en la empresa.",
+      "B) El empresario deberá asumir todas las iniciativas que los trabajadores tengan respecto la prevención de riesgos laborales.",
+      "C) En las empresas que cuenten con representantes de los trabajadores, no es necesario informar directamente a cada trabajador de los riesgos específicos que afecten a su puesto de trabajo",
+      "D) El empresario deberá consultar a los trabajadores, y permitir su participación, en el marco de todas las cuestiones que afecten a la seguridad y a la salud en el trabajo."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "6. Según la Ley 31/1995, de 8 de noviembre, la formación del trabajador en materia preventiva deberá impartirse:",
+    "opciones": [
+      "A) Siempre, dentro de la jornada de trabajo.",
+      "B) Repartiendo proporcionalmente el coste de la formación en materia de prevención entre el empresario y el trabajador.",
+      "C) Se impartirá únicamente a los trabajadores con contrato indefinido.",
+      "D) Su coste no recaerá en ningún caso sobre los trabajadores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "7. Según la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, cuando los trabajadores estén o puedan estar expuestos a un riesgo grave e inminente con ocasión de su trabajo, el empresario está obligado a:",
+    "opciones": [
+      "A) Adoptar las medidas y dar las instrucciones necesarias para que los trabajadores no abandonen de inmediato el lugar de trabajo.",
+      "B) Informar lo antes posible a todos los trabajadores afectados acerca de la existencia de dicho riesgo y de las medidas adoptadas o que, en su caso, deban adoptarse en materia de protección.",
+      "C) A sancionar a los trabajadores o sus representantes en caso de haber obrado de buena fe o cometido negligencia leve en la adopción de medidas.",
+      "D) Exigir a los trabajadores que reanuden su actividad, aún persistiendo el peligro, salvo excepción debidamente justificada por razones de seguridad y determinada reglamentariamente."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "8. Según la Ley 31/1995, de 8 de noviembre, cuando el empresario no adopte o no permita la adopción de las medidas necesarias para garantizar la seguridad y la salud de los trabajadores:",
+    "opciones": [
+      "A) Cualquier representante legal de los trabajadores podrá decidir la paralización de la actividad de los trabajadores afectados por el riesgo grave e inminente.",
+      "B) Los representantes legales de los trabajadores deberán comunicar a la Autoridad Laboral la situación de riesgo grave e inminente para que esta adopte, en el plazo máximo de cuarenta y ocho horas, las medidas oportunas.",
+      "C) Los representantes legales de los trabajadores podrán acordar, por mayoría de sus miembros, la paralización de la actividad de los trabajadores afectados por dicho riesgo.",
+      "D) Los trabajadores afectados deberán presentar demanda por el incumplimiento del empresario ante el Juzgado de los contencioso-administrativo."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "9. Dispone el artículo 22 de la Ley de Prevención de riesgos laborales respecto a la vigilancia de la salud:",
+    "opciones": [
+      "A) El empresario garantizará a los trabajadores a su servicio la vigilancia periódica de su estado de salud, con independencia de los riesgos inherentes al trabajo.",
+      "B) Esta vigilancia sólo podrá llevarse a cabo cuando el trabajador preste su consentimiento, sin excepciones.",
+      "C) Los resultados de dicha vigilancia serán comunicados únicamente al médico facultativo.",
+      "D) Los datos relativos a la vigilancia de la salud de los trabajadores no podrán ser usados con fines discriminatorios ni en perjuicio del trabajador."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "10. Según la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, el empresario deberá elaborar y conservar a disposición de la autoridad laboral la siguiente documentación:",
+    "opciones": [
+      "A) Plan de prevención de riesgos laborales conforme a lo previsto en el apartado 1 del artículo 16 de esta ley.",
+      "B) Evaluación de los riesgos para la seguridad y la salud, sin incluir el resultado de los controles periódicos de las condiciones de trabajos.",
+      "C) Relación de accidentes de trabajo y enfermedades comunes que hayan causado al trabajador una incapacidad laboral superior a tres días de trabajo.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "11. En relación a la protección de los trabajadores, según la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales:",
+    "opciones": [
+      "A) Los trabajadores no serán empleados en aquellos puestos de trabajo en los que, a causa de sus características personales, estado biológico o por su discapacidad física, psíquica o sensorial debidamente reconocida, puedan ponerse en situación de peligro.",
+      "B) El empresario deberá tener en cuenta en las evaluaciones, los factores de riesgo que puedan incidir en la función de procreación de los trabajadores y trabajadoras.",
+      "C) El empresario deberá efectuar una evaluación de los puestos de trabajo a desempeñar por los jóvenes menores de dieciocho años, antes de la incorporación de éstos al trabajo.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "12. Según la Ley 31/1995, de 8 de noviembre, las trabajadoras embarazadas:",
+    "opciones": [
+      "A) No tienen ninguna consideración especial en materia de prevención de riesgos laborales.",
+      "B) Tendrán derecho a ausentarse del trabajo, con derecho a remuneración, para la realización de exámenes prenatales y técnicas de preparación al parto, previo aviso al empresario y justificación de la necesidad de su realización dentro de la jornada de trabajo.",
+      "C) En cualquier caso, dichas trabajadoras deberán desempeñar un puesto de trabajo o función diferente y compatible con su estado.",
+      "D) Podrá ser destinada a un puesto no correspondiente a su grupo o categoría equivalente. No conservará el derecho al conjunto de retribuciones de su puesto de origen."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "13. Según la Ley 31/1995, de 8 de noviembre, los trabajadores con relaciones de trabajo temporales, de duración determinada y de empresas de trabajo temporal:",
+    "opciones": [
+      "A) Tienen derecho a una diferencia de trato respecto a sus condiciones de trabajo en lo relativo a la protección de la seguridad y salud de los trabajadores.",
+      "B) Tendrán derecho a una vigilancia periódica de su estado de salud, en los términos establecidos en el artículo 22 de la Ley 55/2003, de 16 de diciembre y en sus normas de desarrollo.",
+      "C) El empresario adoptará las medidas necesarias para garantizar que, con carácter posterior al inicio de su actividad, dichos trabajadores reciban información acerca de los riesgos específicos del puesto de trabajo a cubrir.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "14. Según el artículo 29 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, no es obligación del trabajador en materia de prevención de riesgos:",
+    "opciones": [
+      "A) Velar por su propia seguridad y salud en el trabajo, según sus posibilidades y mediante el cumplimiento de las medidas de prevención.",
+      "B) Adquirir los medios y equipos de protección necesarios para su seguridad.",
+      "C) Velar por la seguridad y salud de aquellas otras personas a las que pueda afectar su actividad profesional.",
+      "D) Contribuir al cumplimiento de las obligaciones establecidas por la autoridad competente con el fin de proteger la seguridad y la salud de los trabajadores en el trabajo."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "15. La información asistencial que se ha de proporcionar a cada paciente ha de comprender como mínimo, según la Ley 41/2002, de 14 de noviembre:",
+    "opciones": [
+      "A) La relación de personal que existe a su disposición en el centro asistencial.",
+      "B) La finalidad y la naturaleza de cada intervención, sus riesgos y sus consecuencias.",
+      "C) Los derechos que tiene cada paciente en su relación con los demás.",
+      "D) El listado de actuaciones posibles a practicar"
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "16. Según la Ley 41/2002, de 14 de noviembre, cuando el paciente manifieste expresamente su voluntad de no ser informado:",
+    "opciones": [
+      "A) Se le proporcionará una información completa.",
+      "B) Se le informará, de todas formas.",
+      "C) Se respetará su voluntad de no ser informado.",
+      "D) No se podrá respetar su voluntad, puesto que es una obligación, además de un derecho."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "17. ¿Según la Ley 41/2002, de 14 de noviembre, quién garantiza el derecho a la información asistencial del paciente?",
+    "opciones": [
+      "A) Los profesionales que le atienden durante el proceso asistencial.",
+      "B) Los profesionales que apliquen al paciente una técnica o un procedimiento concreto.",
+      "C) El médico responsable del paciente.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "18. La información clínica, según la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente:",
+    "opciones": [
+      "A) Ayudará al paciente a tomar decisiones de acuerdo con la voluntad del médico.",
+      "B) Forma parte de algunas de las actuaciones asistenciales.",
+      "C) Se comunicará al paciente de forma comprensible y adecuada a sus necesidades.",
+      "D) Como regla general, se proporcionará por escrito al paciente dejando constancia en su historia."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "19. Según la Ley 41/2002, de 14 de noviembre, la información asistencial se proporcionará al paciente, como regla general:",
+    "opciones": [
+      "A) Por escrito, dejando constancia de la información proporcionada en la historia clínica.",
+      "B) Por cualquier medio que permita tener constancia de la información facilitada.",
+      "C) Al paciente y a las personas vinculadas a él exclusivamente por razones familiares.",
+      "D) Se proporcionará verbalmente dejando constancia en la historia clínica."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "20. ¿Quién es el titular del derecho a la información asistencial según la Ley 41/2002, de 14 de noviembre?",
+    "opciones": [
+      "A) El paciente y las personas vinculadas a él, por razones familiares o de hecho.",
+      "B) El paciente, y en la medida en que éste lo permita, de manera expresa o tácita, también serán informadas las personas vinculadas a él, por razones familiares o de hecho.",
+      "C) El paciente, en caso de incapacidad, no será informado.",
+      "D) El paciente y aunque no lo permita, de manera expresa o tácita, también serán informadas, las personas vinculadas a él, por razones familiares o de hecho."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "21. Según la Ley 41/2002, de 14 de noviembre, cuando el paciente, según el criterio del médico que le asiste, carezca de capacidad para entender la información, a causa de su estado físico o psíquico, la información se pondrá en conocimiento de:",
+    "opciones": [
+      "A) En este supuesto no existe la obligación de proporcionar información.",
+      "B) La información se pondrá en conocimiento exclusivamente del equipo asistencial que atienda al paciente.",
+      "C) Se comunicará al director del centro sanitario donde se esté interviniendo al paciente.",
+      "D) Las personas vinculadas a él por razones familiares o de hecho."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "22. ¿Cuándo puede limitarse el derecho a la información sanitaria de los pacientes, según la Ley 41/2002, de 14 de noviembre?",
+    "opciones": [
+      "A) El derecho a la información sanitaria de los pacientes puede limitarse por la existencia acreditada de un estado de necesidad terapéutica.",
+      "B) Nunca.",
+      "C) El derecho a la información sanitaria de los pacientes puede limitarse bajo prescripción subjetiva médica.",
+      "D) En momentos de necesidad del personal en el centro asistencial en el que se encuentre el paciente."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "23. Según la Ley 41/2002, de 14 de noviembre, se entenderá por necesidad terapéutica:",
+    "opciones": [
+      "A) La facultad del paciente o usuario de optar libre y voluntariamente, entre dos o más alternativas asistenciales, entre varios facultativos o entre centros asistenciales, en los términos y condiciones que establezcan los servicios de salud, competentes en cada caso.",
+      "B) La facultad del médico para actuar profesionalmente sin informar antes al paciente, cuando por razones subjetivas el conocimiento de su propia situación pueda perjudicar su salud de manera grave.",
+      "C) La facultad del médico de optar, libre y voluntariamente, entre dos o más alternativas asistenciales, en los términos y condiciones que establezcan los servicios de salud competentes.",
+      "D) La facultad del médico para actuar profesionalmente sin informar antes al paciente, cuando por razones objetivas el conocimiento de su propia situación pueda perjudicar su salud de manera grave."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "24. Según se establece en la Ley 41/2002, de 14 de noviembre, el paciente en caso de incapacidad:",
+    "opciones": [
+      "A) No podrá ser informado, por lo que se cumplirá con el deber, informando al representante legal del incapacitado.",
+      "B) Será informado de un modo adecuado a sus posibilidades de comprensión, informando también a su representante legal.",
+      "C) No podrá ser informado, por lo que se cumplirá con el deber, informando a los familiares del incapacitado y a su representante legal.",
+      "D) Será informado de un modo adecuado a sus posibilidades de comprensión, cumpliendo con el deber de informar a los familiares del incapacitado."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "25. En virtud de la Ley 41/2002, de 14 de noviembre, los ciudadanos tienen derecho a conocer los problemas sanitarios de la colectividad, cuando impliquen un riesgo para la salud pública o para su salud individual dentro de su derecho a la:",
+    "opciones": [
+      "A) Información asistencial.",
+      "B) Información epidemiológica.",
+      "C) Información colectiva.",
+      "D) Información confidencial."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "26. Según la Ley 41/2002, de 14 de noviembre, los ciudadanos tienen derecho a conocer los problemas sanitarios de la colectividad:",
+    "opciones": [
+      "A) Cuando impliquen un riesgo para su salud individual.",
+      "B) Cuando impliquen un riesgo para la salud pública.",
+      "C) Tal información deberá difundirse en términos verdaderos, comprensibles y adecuados para la protección de la salud.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "27. Según el artículo 7 de la Ley 41/2002, de 14 de noviembre, \"toda persona tiene derecho a que se respete el carácter confidencial de los datos referentes a su salud, y a que nadie pueda acceder a ellos sin previa autorización amparada por la Ley\" ¿A qué derecho se refiere?",
+    "opciones": [
+      "A) Derecho a la información sanitaria.",
+      "B) Derecho a la información asistencial",
+      "C) Derecho a la intimidad.",
+      "D) Derecho de confidencialidad."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "28. Según la Ley 41/2002, de 14 de noviembre, para garantizar el derecho a que se respete el carácter confidencial de los datos referentes a la salud de los pacientes, adoptarán las medidas oportunas:",
+    "opciones": [
+      "A) El Director Gerente del Hospital.",
+      "B) El Consejero de Sanidad.",
+      "C) Los centros sanitarios.",
+      "D) La Secretaría General Técnica de la Dirección General de Programas Asistenciales."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "29. El Estatuto Marco del personal estatutario de los servicios de salud:",
+    "opciones": [
+      "A) Tiene por objeto establecer las bases reguladoras de la relación funcionarial especial del personal estatutario de los servicios de salud.",
+      "B) Es aplicable al personal estatutario que desempeña su función en los centros e instituciones sanitarias de los servicios de salud de las comunidades autónomas.",
+      "C) Es aplicable al personal estatutario que desempeña su función en los centros y servicios sanitarios de la Administración General del Estado.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "30. Según se dispone en el artículo 4 de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, sobre principios y criterios de ordenación del régimen estatutario, la ordenación del régimen del personal estatutario de los servicios de salud se rige por los siguientes principios y criterios (señalar la respuesta incorrecta)",
+    "opciones": [
+      "A) Sometimiento pleno a la ley y el derecho.",
+      "B) Estabilidad en el empleo y en el mantenimiento de la condición de personal estatutario fijo.",
+      "C) Igualdad, mérito, capacidad y publicidad en el acceso a la condición de personal laboral.",
+      "D) Responsabilidad en el ejercicio profesional y objetividad como garantías de la competencia e imparcialidad en el desempeño de las funciones."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "31. ¿Por cuál de los siguiente principios y criterios, según se dispone en la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, no se rige la ordenación del régimen del personal estatutario?",
+    "opciones": [
+      "A) Dedicación prioritaria al servicio público y transparencia de los intereses y actividades privadas como garantía de dicha preferencia.",
+      "B) Planificación eficiente de las necesidades de recursos y programación periódica de las convocatorias.",
+      "C) Coordinación, cooperación y mutua información entre las Administraciones sanitarias públicas.",
+      "D) Limitación en la circulación del personal estatutario en el conjunto del Sistema Nacional de Salud."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "32. El personal estatutario de los servicios de salud se clasifica, según el Estatuto Marco del personal estatutario de los servicios de salud, atendiendo a:",
+    "opciones": [
+      "A) La función desarrollada.",
+      "B) El nivel del título exigido para el ingreso.",
+      "C) El tipo de su nombramiento.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "33. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, atendiendo al nivel de estudios exigido para el ingreso, el personal estatutario sanitario se clasifica en:",
+    "opciones": [
+      "A) Personal de formación universitaria y personal de formación profesional.",
+      "B) Personal sanitario diplomado y personal sanitario de grado.",
+      "C) Personal sanitario licenciado y personal sanitario de pregrado.",
+      "D) Personal sanitario de nivel A y personal sanitario de nivel B."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "34. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el personal estatutario de gestión y servicios se clasifica, atendiendo al nivel del título exigido para el ingreso, en:",
+    "opciones": [
+      "A) Personal de gestión y servicios de formación universitaria y personal de gestión y servicios de formación profesional.",
+      "B) Personal de gestión y servicios diplomado y personal de gestión y servicios de grado.",
+      "C) Personal de gestión y servicios de nivel A, B, C, D y E.",
+      "D) Ninguna es correcta."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "35. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el personal estatutario fijo se clasifica en:",
+    "opciones": [
+      "A) Personal estatutario fijo y personal estatutario temporal.",
+      "B) Personal estatutario de carrera y personal estatutario interino.",
+      "C) Personal estatutario fijo de carácter indefinido y personal estatutario fijo de carácter temporal.",
+      "D) Personal estatutario fijo de plantilla y personal estatutario fijo de reserva."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "36. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el personal estatutario temporal se clasifica en:",
+    "opciones": [
+      "A) Personal estatutario temporal y personal estatutario fijo.",
+      "B) Personal estatutario interino, personal estatutario eventual y personal estatutario sustituto.",
+      "C) Personal estatutario temporal de carrera y personal estatutario temporal interino.",
+      "D) Personal estatutario temporal de plantilla y personal estatutario temporal de reserva."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "37. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el nombramiento de personal estatutario interino se expedirá para el desempeño de una plaza:",
+    "opciones": [
+      "A) Vacante, mientras dure la selección o el proceso de provisión para su cobertura definitiva.",
+      "B) No vacante, para atender necesidades estacionales de duración limitada.",
+      "C) Para la sustitución transitoria de los titulares ausentes por razones de formación.",
+      "D) Para la ejecución de programas de carácter temporal, con duración determinada."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "38. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el nombramiento de personal estatutario eventual se expedirá para:",
+    "opciones": [
+      "A) La sustitución transitoria de los titulares ausentes por razones de formación.",
+      "B) Atender necesidades asistenciales puntuales de duración limitada, que no puedan ser atendidas por personal estatutario fijo o interino.",
+      "C) La ejecución de programas de carácter temporal, cuya duración inicial no supere un año.",
+      "D) Atender las necesidades de personal de carácter coyuntural o estacional, que no puedan ser atendidas por personal estatutario fijo o interino."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "39. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el nombramiento de personal estatutario sustituto se expedirá para:",
+    "opciones": [
+      "A) Atender las necesidades asistenciales puntuales de duración limitada, que no puedan ser atendidas por personal estatutario fijo o interino.",
+      "B) La sustitución transitoria de los titulares ausentes por razones de formación, que no puedan ser atendidas por personal estatutario fijo o interino.",
+      "C) La ejecución de programas de carácter temporal, cuya duración inicial no supere un año.",
+      "D) Atender necesidades de personal de carácter coyuntural o estacional, que no puedan ser atendidas por personal estatutario fijo o interino."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "40. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, los requisitos para el acceso a la condición de personal estatutario fijo son:",
+    "opciones": [
+      "A) Poseer la nacionalidad española o la de un Estado miembro de la Unión Europea.",
+      "B) Poseer la capacidad funcional necesaria para el desempeño de las funciones que se deriven del correspondiente nombramiento.",
+      "C) Tener cumplidos dieciséis años y no exceder la edad de jubilación forzosa.",
+      "D) Todas son correctas."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "41. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, no es requisito para el acceso a la condición de personal estatutario fijo:",
+    "opciones": [
+      "A) Poseer la titulación exigida en la convocatoria.",
+      "B) Estar en posesión del título de Bachiller o equivalente.",
+      "C) No haber sido separado del servicio, mediante expediente disciplinario, de cualquier Servicio de Salud o Administración Pública.",
+      "D) No hallarse inhabilitado, con carácter firme, para el ejercicio de funciones públicas ni, en su caso, para la correspondiente profesión."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "42. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el acceso a la condición de personal estatutario fijo se llevará a cabo mediante la superación de las correspondientes pruebas selectivas que se regirán por los principios de:",
+    "opciones": [
+      "A) Igualdad, mérito, capacidad, publicidad y libre concurrencia.",
+      "B) Igualdad, mérito, capacidad y publicidad.",
+      "C) Igualdad, mérito, capacidad y libre concurrencia.",
+      "D) Mérito, capacidad y libre concurrencia."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "43. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, las pruebas selectivas para el acceso a la condición de personal estatutario fijo podrán revestir las formas de:",
+    "opciones": [
+      "A) Concurso, oposición o concurso-oposición.",
+      "B) Concurso o concurso-oposición.",
+      "C) Oposición o concurso-oposición.",
+      "D) Concurso u oposición."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "44. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, en las convocatorias para el acceso a la condición de personal estatutario fijo, se reservará un cupo no inferior al:",
+    "opciones": [
+      "A) Cinco por ciento de las plazas para ser cubiertas por personas con discapacidad.",
+      "B) Diez por ciento de las plazas para ser cubiertas por personas con discapacidad.",
+      "C) Quince por ciento de las plazas para ser cubiertas por personas con discapacidad.",
+      "D) Veinte por ciento de las plazas para ser cubiertas por personas con discapacidad."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "45. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, las personas con discapacidad que superen las pruebas selectivas en el cupo de reserva:",
+    "opciones": [
+      "A) Serán destinadas a los puestos de trabajo que se determinen en la convocatoria.",
+      "B) Serán destinadas a los puestos de trabajo que se determinen en la convocatoria, siempre que acrediten la compatibilidad de su discapacidad con el desempeño de las funciones del puesto.",
+      "C) Podrán solicitar la adaptación de los puestos de trabajo a sus necesidades específicas.",
+      "D) Podrán solicitar la adaptación de los puestos de trabajo a sus necesidades específicas, siempre que no suponga una carga desproporcionada o indebida para la Administración."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "46. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la toma de posesión del personal estatutario fijo se efectuará en el plazo de:",
+    "opciones": [
+      "A) Un mes contado desde el día siguiente al de la publicación del nombramiento en el Diario Oficial correspondiente.",
+      "B) Quince días hábiles contados desde el día siguiente al de la publicación del nombramiento en el Diario Oficial correspondiente.",
+      "C) Veinte días naturales contados desde el día siguiente al de la publicación del nombramiento en el Diario Oficial correspondiente.",
+      "D) Tres meses contados desde el día siguiente al de la publicación del nombramiento en el Diario Oficial correspondiente."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "47. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la adquisición de la condición de personal estatutario fijo se producirá con el cumplimiento de los siguientes requisitos, salvo:",
+    "opciones": [
+      "A) Superación del proceso selectivo.",
+      "B) Nombramiento conferido por el órgano competente.",
+      "C) Toma de posesión en el plazo reglamentario.",
+      "D) Juramento o promesa de acatar la Constitución y el resto del ordenamiento jurídico."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "48. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la pérdida de la condición de personal estatutario fijo se producirá por alguna de las siguientes causas, salvo:",
+    "opciones": [
+      "A) Renuncia aceptada por la Administración.",
+      "B) Pérdida de la nacionalidad.",
+      "C) Sanción disciplinaria de separación del servicio.",
+      "D) Jubilación forzosa o voluntaria."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "49. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la renuncia a la condición de personal estatutario fijo:",
+    "opciones": [
+      "A) Deberá ser aceptada por la Administración, previo expediente disciplinario.",
+      "B) Deberá ser aceptada por la Administración, previo informe favorable del Consejo de Salud.",
+      "C) Deberá ser aceptada por la Administración, salvo que se esté tramitando un expediente disciplinario que pueda finalizar con la separación del servicio.",
+      "D) Deberá ser aceptada por la Administración, salvo que el interesado se encuentre en situación de incapacidad temporal."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "50. Según la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, la pérdida de la nacionalidad española o la de un Estado miembro de la Unión Europea que haya sido tenida en cuenta para el acceso a la condición de personal estatutario fijo, implicará:",
+    "opciones": [
+      "A) La suspensión de la relación de servicios, hasta que se recupere la nacionalidad.",
+      "B) La extinción de la relación de servicios.",
+      "C) La reasignación a otro puesto de trabajo que no requiera la nacionalidad.",
+      "D) La suspensión de empleo y sueldo, hasta que se resuelva la situación."
+    ],
+    "respuesta_correcta": 1
+  }
+]
