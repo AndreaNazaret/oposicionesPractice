@@ -1,0 +1,502 @@
+[
+  {
+    "pregunta": "251. La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, tiene por objeto:",
+    "opciones": [
+      "A) Regular la contratación del sector público para garantizar la transparencia, la libre concurrencia y la eficiencia en la utilización de los fondos públicos.",
+      "B) Establecer las normas para la adjudicación de contratos por parte de las Administraciones Públicas.",
+      "C) Regular los contratos celebrados por las entidades del sector público.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "252. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los principios de la contratación del sector público son:",
+    "opciones": [
+      "A) Libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, no discriminación e igualdad de trato entre los licitadores.",
+      "B) Eficiencia en el gasto, estabilidad presupuestaria y sostenibilidad financiera.",
+      "C) Integridad y rendición de cuentas.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "253. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el órgano de contratación es:",
+    "opciones": [
+      "A) La persona física o jurídica que contrata en nombre y por cuenta de las Administraciones Públicas.",
+      "B) El órgano administrativo que tiene atribuida la competencia para celebrar contratos en nombre y por cuenta de las Administraciones Públicas.",
+      "C) La mesa de contratación.",
+      "D) El comité de expertos."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "254. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los tipos de contratos del sector público son:",
+    "opciones": [
+      "A) Contratos de obras, de concesión de obras, de concesión de servicios, de servicios y de suministros.",
+      "B) Contratos de obras, de servicios y de suministros.",
+      "C) Contratos de obras, de servicios, de suministros y de colaboración entre el sector público y el sector privado.",
+      "D) Contratos de obras, de servicios, de suministros, de concesión de obras y de concesión de servicios."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "255. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos menores son aquellos cuyo valor estimado es inferior a:",
+    "opciones": [
+      "A) 15.000 euros en contratos de obras y 5.000 euros en contratos de servicios y suministros.",
+      "B) 40.000 euros en contratos de obras y 15.000 euros en contratos de servicios y suministros.",
+      "C) 100.000 euros en contratos de obras y 50.000 euros en contratos de servicios y suministros.",
+      "D) No hay límites establecidos para los contratos menores."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "256. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los procedimientos de adjudicación de contratos son:",
+    "opciones": [
+      "A) Abierto, restringido, de diálogo competitivo, de asociación para la innovación y negociado sin publicidad.",
+      "B) Abierto, restringido y negociado.",
+      "C) Abierto, restringido y diálogo competitivo.",
+      "D) Abierto y restringido."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "257. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el procedimiento abierto es aquel en el que:",
+    "opciones": [
+      "A) Todo empresario interesado puede presentar una oferta.",
+      "B) Solo pueden presentar ofertas los empresarios invitados por el órgano de contratación.",
+      "C) El órgano de contratación negocia las condiciones del contrato con uno o varios empresarios.",
+      "D) El órgano de contratación celebra el contrato sin previa publicidad."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "258. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el procedimiento restringido es aquel en el que:",
+    "opciones": [
+      "A) Todo empresario interesado puede presentar una oferta.",
+      "B) Solo pueden presentar ofertas los empresarios invitados por el órgano de contratación.",
+      "C) El órgano de contratación negocia las condiciones del contrato con uno o varios empresarios.",
+      "D) El órgano de contratación celebra el contrato sin previa publicidad."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "259. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el procedimiento de diálogo competitivo es aquel en el que:",
+    "opciones": [
+      "A) Todo empresario interesado puede presentar una oferta.",
+      "B) Solo pueden presentar ofertas los empresarios invitados por el órgano de contratación.",
+      "C) El órgano de contratación negocia las condiciones del contrato con uno o varios empresarios, con el fin de desarrollar una o varias soluciones susceptibles de satisfacer sus necesidades y sobre esa base, seleccionar la oferta más adecuada.",
+      "D) El órgano de contratación celebra el contrato sin previa publicidad."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "260. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el procedimiento negociado sin publicidad se utilizará en los casos previstos en la ley, entre otros:",
+    "opciones": [
+      "A) Cuando no se hayan presentado ofertas o solicitudes adecuadas en un procedimiento abierto o restringido.",
+      "B) Cuando las obras, suministros o servicios puedan ser encomendados a un único empresario por razones técnicas o artísticas o por motivos relacionados con la protección de derechos de exclusividad.",
+      "C) Cuando una situación de extrema urgencia, resultante de acontecimientos imprevisibles para el órgano de contratación y no imputables a él, haga imposible respetar los plazos de los procedimientos abierto, restringido o de diálogo competitivo.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "261. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la adjudicación de los contratos se realizará utilizando una pluralidad de criterios de adjudicación, basados en:",
+    "opciones": [
+      "A) La relación calidad-precio.",
+      "B) El precio.",
+      "C) La calidad.",
+      "D) La experiencia del licitador."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "262. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la formalización de los contratos:",
+    "opciones": [
+      "A) Será en documento administrativo, salvo que el contrato sea menor.",
+      "B) Será en documento público cuando el importe del contrato sea superior a 50.000 euros.",
+      "C) Será en documento público en todo caso.",
+      "D) Será en documento privado."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "263. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el plazo para la formalización de los contratos es de:",
+    "opciones": [
+      "A) 5 días hábiles a contar desde la fecha de notificación de la adjudicación.",
+      "B) 10 días hábiles a contar desde la fecha de notificación de la adjudicación.",
+      "C) 15 días hábiles a contar desde la fecha de notificación de la adjudicación.",
+      "D) Un mes a contar desde la fecha de notificación de la adjudicación."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "264. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las garantías que deben prestar los contratistas son:",
+    "opciones": [
+      "A) Provisional y definitiva.",
+      "B) Provisional, definitiva y complementaria.",
+      "C) Definitiva y complementaria.",
+      "D) Definitiva."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "265. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el importe de la garantía definitiva es del:",
+    "opciones": [
+      "A) 2% del presupuesto base de licitación del contrato.",
+      "B) 5% del presupuesto base de licitación del contrato.",
+      "C) 10% del presupuesto base de licitación del contrato.",
+      "D) 20% del presupuesto base de licitación del contrato."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "266. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la modificación de los contratos podrá realizarse cuando:",
+    "opciones": [
+      "A) Sea necesaria para adaptar el contrato a circunstancias sobrevenidas e imprevisibles.",
+      "B) Se establezca en los pliegos o en el anuncio de licitación.",
+      "C) Sea acordada por el órgano de contratación, previo informe favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "267. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la resolución de los contratos podrá producirse por:",
+    "opciones": [
+      "A) Incumplimiento de las obligaciones del contratista.",
+      "B) Mutuo acuerdo de las partes.",
+      "C) Muerte o incapacidad sobrevenida del contratista individual.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "268. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el plazo para la ejecución del contrato:",
+    "opciones": [
+      "A) Se contará a partir de la fecha de la formalización del contrato.",
+      "B) Se contará a partir de la fecha de la notificación de la adjudicación.",
+      "C) Se contará a partir de la fecha de la aprobación del expediente de contratación.",
+      "D) Se contará a partir de la fecha que se determine en el contrato."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "269. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la prórroga de los contratos podrá realizarse cuando:",
+    "opciones": [
+      "A) Se establezca en los pliegos o en el anuncio de licitación.",
+      "B) Sea acordada por el órgano de contratación, previo informe favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma.",
+      "C) Sea necesaria para adaptar el contrato a circunstancias sobrevenidas e imprevisibles.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "270. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el régimen de revisión de precios de los contratos:",
+    "opciones": [
+      "A) Se aplicará a los contratos de obras, suministros y servicios de tracto sucesivo o de ejecución continuada cuyo período de recuperación de la inversión sea igual o superior a cinco años.",
+      "B) Se aplicará a todos los contratos del sector público.",
+      "C) Se aplicará solo a los contratos de obras.",
+      "D) No se aplicará a ningún contrato del sector público."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "271. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la resolución del contrato por mutuo acuerdo de las partes:",
+    "opciones": [
+      "A) No dará derecho a indemnización alguna.",
+      "B) Dará derecho a la indemnización que se pacte.",
+      "C) Dará derecho a la indemnización que se fije legalmente.",
+      "D) Dará derecho a la indemnización que se determine por el órgano de contratación."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "272. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la responsabilidad del contratista por vicios ocultos en la ejecución del contrato será de:",
+    "opciones": [
+      "A) Seis meses.",
+      "B) Un año.",
+      "C) Dos años.",
+      "D) Cinco años."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "273. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el registro oficial de licitadores y empresas clasificadas es:",
+    "opciones": [
+      "A) Un registro público de carácter voluntario.",
+      "B) Un registro público de carácter obligatorio.",
+      "C) Un registro privado de carácter voluntario.",
+      "D) Un registro privado de carácter obligatorio."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "274. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la Plataforma de Contratación del Sector Público es:",
+    "opciones": [
+      "A) Un portal de Internet para la publicación de anuncios de licitación y adjudicación de contratos.",
+      "B) Un sistema de información para la gestión de los procedimientos de contratación del sector público.",
+      "C) Un registro electrónico de contratos.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "275. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la comunicación de los anuncios de licitación al Diario Oficial de la Unión Europea es obligatoria para los contratos de valor estimado igual o superior a:",
+    "opciones": [
+      "A) Los umbrales establecidos en las Directivas de la Unión Europea.",
+      "B) 100.000 euros.",
+      "C) 200.000 euros.",
+      "D) 500.000 euros."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "276. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las mesas de contratación:",
+    "opciones": [
+      "A) Son órganos colegiados de carácter permanente.",
+      "B) Son órganos colegiados de carácter no permanente.",
+      "C) Son órganos de asesoramiento del órgano de contratación.",
+      "D) Son órganos de decisión del órgano de contratación."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "277. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la composición de la mesa de contratación es:",
+    "opciones": [
+      "A) Un Presidente, un Secretario y un mínimo de tres vocales.",
+      "B) Un Presidente, un Secretario y un mínimo de cinco vocales.",
+      "C) Un Presidente, un Secretario y un mínimo de siete vocales.",
+      "D) Un Presidente, un Secretario y los vocales que se determinen reglamentariamente."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "278. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las funciones de la mesa de contratación son:",
+    "opciones": [
+      "A) La clasificación de las ofertas y la propuesta de adjudicación del contrato.",
+      "B) La valoración de las ofertas y la adjudicación del contrato.",
+      "C) La apertura de los sobres y la valoración de las ofertas.",
+      "D) La elaboración de los pliegos y la adjudicación del contrato."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "279. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la prohibición de contratar es:",
+    "opciones": [
+      "A) Una sanción que impide a una empresa contratar con el sector público.",
+      "B) Una causa de exclusión de la participación en procedimientos de contratación.",
+      "C) Una medida cautelar que impide a una empresa contratar con el sector público.",
+      "D) Una medida preventiva que impide a una empresa contratar con el sector público."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "280. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la duración máxima de los contratos de servicios y suministros es de:",
+    "opciones": [
+      "A) Cuatro años, incluidas las posibles prórrogas.",
+      "B) Cinco años, incluidas las posibles prórrogas.",
+      "C) Diez años, incluidas las posibles prórrogas.",
+      "D) No hay límites establecidos para la duración de los contratos de servicios y suministros."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "281. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la revisión de precios en los contratos del sector público:",
+    "opciones": [
+      "A) Es obligatoria en todos los contratos.",
+      "B) Es potestativa en todos los contratos.",
+      "C) Es obligatoria en los contratos de obras, suministros y servicios de tracto sucesivo o de ejecución continuada cuyo período de recuperación de la inversión sea igual o superior a cinco años.",
+      "D) Es obligatoria en los contratos de obras, suministros y servicios de tracto sucesivo o de ejecución continuada cuyo período de recuperación de la inversión sea igual o superior a dos años."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "282. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la cesión de los contratos:",
+    "opciones": [
+      "A) Está permitida en todo caso.",
+      "B) Está prohibida en todo caso.",
+      "C) Está permitida cuando lo autorice expresamente el órgano de contratación y se cumplan los requisitos legales.",
+      "D) Está permitida cuando lo autorice expresamente la ley y se cumplan los requisitos legales."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "283. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la subcontratación en los contratos del sector público:",
+    "opciones": [
+      "A) Está permitida en todo caso.",
+      "B) Está prohibida en todo caso.",
+      "C) Está permitida cuando lo autorice expresamente el órgano de contratación y se cumplan los requisitos legales.",
+      "D) Está permitida cuando lo autorice expresamente la ley y se cumplan los requisitos legales."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "284. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la suspensión del contrato podrá acordarse por:",
+    "opciones": [
+      "A) Mutuo acuerdo de las partes.",
+      "B) Causas de fuerza mayor.",
+      "C) Interrupción de la ejecución del contrato por causas imputables a la Administración.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "285. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la extinción de los contratos se producirá por:",
+    "opciones": [
+      "A) Cumplimiento, resolución o mutuo acuerdo de las partes.",
+      "B) Cumplimiento o resolución.",
+      "C) Cumplimiento o mutuo acuerdo de las partes.",
+      "D) Resolución o mutuo acuerdo de las partes."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "286. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el recurso especial en materia de contratación se interpondrá contra:",
+    "opciones": [
+      "A) Actos y decisiones adoptadas en los procedimientos de adjudicación de contratos de obras, suministros y servicios, que no sean contratos menores, y de concesión de obras y de concesión de servicios.",
+      "B) Actos y decisiones adoptadas en los procedimientos de adjudicación de todos los contratos del sector público.",
+      "C) Actos y decisiones adoptadas en los procedimientos de adjudicación de contratos de obras y de servicios.",
+      "D) Actos y decisiones adoptadas en los procedimientos de adjudicación de contratos de suministros y de servicios."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "287. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el plazo para la interposición del recurso especial en materia de contratación será de:",
+    "opciones": [
+      "A) 10 días hábiles a contar desde el día siguiente al de la notificación del acto recurrido o al de la publicación del anuncio de licitación.",
+      "B) 15 días hábiles a contar desde el día siguiente al de la notificación del acto recurrido o al de la publicación del anuncio de licitación.",
+      "C) Un mes a contar desde el día siguiente al de la notificación del acto recurrido o al de la publicación del anuncio de licitación.",
+      "D) Dos meses a contar desde el día siguiente al de la notificación del acto recurrido o al de la publicación del anuncio de licitación."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "288. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el Tribunal Administrativo Central de Recursos Contractuales es:",
+    "opciones": [
+      "A) Un órgano administrativo.",
+      "B) Un órgano jurisdiccional.",
+      "C) Un órgano consultivo.",
+      "D) Un órgano de control."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "289. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos públicos deberán incluir cláusulas que garanticen:",
+    "opciones": [
+      "A) La igualdad de género, la inserción laboral de personas con discapacidad y la protección del medio ambiente.",
+      "B) La contratación de empresas locales y la promoción del empleo juvenil.",
+      "C) La transparencia y la libre competencia.",
+      "D) La eficiencia y el ahorro de costes."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "290. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la revisión de oficio de los contratos:",
+    "opciones": [
+      "A) Es una potestad de la Administración para anular los contratos que sean contrarios a Derecho.",
+      "B) Es una potestad de la Administración para modificar los contratos que sean contrarios a Derecho.",
+      "C) Es una potestad de la Administración para suspender los contratos que sean contrarios a Derecho.",
+      "D) Es una potestad de la Administración para resolver los contratos que sean contrarios a Derecho."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "291. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la posibilidad de indemnización por daños y perjuicios derivados de la suspensión del contrato por causas imputables a la Administración será por:",
+    "opciones": [
+      "A) El lucro cesante y los gastos derivados de la suspensión.",
+      "B) Los daños emergentes y los gastos derivados de la suspensión.",
+      "C) El lucro cesante, los daños emergentes y los gastos derivados de la suspensión.",
+      "D) Los daños y perjuicios que se acrediten."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "292. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, el concepto de \"ciclo de vida\" en la contratación pública se refiere a:",
+    "opciones": [
+      "A) Todas las fases sucesivas o interrelacionadas, incluyendo la investigación y el desarrollo que deban realizarse, la producción, la comercialización y sus condiciones, el transporte, la utilización, el mantenimiento, y al final de su vida, la eliminación, incluida la demolición, de una obra, suministro o servicio o de sus activos subyacentes.",
+      "B) Todas las fases de la vida de un producto, desde su producción hasta su eliminación.",
+      "C) Todas las fases de la vida de un servicio, desde su prestación hasta su finalización.",
+      "D) Todas las fases de la vida de una obra, desde su construcción hasta su demolición."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "293. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las técnicas de racionalización de la contratación son:",
+    "opciones": [
+      "A) Acuerdos marco, sistemas dinámicos de adquisición y central de contratación.",
+      "B) Acuerdos marco y sistemas dinámicos de adquisición.",
+      "C) Central de contratación y contratación conjunta.",
+      "D) Acuerdos marco, sistemas dinámicos de adquisición, central de contratación y contratación conjunta."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "294. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los acuerdos marco son:",
+    "opciones": [
+      "A) Acuerdos entre uno o varios poderes adjudicadores y uno o varios operadores económicos, que tienen por objeto establecer las condiciones que regirán los contratos que se vayan a adjudicar durante un período determinado, en particular por lo que se refiere a los precios y, en su caso, a las cantidades previstas.",
+      "B) Acuerdos entre uno o varios poderes adjudicadores y un único operador económico, que tienen por objeto establecer las condiciones que regirán los contratos que se vayan a adjudicar durante un período determinado.",
+      "C) Acuerdos entre varios poderes adjudicadores y un único operador económico, que tienen por objeto establecer las condiciones que regirán los contratos que se vayan a adjudicar durante un período determinado.",
+      "D) Acuerdos entre uno o varios poderes adjudicadores y uno o varios operadores económicos, que tienen por objeto establecer las condiciones que regirán los contratos que se vayan a adjudicar por cada poder adjudicador."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "295. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los sistemas dinámicos de adquisición son:",
+    "opciones": [
+      "A) Un procedimiento completamente electrónico de adquisición de uso restringido, abierto durante todo su periodo de validez a cualquier operador económico que satisfaga los criterios de selección y haya presentado una oferta indicativa que se ajuste al pliego de condiciones.",
+      "B) Un procedimiento completamente electrónico de adquisición de uso restringido, abierto durante un periodo determinado a cualquier operador económico que satisfaga los criterios de selección y haya presentado una oferta indicativa que se ajuste al pliego de condiciones.",
+      "C) Un procedimiento completamente electrónico de adquisición de uso ilimitado, abierto durante todo su periodo de validez a cualquier operador económico que satisfaga los criterios de selección y haya presentado una oferta indicativa que se ajuste al pliego de condiciones.",
+      "D) Un procedimiento completamente electrónico de adquisición de uso ilimitado, abierto durante un periodo determinado a cualquier operador económico que satisfaga los criterios de selección y haya presentado una oferta indicativa que se ajuste al pliego de condiciones."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "296. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, las centrales de contratación son:",
+    "opciones": [
+      "A) Poderes adjudicadores que adquieren suministros o servicios o realizan obras, con el fin de suministrarlos a otros poderes adjudicadores.",
+      "B) Poderes adjudicadores que adquieren suministros o servicios o realizan obras, con el fin de prestarlos a otros poderes adjudicadores.",
+      "C) Poderes adjudicadores que adquieren suministros o servicios o realizan obras, con el fin de cederlos a otros poderes adjudicadores.",
+      "D) Poderes adjudicadores que adquieren suministros o servicios o realizan obras, con el fin de venderlos a otros poderes adjudicadores."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "297. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos de obras menores, no requieren:",
+    "opciones": [
+      "A) Proyecto.",
+      "B) Dirección de obra.",
+      "C) Certificación de obra.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "298. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos de servicios menores, no requieren:",
+    "opciones": [
+      "A) Informe de necesidad.",
+      "B) Pliegos.",
+      "C) Publicidad.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "299. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los contratos de suministros menores, no requieren:",
+    "opciones": [
+      "A) Presupuesto.",
+      "B) Pliegos.",
+      "C) Publicidad.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "300. Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la facultad de interpretar los contratos administrativos corresponde a:",
+    "opciones": [
+      "A) El órgano de contratación.",
+      "B) El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma.",
+      "C) El Tribunal Administrativo Central de Recursos Contractuales.",
+      "D) Los Tribunales de Justicia."
+    ],
+    "respuesta_correcta": 0
+  }
+]

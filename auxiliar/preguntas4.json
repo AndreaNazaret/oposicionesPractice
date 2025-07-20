@@ -1,0 +1,502 @@
+[
+  {
+    "pregunta": "151. La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, tiene por objeto:",
+    "opciones": [
+      "A) Establecer las bases del régimen jurídico de las Administraciones Públicas.",
+      "B) Regular el funcionamiento de los órganos de la Administración General del Estado.",
+      "C) Regular las relaciones entre las distintas Administraciones Públicas.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "152. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los principios que deben respetar las Administraciones Públicas en su actuación son:",
+    "opciones": [
+      "A) Eficacia, eficiencia, transparencia, servicio a los ciudadanos.",
+      "B) Jerarquía, descentralización, desconcentración y coordinación.",
+      "C) Legalidad, objetividad, buena fe, lealtad institucional.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "153. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la creación de cualquier Administración Pública requerirá:",
+    "opciones": [
+      "A) Ley.",
+      "B) Real Decreto.",
+      "C) Orden Ministerial.",
+      "D) Resolución del Consejo de Ministros."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "154. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la organización de la Administración General del Estado se estructura en:",
+    "opciones": [
+      "A) Ministerios, Secretarías de Estado y Subsecretarías.",
+      "B) Órganos superiores y órganos directivos.",
+      "C) Órganos centrales y órganos territoriales.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "155. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los principios que deben regir las relaciones entre las Administraciones Públicas son:",
+    "opciones": [
+      "A) Cooperación, colaboración y coordinación.",
+      "B) Lealtad institucional, eficiencia y transparencia.",
+      "C) Autonomía, especialidad y jerarquía.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "156. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los convenios entre Administraciones Públicas:",
+    "opciones": [
+      "A) Podrán tener por objeto la gestión de servicios y el desarrollo de actividades comunes.",
+      "B) Deberán publicarse en el \"Boletín Oficial del Estado\" o en el diario oficial correspondiente.",
+      "C) Tendrán la consideración de actos administrativos.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "157. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las relaciones entre la Administración General del Estado y las Comunidades Autónomas se regirán por los principios de:",
+    "opciones": [
+      "A) Coordinación, cooperación y lealtad institucional.",
+      "B) Subsidiariedad, autonomía y especialidad.",
+      "C) Competencia, jerarquía y transparencia.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "158. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los organismos públicos son:",
+    "opciones": [
+      "A) Entidades de derecho público, con personalidad jurídica propia y patrimonio propio, que se adscriben a una Administración Pública.",
+      "B) Entidades de derecho privado, con personalidad jurídica propia y patrimonio propio, que se adscriben a una Administración Pública.",
+      "C) Órganos de la Administración Pública, sin personalidad jurídica propia.",
+      "D) Sociedades mercantiles estatales."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "159. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las agencias estatales son:",
+    "opciones": [
+      "A) Organismos públicos dotados de autonomía y sometidos a la dirección estratégica y evaluación por parte de la Administración General del Estado.",
+      "B) Organismos públicos que tienen encomendada la gestión de un servicio público.",
+      "C) Organismos públicos que tienen encomendada la realización de actividades prestacionales, de gestión de servicios o de producción de bienes de interés público.",
+      "D) Organismos públicos que tienen encomendada la realización de actividades de fomento o de policía."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "160. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las autoridades administrativas independientes son:",
+    "opciones": [
+      "A) Organismos públicos que actúan con plena autonomía respecto a la Administración General del Estado.",
+      "B) Organismos públicos que actúan con plena independencia respecto a la Administración General del Estado.",
+      "C) Organismos públicos que tienen encomendada la regulación o supervisión de un sector económico o de una actividad.",
+      "D) Organismos públicos que tienen encomendada la protección de los derechos de los ciudadanos."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "161. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las sociedades mercantiles estatales son:",
+    "opciones": [
+      "A) Sociedades en las que la participación directa o indirecta del capital social de la Administración General del Estado es superior al 50 por 100.",
+      "B) Sociedades en las que la participación directa o indirecta del capital social de la Administración General del Estado es inferior al 50 por 100.",
+      "C) Sociedades en las que la Administración General del Estado no tiene participación en el capital social.",
+      "D) Sociedades en las que la Administración General del Estado ostenta la mayoría de los derechos de voto."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "162. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las fundaciones del sector público son:",
+    "opciones": [
+      "A) Entidades sin ánimo de lucro, con personalidad jurídica propia, que se constituyen con aportación mayoritaria, directa o indirecta, de una Administración Pública o sus organismos públicos o dependientes, o de otras entidades del sector público.",
+      "B) Entidades sin ánimo de lucro, con personalidad jurídica propia, que se constituyen con aportación minoritaria, directa o indirecta, de una Administración Pública o sus organismos públicos o dependientes, o de otras entidades del sector público.",
+      "C) Entidades con ánimo de lucro, con personalidad jurídica propia, que se constituyen con aportación mayoritaria, directa o indirecta, de una Administración Pública o sus organismos públicos o dependientes, o de otras entidades del sector público.",
+      "D) Entidades con ánimo de lucro, con personalidad jurídica propia, que se constituyen con aportación minoritaria, directa o indirecta, de una Administración Pública o sus organismos públicos o dependientes, o de otras entidades del sector público."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "163. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los consorcios son:",
+    "opciones": [
+      "A) Entidades de derecho público, con personalidad jurídica propia, creadas por varias Administraciones Públicas o entidades de ellas dependientes, para la gestión en común de servicios o actividades de su competencia.",
+      "B) Entidades de derecho privado, con personalidad jurídica propia, creadas por varias Administraciones Públicas o entidades de ellas dependientes, para la gestión en común de servicios o actividades de su competencia.",
+      "C) Entidades sin personalidad jurídica, creadas por varias Administraciones Públicas o entidades de ellas dependientes, para la gestión en común de servicios o actividades de su competencia.",
+      "D) Entidades de derecho público, sin personalidad jurídica propia, creadas por varias Administraciones Públicas o entidades de ellas dependientes, para la gestión en común de servicios o actividades de su competencia."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "164. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las comisiones interministeriales son:",
+    "opciones": [
+      "A) Órganos colegiados de la Administración General del Estado.",
+      "B) Órganos colegiados de la Administración General del Estado que se crean para la coordinación y el seguimiento de políticas sectoriales.",
+      "C) Órganos colegiados de la Administración General del Estado que se crean para la resolución de conflictos de competencias.",
+      "D) Órganos colegiados de la Administración General del Estado que se crean para la elaboración de normas."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "165. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los órganos colegiados de la Administración General del Estado:",
+    "opciones": [
+      "A) Estarán integrados por un Presidente, un Vicepresidente y los vocales que se determinen reglamentariamente.",
+      "B) Estarán integrados por un Presidente y los vocales que se determinen reglamentariamente.",
+      "C) Estarán integrados por un Presidente y un número impar de vocales.",
+      "D) Estarán integrados por un Presidente y un número par de vocales."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "166. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los actos de los órganos colegiados se adoptarán por:",
+    "opciones": [
+      "A) Mayoría simple de los miembros presentes.",
+      "B) Mayoría absoluta de los miembros presentes.",
+      "C) Unanimidad de los miembros presentes.",
+      "D) El voto de calidad del Presidente."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "167. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la abstención en el ámbito de la Administración Pública es:",
+    "opciones": [
+      "A) Un derecho del interesado a no participar en un procedimiento administrativo.",
+      "B) Un deber del personal al servicio de las Administraciones Públicas de no intervenir en un procedimiento en el que concurran determinadas circunstancias.",
+      "C) Una obligación del personal al servicio de las Administraciones Públicas de no intervenir en un procedimiento en el que concurran determinadas circunstancias.",
+      "D) Una facultad del personal al servicio de las Administraciones Públicas de no intervenir en un procedimiento en el que concurran determinadas circunstancias."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "168. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la recusación en el ámbito de la Administración Pública es:",
+    "opciones": [
+      "A) Un derecho del interesado a que un miembro del órgano administrativo no intervenga en un procedimiento.",
+      "B) Un deber del personal al servicio de las Administraciones Públicas de no intervenir en un procedimiento en el que concurran determinadas circunstancias.",
+      "C) Una obligación del personal al servicio de las Administraciones Públicas de no intervenir en un procedimiento en el que concurran determinadas circunstancias.",
+      "D) Una facultad del personal al servicio de las Administraciones Públicas de no intervenir en un procedimiento en el que concurran determinadas circunstancias."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "169. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el expediente administrativo electrónico deberá contener:",
+    "opciones": [
+      "A) El índice de los documentos que lo integran, debidamente numerados.",
+      "B) Los documentos que lo integran, con su metadatos.",
+      "C) La firma electrónica de los documentos que lo integran.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "170. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la interoperabilidad entre las Administraciones Públicas:",
+    "opciones": [
+      "A) Es la capacidad de los sistemas de información de las Administraciones Públicas para intercambiar datos y compartir información.",
+      "B) Es la capacidad de los sistemas de información de las Administraciones Públicas para funcionar de forma conjunta.",
+      "C) Es la capacidad de los sistemas de información de las Administraciones Públicas para acceder a los datos de otras Administraciones Públicas.",
+      "D) Es la capacidad de los sistemas de información de las Administraciones Públicas para integrar los datos de otras Administraciones Públicas."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "171. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la Administración Pública actuará para el cumplimiento de sus fines con:",
+    "opciones": [
+      "A) Personalidad jurídica única.",
+      "B) Personalidad jurídica múltiple.",
+      "C) Personalidad jurídica propia.",
+      "D) Personalidad jurídica diferenciada."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "172. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la creación de organismos públicos requerirá:",
+    "opciones": [
+      "A) Ley, cuando se les atribuya el ejercicio de potestades públicas.",
+      "B) Real Decreto, cuando se les atribuya el ejercicio de potestades públicas.",
+      "C) Orden Ministerial, cuando se les atribuya el ejercicio de potestades públicas.",
+      "D) Resolución del Consejo de Ministros, cuando se les atribuya el ejercicio de potestades públicas."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "173. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la gestión de los servicios públicos se podrá llevar a cabo por:",
+    "opciones": [
+      "A) Gestión directa o gestión indirecta.",
+      "B) Gestión pública o gestión privada.",
+      "C) Gestión centralizada o gestión descentralizada.",
+      "D) Gestión individual o gestión colectiva."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "174. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los consorcios podrán ser disueltos por:",
+    "opciones": [
+      "A) Acuerdo de los órganos que lo crearon.",
+      "B) Cumplimiento de su objeto.",
+      "C) Imposibilidad de cumplimiento de su objeto.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "175. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los órganos administrativos:",
+    "opciones": [
+      "A) Tendrán las competencias que les sean atribuidas por ley o reglamento.",
+      "B) Tendrán las competencias que les sean atribuidas por el superior jerárquico.",
+      "C) Tendrán las competencias que les sean atribuidas por el órgano que los cree.",
+      "D) Tendrán las competencias que les sean atribuidas por el Presidente del Gobierno."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "176. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la delegación de competencias no podrá recaer en:",
+    "opciones": [
+      "A) Órganos que no sean jerárquicamente dependientes del delegante.",
+      "B) Órganos colegiados.",
+      "C) Órganos de la misma Administración Pública.",
+      "D) Órganos de otra Administración Pública."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "177. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la avocación de competencias se acordará por el órgano:",
+    "opciones": [
+      "A) Superior que la asume.",
+      "B) Inferior que la cede.",
+      "C) Que la crea.",
+      "D) Que la suprime."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "178. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los organismos públicos se clasifican en:",
+    "opciones": [
+      "A) Organismos autónomos y entidades públicas empresariales.",
+      "B) Organismos autónomos y agencias estatales.",
+      "C) Entidades públicas empresariales y agencias estatales.",
+      "D) Organismos autónomos, entidades públicas empresariales y agencias estatales."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "179. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los organismos autónomos son:",
+    "opciones": [
+      "A) Entidades de derecho público, con personalidad jurídica propia y patrimonio propio, que realizan actividades prestacionales, de gestión de servicios o de producción de bienes de interés público, susceptibles de contraprestación.",
+      "B) Entidades de derecho público, con personalidad jurídica propia y patrimonio propio, que realizan actividades de fomento, prestacionales, de gestión de servicios públicos o de producción de bienes de interés público, que se someten al Derecho público.",
+      "C) Entidades de derecho privado, con personalidad jurídica propia y patrimonio propio, que realizan actividades prestacionales, de gestión de servicios o de producción de bienes de interés público, susceptibles de contraprestación.",
+      "D) Entidades de derecho privado, con personalidad jurídica propia y patrimonio propio, que realizan actividades de fomento, prestacionales, de gestión de servicios públicos o de producción de bienes de interés público, que se someten al Derecho privado."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "180. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las entidades públicas empresariales son:",
+    "opciones": [
+      "A) Entidades de derecho público, con personalidad jurídica propia y patrimonio propio, que realizan actividades prestacionales, de gestión de servicios o de producción de bienes de interés público, susceptibles de contraprestación.",
+      "B) Entidades de derecho público, con personalidad jurídica propia y patrimonio propio, que realizan actividades de fomento, prestacionales, de gestión de servicios públicos o de producción de bienes de interés público, que se someten al Derecho público.",
+      "C) Entidades de derecho privado, con personalidad jurídica propia y patrimonio propio, que realizan actividades prestacionales, de gestión de servicios o de producción de bienes de interés público, susceptibles de contraprestación.",
+      "D) Entidades de derecho privado, con personalidad jurídica propia y patrimonio propio, que realizan actividades de fomento, prestacionales, de gestión de servicios públicos o de producción de bienes de interés público, que se someten al Derecho privado."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "181. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la extinción de los organismos públicos se producirá por:",
+    "opciones": [
+      "A) Cumplimiento de sus fines.",
+      "B) Expiración del plazo de duración.",
+      "C) Acuerdo del Consejo de Ministros.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "182. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los bienes y derechos de los organismos públicos que se extingan se integrarán en el patrimonio de la Administración Pública a la que estén adscritos, salvo que la ley disponga otra cosa:",
+    "opciones": [
+      "A) Sí, es correcto.",
+      "B) No, se integrarán en el patrimonio del Estado.",
+      "C) No, se integrarán en el patrimonio de la Hacienda Pública.",
+      "D) No, se integrarán en el patrimonio del Ministerio de Hacienda y Administraciones Públicas."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "183. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los sistemas de información de las Administraciones Públicas:",
+    "opciones": [
+      "A) Deberán garantizar la seguridad, integridad, autenticidad, confidencialidad, calidad y disponibilidad de la información.",
+      "B) Deberán garantizar la accesibilidad, usabilidad, interoperabilidad y reusabilidad de la información.",
+      "C) Deberán garantizar la transparencia y el acceso a la información pública.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "184. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el Esquema Nacional de Seguridad:",
+    "opciones": [
+      "A) Es un conjunto de medidas para garantizar la seguridad de la información tratada por las Administraciones Públicas.",
+      "B) Es un conjunto de requisitos para la gestión de la seguridad de la información en las Administraciones Públicas.",
+      "C) Es un conjunto de principios básicos y requisitos mínimos que deben cumplir las Administraciones Públicas para garantizar la seguridad de la información.",
+      "D) Es un conjunto de recomendaciones para la seguridad de la información en las Administraciones Públicas."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "185. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el Esquema Nacional de Interoperabilidad:",
+    "opciones": [
+      "A) Es un conjunto de medidas para garantizar la interoperabilidad de los sistemas de información de las Administraciones Públicas.",
+      "B) Es un conjunto de requisitos para la gestión de la interoperabilidad de los sistemas de información en las Administraciones Públicas.",
+      "C) Es un conjunto de principios básicos y requisitos mínimos que deben cumplir las Administraciones Públicas para garantizar la interoperabilidad de los sistemas de información.",
+      "D) Es un conjunto de recomendaciones para la interoperabilidad de los sistemas de información en las Administraciones Públicas."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "186. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el Gobierno y la Administración General del Estado:",
+    "opciones": [
+      "A) Son la misma cosa.",
+      "B) Son instituciones diferentes.",
+      "C) El Gobierno dirige la Administración General del Estado.",
+      "D) La Administración General del Estado dirige el Gobierno."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "187. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los Secretarios de Estado:",
+    "opciones": [
+      "A) Son órganos superiores de la Administración General del Estado.",
+      "B) Son órganos directivos de la Administración General del Estado.",
+      "C) Son órganos consultivos de la Administración General del Estado.",
+      "D) Son órganos de asesoramiento de la Administración General del Estado."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "188. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los Subsecretarios:",
+    "opciones": [
+      "A) Son órganos superiores de la Administración General del Estado.",
+      "B) Son órganos directivos de la Administración General del Estado.",
+      "C) Son órganos consultivos de la Administración General del Estado.",
+      "D) Son órganos de asesoramiento de la Administración General del Estado."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "189. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los Directores Generales:",
+    "opciones": [
+      "A) Son órganos superiores de la Administración General del Estado.",
+      "B) Son órganos directivos de la Administración General del Estado.",
+      "C) Son órganos consultivos de la Administración General del Estado.",
+      "D) Son órganos de asesoramiento de la Administración General del Estado."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "190. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las Delegaciones del Gobierno en las Comunidades Autónomas:",
+    "opciones": [
+      "A) Son órganos de la Administración General del Estado en el territorio de las Comunidades Autónomas.",
+      "B) Son órganos de las Comunidades Autónomas.",
+      "C) Son órganos de la Administración Local.",
+      "D) Son órganos de la Administración de Justicia."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "191. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los Subdelegados del Gobierno:",
+    "opciones": [
+      "A) Son órganos de la Administración General del Estado en la provincia.",
+      "B) Son órganos de la Administración de la Comunidad Autónoma.",
+      "C) Son órganos de la Administración Local.",
+      "D) Son órganos de la Administración de Justicia."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "192. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la Administración General del Estado se organiza territorialmente en:",
+    "opciones": [
+      "A) Comunidades Autónomas y provincias.",
+      "B) Provincias e islas.",
+      "C) Comunidades Autónomas y municipios.",
+      "D) Provincias y municipios."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "193. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las relaciones de colaboración entre Administraciones Públicas se instrumentarán, en su caso, a través de:",
+    "opciones": [
+      "A) Convenios, conferencias sectoriales o planes y programas conjuntos.",
+      "B) Convenios, acuerdos o pactos.",
+      "C) Convenios, tratados o protocolos.",
+      "D) Convenios, órdenes o resoluciones."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "194. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las conferencias sectoriales:",
+    "opciones": [
+      "A) Son órganos de cooperación entre la Administración General del Estado y las Comunidades Autónomas.",
+      "B) Son órganos de coordinación entre la Administración General del Estado y las Comunidades Autónomas.",
+      "C) Son órganos de colaboración entre la Administración General del Estado y las Comunidades Autónomas.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "195. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los planes y programas conjuntos:",
+    "opciones": [
+      "A) Son instrumentos de planificación y programación de actuaciones conjuntas entre Administraciones Públicas.",
+      "B) Son instrumentos de coordinación de actuaciones entre Administraciones Públicas.",
+      "C) Son instrumentos de colaboración de actuaciones entre Administraciones Públicas.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "196. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la asistencia jurídica a la Administración General del Estado y a sus organismos públicos se prestará por:",
+    "opciones": [
+      "A) La Abogacía General del Estado.",
+      "B) Los Abogados del Estado.",
+      "C) Los servicios jurídicos de los Ministerios.",
+      "D) Los servicios jurídicos de los organismos públicos."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "197. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el control económico y financiero de la Administración General del Estado y de sus organismos públicos se ejercerá por:",
+    "opciones": [
+      "A) La Intervención General de la Administración del Estado.",
+      "B) El Tribunal de Cuentas.",
+      "C) La Contraloría General del Estado.",
+      "D) La Auditoría General del Estado."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "198. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la responsabilidad patrimonial de las Administraciones Públicas es:",
+    "opciones": [
+      "A) Directa y objetiva.",
+      "B) Directa y subjetiva.",
+      "C) Subsidiaria y objetiva.",
+      "D) Subsidiaria y subjetiva."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "199. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el derecho de los particulares a ser indemnizados por las lesiones que sufran en cualquiera de sus bienes y derechos, salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos, se denomina:",
+    "opciones": [
+      "A) Responsabilidad contractual.",
+      "B) Responsabilidad extracontractual.",
+      "C) Responsabilidad patrimonial.",
+      "D) Responsabilidad civil."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "200. Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el plazo para el ejercicio de la acción para exigir la responsabilidad patrimonial de las Administraciones Públicas es de:",
+    "opciones": [
+      "A) Un año desde el hecho que motive la indemnización.",
+      "B) Dos años desde el hecho que motive la indemnización.",
+      "C) Cuatro años desde el hecho que motive la indemnización.",
+      "D) Cinco años desde el hecho que motive la indemnización."
+    ],
+    "respuesta_correcta": 0
+  }
+]

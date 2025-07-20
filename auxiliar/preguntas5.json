@@ -1,0 +1,502 @@
+[
+  {
+    "pregunta": "201. La Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, tiene por objeto:",
+    "opciones": [
+      "A) Adaptar el ordenamiento jurídico español al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016.",
+      "B) Garantizar los derechos digitales de los ciudadanos.",
+      "C) Regular el tratamiento de los datos personales por parte de las Administraciones Públicas.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "202. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el tratamiento de datos personales:",
+    "opciones": [
+      "A) Es toda operación o conjunto de operaciones realizadas sobre datos personales o conjuntos de datos personales, ya sea por procedimientos automatizados o no, como la recogida, registro, organización, estructuración, conservación, adaptación o modificación, extracción, consulta, utilización, comunicación por transmisión, difusión o cualquier otra forma de habilitación de acceso, cotejo o interconexión, limitación, supresión o destrucción.",
+      "B) Es toda operación o conjunto de operaciones realizadas sobre datos personales, ya sea por procedimientos automatizados o no.",
+      "C) Es toda operación o conjunto de operaciones realizadas sobre datos personales o conjuntos de datos personales, ya sea por procedimientos automatizados o no, como la recogida, registro y conservación.",
+      "D) Es toda operación o conjunto de operaciones realizadas sobre datos personales o conjuntos de datos personales, ya sea por procedimientos automatizados o no, como la recogida, registro y organización."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "203. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el consentimiento del interesado para el tratamiento de sus datos personales deberá ser:",
+    "opciones": [
+      "A) Libre, específico, informado e inequívoco.",
+      "B) Libre e informado.",
+      "C) Expreso o tácito.",
+      "D) Escrito."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "204. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, los datos personales de categorías especiales son aquellos que revelen:",
+    "opciones": [
+      "A) El origen étnico o racial, las opiniones políticas, las convicciones religiosas o filosóficas, o la afiliación sindical.",
+      "B) Los datos genéticos, datos biométricos dirigidos a identificar de manera unívoca a una persona física, datos relativos a la salud o datos relativos a la vida sexual o la orientación sexual de una persona física.",
+      "C) La ideología, la afiliación sindical, la religión, las creencias, la salud, el origen racial, la vida sexual.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "205. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho de acceso a los datos personales implica:",
+    "opciones": [
+      "A) Obtener del responsable del tratamiento confirmación de si se están tratando o no datos personales que le conciernen y, en tal caso, acceso a los mismos y a determinada información.",
+      "B) Obtener del responsable del tratamiento la rectificación de los datos personales inexactos o incompletos que le conciernan.",
+      "C) Obtener del responsable del tratamiento la supresión de los datos personales que le conciernan.",
+      "D) Obtener del responsable del tratamiento la limitación del tratamiento de los datos personales que le conciernan."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "206. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho de rectificación de los datos personales implica:",
+    "opciones": [
+      "A) Obtener del responsable del tratamiento confirmación de si se están tratando o no datos personales que le conciernen y, en tal caso, acceso a los mismos y a determinada información.",
+      "B) Obtener del responsable del tratamiento la rectificación de los datos personales inexactos o incompletos que le conciernan.",
+      "C) Obtener del responsable del tratamiento la supresión de los datos personales que le conciernan.",
+      "D) Obtener del responsable del tratamiento la limitación del tratamiento de los datos personales que le conciernan."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "207. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho de supresión de los datos personales implica:",
+    "opciones": [
+      "A) Obtener del responsable del tratamiento confirmación de si se están tratando o no datos personales que le conciernen y, en tal caso, acceso a los mismos y a determinada información.",
+      "B) Obtener del responsable del tratamiento la rectificación de los datos personales inexactos o incompletos que le conciernan.",
+      "C) Obtener del responsable del tratamiento la supresión de los datos personales que le conciernan.",
+      "D) Obtener del responsable del tratamiento la limitación del tratamiento de los datos personales que le conciernan."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "208. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho a la limitación del tratamiento de los datos personales implica:",
+    "opciones": [
+      "A) Obtener del responsable del tratamiento confirmación de si se están tratando o no datos personales que le conciernen y, en tal caso, acceso a los mismos y a determinada información.",
+      "B) Obtener del responsable del tratamiento la rectificación de los datos personales inexactos o incompletos que le conciernan.",
+      "C) Obtener del responsable del tratamiento la supresión de los datos personales que le conciernan.",
+      "D) Obtener del responsable del tratamiento la limitación del tratamiento de los datos personales que le conciernan."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "209. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho a la portabilidad de los datos personales implica:",
+    "opciones": [
+      "A) Recibir los datos personales que le incumben, que haya facilitado a un responsable del tratamiento, en un formato estructurado, de uso común y lectura mecánica, y a transmitirlos a otro responsable del tratamiento sin que lo impida el responsable al que se los hubiera facilitado.",
+      "B) Oponerse en cualquier momento, por motivos relacionados con su situación particular, a que datos personales que le conciernen sean objeto de un tratamiento.",
+      "C) No ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte significativamente de modo similar.",
+      "D) Ser informado antes de que sus datos personales sean tratados con fines de mercadotecnia directa."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "210. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho de oposición al tratamiento de los datos personales implica:",
+    "opciones": [
+      "A) Recibir los datos personales que le incumben, que haya facilitado a un responsable del tratamiento, en un formato estructurado, de uso común y lectura mecánica, y a transmitirlos a otro responsable del tratamiento sin que lo impida el responsable al que se los hubiera facilitado.",
+      "B) Oponerse en cualquier momento, por motivos relacionados con su situación particular, a que datos personales que le conciernen sean objeto de un tratamiento.",
+      "C) No ser objeto de una decisión basada únicamente en el tratamiento automatizado, incluida la elaboración de perfiles, que produzca efectos jurídicos en él o le afecte significativamente de modo similar.",
+      "D) Ser informado antes de que sus datos personales sean tratados con fines de mercadotecnia directa."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "211. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el responsable del tratamiento de los datos personales es:",
+    "opciones": [
+      "A) La persona física o jurídica, autoridad pública, servicio u otro organismo que, solo o junto con otros, determine los fines y medios del tratamiento.",
+      "B) La persona física o jurídica, autoridad pública, servicio u otro organismo que trate datos personales por cuenta del responsable del tratamiento.",
+      "C) La persona física o jurídica, autoridad pública, servicio u otro organismo que sea titular de los datos personales.",
+      "D) La persona física o jurídica, autoridad pública, servicio u otro organismo que sea el destinatario de los datos personales."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "212. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el encargado del tratamiento de los datos personales es:",
+    "opciones": [
+      "A) La persona física o jurídica, autoridad pública, servicio u otro organismo que, solo o junto con otros, determine los fines y medios del tratamiento.",
+      "B) La persona física o jurídica, autoridad pública, servicio u otro organismo que trate datos personales por cuenta del responsable del tratamiento.",
+      "C) La persona física o jurídica, autoridad pública, servicio u otro organismo que sea titular de los datos personales.",
+      "D) La persona física o jurídica, autoridad pública, servicio u otro organismo que sea el destinatario de los datos personales."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "213. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el Delegado de Protección de Datos es:",
+    "opciones": [
+      "A) La persona física o jurídica que vela por el cumplimiento de la normativa de protección de datos personales en el responsable o encargado del tratamiento.",
+      "B) La persona física o jurídica que ejerce las funciones de control y supervisión del cumplimiento de la normativa de protección de datos personales.",
+      "C) La persona física o jurídica que representa al responsable o encargado del tratamiento en materia de protección de datos personales.",
+      "D) La persona física o jurídica que asiste al responsable o encargado del tratamiento en el cumplimiento de la normativa de protección de datos personales."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "214. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, la Agencia Española de Protección de Datos es:",
+    "opciones": [
+      "A) Una autoridad de control independiente encargada de velar por el cumplimiento de la normativa de protección de datos personales.",
+      "B) Un organismo público encargado de promover la protección de datos personales.",
+      "C) Una entidad encargada de asesorar a los responsables y encargados del tratamiento en materia de protección de datos personales.",
+      "D) Una entidad encargada de resolver las reclamaciones de los interesados en materia de protección de datos personales."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "215. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, las infracciones en materia de protección de datos personales se clasifican en:",
+    "opciones": [
+      "A) Leves, graves y muy graves.",
+      "B) Leves, graves y muy graves, atendiendo a su naturaleza y entidad.",
+      "C) Leves, graves y muy graves, atendiendo a su naturaleza, entidad y reincidencia.",
+      "D) Leves, graves y muy graves, atendiendo a su naturaleza, entidad, reincidencia y perjuicio causado."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "216. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, las sanciones en materia de protección de datos personales podrán ser:",
+    "opciones": [
+      "A) Multas, amonestaciones y suspensión de actividades.",
+      "B) Multas, apercibimientos y prohibición temporal o definitiva del tratamiento.",
+      "C) Multas, cese de la actividad y revocación de autorizaciones.",
+      "D) Multas, cancelación de ficheros y suspensión de actividades."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "217. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho a la desconexión digital implica:",
+    "opciones": [
+      "A) El derecho de los trabajadores a no responder a comunicaciones empresariales fuera de su horario de trabajo.",
+      "B) El derecho de los trabajadores a no estar conectados a dispositivos digitales fuera de su horario de trabajo.",
+      "C) El derecho de los trabajadores a no recibir comunicaciones empresariales fuera de su horario de trabajo, salvo causa de fuerza mayor o circunstancias excepcionales.",
+      "D) El derecho de los trabajadores a no estar conectados a dispositivos digitales fuera de su horario de trabajo, salvo causa de fuerza mayor o circunstancias excepcionales."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "218. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho a la educación digital implica:",
+    "opciones": [
+      "A) El derecho de los menores a acceder a contenidos digitales adecuados a su edad y madurez.",
+      "B) El derecho de los menores a recibir formación en el uso seguro y responsable de Internet.",
+      "C) El derecho de los menores a participar en actividades educativas que fomenten el uso seguro y responsable de Internet.",
+      "D) El derecho de los menores a la protección de sus datos personales en el ámbito digital."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "219. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho al olvido en búsquedas de Internet implica:",
+    "opciones": [
+      "A) El derecho a que los motores de búsqueda de Internet eliminen los enlaces a informaciones que, siendo verdaderas, sean inadecuadas, incompletas, no pertinentes o excesivas o no actualizadas.",
+      "B) El derecho a que los motores de búsqueda de Internet eliminen los enlaces a informaciones que, siendo falsas, sean inadecuadas, incompletas, no pertinentes o excesivas o no actualizadas.",
+      "C) El derecho a que los motores de búsqueda de Internet eliminen los enlaces a informaciones que, siendo verdaderas, sean perjudiciales para el interesado.",
+      "D) El derecho a que los motores de búsqueda de Internet eliminen los enlaces a informaciones que, siendo falsas, sean perjudiciales para el interesado."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "220. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho a la libertad de expresión en Internet implica:",
+    "opciones": [
+      "A) El derecho a la libre expresión de ideas y opiniones en Internet, sin censura previa.",
+      "B) El derecho a la libre expresión de ideas y opiniones en Internet, con las limitaciones establecidas en la ley.",
+      "C) El derecho a la libre expresión de ideas y opiniones en Internet, sin limitación alguna.",
+      "D) El derecho a la libre expresión de ideas y opiniones en Internet, sin perjuicio de los derechos de terceros."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "221. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho a la neutralidad de la red implica:",
+    "opciones": [
+      "A) El derecho a que los operadores de redes y servicios de comunicaciones electrónicas traten el tráfico de datos de forma equitativa, sin discriminación ni interferencias.",
+      "B) El derecho a que los operadores de redes y servicios de comunicaciones electrónicas traten el tráfico de datos de forma prioritaria para determinados servicios.",
+      "C) El derecho a que los operadores de redes y servicios de comunicaciones electrónicas traten el tráfico de datos de forma diferenciada para determinados servicios.",
+      "D) El derecho a que los operadores de redes y servicios de comunicaciones electrónicas traten el tráfico de datos de forma ilimitada."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "222. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho a la seguridad digital implica:",
+    "opciones": [
+      "A) El derecho a que las Administraciones Públicas garanticen la seguridad de las comunicaciones electrónicas y de los datos personales.",
+      "B) El derecho a que los prestadores de servicios de la sociedad de la información garanticen la seguridad de las comunicaciones electrónicas y de los datos personales.",
+      "C) El derecho a que los usuarios adopten medidas de seguridad para proteger sus comunicaciones electrónicas y sus datos personales.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "223. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, la edad mínima para el consentimiento del tratamiento de datos personales de menores es de:",
+    "opciones": [
+      "A) 13 años.",
+      "B) 14 años.",
+      "C) 16 años.",
+      "D) 18 años."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "224. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, la Agencia Española de Protección de Datos podrá imponer sanciones por un importe de hasta:",
+    "opciones": [
+      "A) 20 millones de euros o, tratándose de una empresa, de una cuantía equivalente al 4% del volumen de negocio total anual global del ejercicio financiero anterior.",
+      "B) 10 millones de euros o, tratándose de una empresa, de una cuantía equivalente al 2% del volumen de negocio total anual global del ejercicio financiero anterior.",
+      "C) 5 millones de euros o, tratándose de una empresa, de una cuantía equivalente al 1% del volumen de negocio total anual global del ejercicio financiero anterior.",
+      "D) 1 millón de euros o, tratándose de una empresa, de una cuantía equivalente al 0,5% del volumen de negocio total anual global del ejercicio financiero anterior."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "225. Según la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, la obligación de notificar las violaciones de la seguridad de los datos personales a la autoridad de control deberá realizarse en un plazo máximo de:",
+    "opciones": [
+      "A) 24 horas.",
+      "B) 48 horas.",
+      "C) 72 horas.",
+      "D) Una semana."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "226. La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, tiene por objeto:",
+    "opciones": [
+      "A) Regular la transparencia de la actividad pública.",
+      "B) Regular el derecho de acceso de los ciudadanos a la información pública.",
+      "C) Establecer las obligaciones de buen gobierno que deben cumplir los responsables públicos.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "227. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, se entiende por información pública:",
+    "opciones": [
+      "A) Todos los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de alguno de los sujetos incluidos en el ámbito de aplicación de este título y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones.",
+      "B) Todos los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de las Administraciones Públicas y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones.",
+      "C) Todos los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder de los sujetos incluidos en el ámbito de aplicación de este título.",
+      "D) Todos los contenidos o documentos, cualquiera que sea su formato o soporte, que sean de interés público."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "228. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el derecho de acceso a la información pública es:",
+    "opciones": [
+      "A) Un derecho fundamental.",
+      "B) Un derecho constitucional.",
+      "C) Un derecho subjetivo.",
+      "D) Un derecho de configuración legal."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "229. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el ejercicio del derecho de acceso a la información pública podrá ser limitado cuando afecte a:",
+    "opciones": [
+      "A) La seguridad nacional.",
+      "B) La defensa.",
+      "C) Las relaciones exteriores.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "230. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la publicidad activa implica:",
+    "opciones": [
+      "A) La obligación de las Administraciones Públicas de publicar de forma periódica y actualizada la información cuyo conocimiento sea relevante para garantizar la transparencia de su actividad.",
+      "B) La obligación de las Administraciones Públicas de publicar toda la información que obre en su poder.",
+      "C) La obligación de las Administraciones Públicas de publicar la información que soliciten los ciudadanos.",
+      "D) La obligación de las Administraciones Públicas de publicar la información que sea de interés público."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "231. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la información que debe ser objeto de publicidad activa incluye:",
+    "opciones": [
+      "A) Información institucional, organizativa y de planificación.",
+      "B) Información de relevancia jurídica.",
+      "C) Información económica, presupuestaria y estadística.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "232. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las solicitudes de acceso a la información pública se dirigirán a:",
+    "opciones": [
+      "A) La Unidad de Información y Transparencia.",
+      "B) El órgano que posea la información.",
+      "C) El titular del órgano que posea la información.",
+      "D) El responsable de transparencia."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "233. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el plazo máximo para resolver las solicitudes de acceso a la información pública es de:",
+    "opciones": [
+      "A) 10 días hábiles.",
+      "B) 15 días hábiles.",
+      "C) Un mes.",
+      "D) Dos meses."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "234. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el silencio administrativo en las solicitudes de acceso a la información pública será:",
+    "opciones": [
+      "A) Positivo.",
+      "B) Negativo.",
+      "C) Positivo, salvo que afecte a derechos o intereses de terceros.",
+      "D) Negativo, salvo que afecte a derechos o intereses de terceros."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "235. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, contra las resoluciones expresas o presuntas en materia de acceso a la información pública podrá interponerse:",
+    "opciones": [
+      "A) Recurso de alzada.",
+      "B) Recurso contencioso-administrativo.",
+      "C) Reclamación ante el Consejo de Transparencia y Buen Gobierno.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "236. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el Consejo de Transparencia y Buen Gobierno es:",
+    "opciones": [
+      "A) Un organismo público independiente.",
+      "B) Un órgano consultivo.",
+      "C) Un órgano de control.",
+      "D) Un órgano de gestión."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "237. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el ámbito subjetivo de aplicación de las obligaciones de buen gobierno incluye a:",
+    "opciones": [
+      "A) Los miembros del Gobierno y los Secretarios de Estado.",
+      "B) Los Subsecretarios y Directores Generales.",
+      "C) Los presidentes y directores de organismos públicos.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "238. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las obligaciones de buen gobierno incluyen:",
+    "opciones": [
+      "A) El ejercicio de las funciones con objetividad, imparcialidad e integridad.",
+      "B) La dedicación exclusiva al servicio público.",
+      "C) La abstención en los asuntos en que exista conflicto de intereses.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "239. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el incumplimiento de las obligaciones de buen gobierno dará lugar a:",
+    "opciones": [
+      "A) Responsabilidad política.",
+      "B) Responsabilidad administrativa.",
+      "C) Responsabilidad penal.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 1
+  },
+  {
+    "pregunta": "240. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el régimen sancionador se aplicará por el incumplimiento de:",
+    "opciones": [
+      "A) Las obligaciones de publicidad activa.",
+      "B) Las obligaciones de acceso a la información pública.",
+      "C) Las obligaciones de buen gobierno.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "241. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las infracciones en materia de buen gobierno se clasifican en:",
+    "opciones": [
+      "A) Leves, graves y muy graves.",
+      "B) Leves y graves.",
+      "C) Graves y muy graves.",
+      "D) Muy graves."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "242. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las sanciones por infracciones en materia de buen gobierno pueden ser:",
+    "opciones": [
+      "A) Multa y destitución del cargo.",
+      "B) Multa y apercibimiento.",
+      "C) Multa y suspensión de funciones.",
+      "D) Multa y inhabilitación."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "243. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la destitución del cargo por infracciones muy graves en materia de buen gobierno conllevará la imposibilidad de volver a ocupar un cargo de alto nivel en la Administración Pública durante un período de:",
+    "opciones": [
+      "A) Uno a tres años.",
+      "B) Tres a cinco años.",
+      "C) Cinco a diez años.",
+      "D) No hay un período mínimo establecido."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "244. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el registro de actividades y bienes de los altos cargos deberá ser:",
+    "opciones": [
+      "A) Público.",
+      "B) Reservado.",
+      "C) Confidencial.",
+      "D) Secreto."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "245. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la publicidad de los contratos públicos se realizará a través de:",
+    "opciones": [
+      "A) El Perfil de Contratante.",
+      "B) El Boletín Oficial del Estado.",
+      "C) El Diario Oficial de la Unión Europea.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "246. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la publicidad de los convenios de colaboración se realizará a través de:",
+    "opciones": [
+      "A) El Boletín Oficial del Estado o diario oficial correspondiente.",
+      "B) El Perfil de Contratante.",
+      "C) La Plataforma de Contratación del Sector Público.",
+      "D) El Registro de Convenios."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "247. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la información que debe ser publicada en el Portal de la Transparencia deberá estar organizada de forma:",
+    "opciones": [
+      "A) Clara, estructurada y comprensible.",
+      "B) Cronológica y temática.",
+      "C) Por órganos y unidades administrativas.",
+      "D) Por tipos de información."
+    ],
+    "respuesta_correcta": 0
+  },
+  {
+    "pregunta": "248. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, los datos personales serán objeto de publicación en el Portal de la Transparencia cuando:",
+    "opciones": [
+      "A) Sean necesarios para el ejercicio de un derecho o interés legítimo.",
+      "B) Estén relacionados con la organización y funcionamiento de la Administración Pública.",
+      "C) Sean datos meramente identificativos de los altos cargos y empleados públicos.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 2
+  },
+  {
+    "pregunta": "249. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el Portal de la Transparencia es:",
+    "opciones": [
+      "A) Un instrumento para facilitar el acceso de los ciudadanos a la información pública.",
+      "B) Un instrumento para garantizar la publicidad activa de la Administración Pública.",
+      "C) Un instrumento para fomentar el buen gobierno de la Administración Pública.",
+      "D) Todas las anteriores."
+    ],
+    "respuesta_correcta": 3
+  },
+  {
+    "pregunta": "250. Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el seguimiento del cumplimiento de las obligaciones de transparencia se realizará por:",
+    "opciones": [
+      "A) El Consejo de Transparencia y Buen Gobierno.",
+      "B) La Agencia Española de Protección de Datos.",
+      "C) El Tribunal de Cuentas.",
+      "D) La Intervención General de la Administración del Estado."
+    ],
+    "respuesta_correcta": 0
+  }
+]
